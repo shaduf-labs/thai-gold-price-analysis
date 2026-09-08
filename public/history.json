@@ -11,6 +11,17 @@
       "summary": "รอบที่ 28 เวลา 17:22 น. พร้อมประวัติระหว่างวัน สูตรคำนวณ และข้อจำกัดของราคาอ้างอิง",
       "report_path": "/p/thai-gold-price-analysis/reports/20260907-88c2aa49b30a2209b3fa5da8908073a8.html",
       "entrypoint": "reports/20260907-88c2aa49b30a2209b3fa5da8908073a8.html"
+    },
+    {
+      "run_id": "run:250b51da-e4f7-4d62-a3d5-1d7292ed86b1",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-08T11:06:27.262Z",
+      "completed_at": "2026-09-08T11:21:31.038Z",
+      "title": "24 รอบไม่ใช่เลขเดียว: ราคาทองต้องอ่านคู่เวลาและต้นทุน",
+      "summary": "รอบที่ 24 เวลา 16:11 น. พร้อมประวัติ 24 รอบ เช็กรายการทอง และต้นทุนดิจิทัลที่ต้องถามเพิ่ม",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260908-250b51da.html",
+      "entrypoint": "reports/20260908-250b51da.html"
     }
   ]
 }

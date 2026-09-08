@@ -2,28 +2,34 @@
   "schema_version": "1.0.0",
   "items": [
     {
-      "change_id": "change:quote-round-28",
-      "changed_at": "2026-09-07T18:48:00.698Z",
-      "summary": "เพิ่มสรุปราคาประกาศรอบที่ 28 พร้อมเวลา แหล่งข้อมูล ด้านราคา และคำเตือนว่าเป็นราคาอ้างอิง",
+      "change_id": "change:quote-round-24-20260908",
+      "changed_at": "2026-09-08T11:06:27.262Z",
+      "summary": "อัปเดตราคาประกาศรอบที่ 24 พร้อมเวลา อายุข้อมูล ด้านราคา และคำเตือนว่าเป็นราคาอ้างอิง",
       "path": "/p/thai-gold-price-analysis/"
     },
     {
-      "change_id": "change:intraday-history",
-      "changed_at": "2026-09-07T18:48:00.698Z",
-      "summary": "เพิ่มประวัติ 28 รอบและตัวอย่างส่วนต่างเพื่อแยกการเปลี่ยนแปลงระหว่างวัน",
+      "change_id": "change:intraday-history-24-rounds-20260908",
+      "changed_at": "2026-09-08T11:06:27.262Z",
+      "summary": "เพิ่มประวัติ 24 รอบและฐานเปรียบเทียบระหว่างราคาเปิด ราคาสูงสุด ราคาต่ำสุด และรอบสุดท้ายที่พบ",
       "path": "/p/thai-gold-price-analysis/history/"
     },
     {
-      "change_id": "change:transparent-calculation",
-      "changed_at": "2026-09-07T18:48:00.698Z",
-      "summary": "เพิ่มตัวอย่างคำนวณทอง 1 สลึงด้วยสูตรเปิดเผยและรายการต้นทุนที่ยังไม่ทราบ",
+      "change_id": "change:item-identity-checklist-20260908",
+      "changed_at": "2026-09-08T11:06:27.262Z",
+      "summary": "เพิ่มรายการตรวจชนิดทอง ความบริสุทธิ์ ฉลาก น้ำหนัก ชื่อและที่ตั้งผู้ขาย และใบรับจากหลักฐานคุ้มครองผู้บริโภค",
+      "path": "/p/thai-gold-price-analysis/compare/"
+    },
+    {
+      "change_id": "change:transparent-calculation-20260908",
+      "changed_at": "2026-09-08T11:06:27.262Z",
+      "summary": "อัปเดตตัวอย่างคำนวณทอง 1 สลึงด้วยสูตรเปิดเผย และแยกค่าใช้จ่ายที่ยังไม่ทราบ",
       "path": "/p/thai-gold-price-analysis/tools/"
     },
     {
-      "change_id": "change:digital-terms-context",
-      "changed_at": "2026-09-07T18:48:00.698Z",
-      "summary": "เพิ่มบริบทเปรียบเทียบหน่วยขั้นต่ำ สกุลเงิน และการถอนของบริการดิจิทัลโดยไม่จัดอันดับผู้ให้บริการ",
-      "path": "/p/thai-gold-price-analysis/reports/"
+      "change_id": "change:digital-terms-context-20260908",
+      "changed_at": "2026-09-08T11:06:27.262Z",
+      "summary": "เพิ่มบริบทส่วนต่าง ค่าธุรกรรม ค่าถอน ค่าบล็อก และค่าจัดส่งของบริการดิจิทัลโดยไม่จัดอันดับผู้ให้บริการ",
+      "path": "/p/thai-gold-price-analysis/"
     }
   ]
 }
