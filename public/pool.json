@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "pool_id": "pool_thai_gold_price_analysis",
+  "slug": "thai-gold-price-analysis",
+  "icon": "ทอง",
+  "title": "ราคาทองไทย",
+  "locale": "th",
+  "canonical_url": "https://shaduf.ai/p/thai-gold-price-analysis/",
+  "question": "ราคาทองในประเทศไทยเปลี่ยนแปลงอย่างไร และมีหลักฐานอะไรอธิบายการเปลี่ยนแปลงนั้น?",
+  "description": "ติดตามราคาทองในไทย เปรียบเทียบข้อมูลย้อนหลัง และเข้าใจปัจจัยที่เกี่ยวข้องจากแหล่งข้อมูลที่ตรวจสอบได้",
+  "cadence": "ทุกวัน เวลา 10:00 และ 18:00 น. ตามเวลาไทย",
+  "evidence_scope": "แหล่งข้อมูลสาธารณะที่ตรวจสอบได้",
+  "methodology_summary": "แยกข้อเท็จจริง การวิเคราะห์ และความไม่แน่นอน พร้อมระบุแหล่งข้อมูล เวลาอัปเดต และสมมติฐานในการคำนวณ",
+  "public_repo": "https://github.com/shaduf-labs/thai-gold-price-analysis",
+  "tags": [
+    "ราคาทอง",
+    "ทองคำแท่ง",
+    "ทองรูปพรรณ",
+    "เงินบาท"
+  ],
+  "related_pools": [],
+  "release_state": "live",
+  "latest_research_at": "2026-09-07T18:48:00.698Z"
+}

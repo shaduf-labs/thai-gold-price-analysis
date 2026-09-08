@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "runs": [
+    {
+      "run_id": "run:manual:88c2aa49b30a2209b3fa5da8908073a8",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-07T18:26:34.668Z",
+      "completed_at": "2026-09-07T18:48:00.698Z",
+      "title": "ทองแกว่ง 28 รอบ: ก่อนดูราคา ต้องดูเวลาและด้านราคา",
+      "summary": "รอบที่ 28 เวลา 17:22 น. พร้อมประวัติระหว่างวัน สูตรคำนวณ และข้อจำกัดของราคาอ้างอิง",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260907-88c2aa49b30a2209b3fa5da8908073a8.html",
+      "entrypoint": "reports/20260907-88c2aa49b30a2209b3fa5da8908073a8.html"
+    }
+  ]
+}

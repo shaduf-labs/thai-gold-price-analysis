@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0.0",
+  "items": [
+    {
+      "change_id": "change:quote-round-28",
+      "changed_at": "2026-09-07T18:48:00.698Z",
+      "summary": "เพิ่มสรุปราคาประกาศรอบที่ 28 พร้อมเวลา แหล่งข้อมูล ด้านราคา และคำเตือนว่าเป็นราคาอ้างอิง",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:intraday-history",
+      "changed_at": "2026-09-07T18:48:00.698Z",
+      "summary": "เพิ่มประวัติ 28 รอบและตัวอย่างส่วนต่างเพื่อแยกการเปลี่ยนแปลงระหว่างวัน",
+      "path": "/p/thai-gold-price-analysis/history/"
+    },
+    {
+      "change_id": "change:transparent-calculation",
+      "changed_at": "2026-09-07T18:48:00.698Z",
+      "summary": "เพิ่มตัวอย่างคำนวณทอง 1 สลึงด้วยสูตรเปิดเผยและรายการต้นทุนที่ยังไม่ทราบ",
+      "path": "/p/thai-gold-price-analysis/tools/"
+    },
+    {
+      "change_id": "change:digital-terms-context",
+      "changed_at": "2026-09-07T18:48:00.698Z",
+      "summary": "เพิ่มบริบทเปรียบเทียบหน่วยขั้นต่ำ สกุลเงิน และการถอนของบริการดิจิทัลโดยไม่จัดอันดับผู้ให้บริการ",
+      "path": "/p/thai-gold-price-analysis/reports/"
+    }
+  ]
+}
