@@ -30,6 +30,36 @@
       "changed_at": "2026-09-08T11:06:27.262Z",
       "summary": "เพิ่มบริบทส่วนต่าง ค่าธุรกรรม ค่าถอน ค่าบล็อก และค่าจัดส่งของบริการดิจิทัลโดยไม่จัดอันดับผู้ให้บริการ",
       "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:quote-round-2-20260909",
+      "changed_at": "2026-09-09T03:10:12.607Z",
+      "summary": "อัปเดตราคาประกาศรอบที่ 2 พร้อมเวลา อายุข้อมูล และฐานเทียบกับรอบเปิดและรอบสุดท้ายของวันก่อน",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:morning-round-history-20260909",
+      "changed_at": "2026-09-09T03:10:12.607Z",
+      "summary": "เพิ่มประวัติ 2 รอบที่ตรวจพบและระบุชัดว่ายังไม่ใช่ราคาปิดของวันที่ 9 ก.ย.",
+      "path": "/p/thai-gold-price-analysis/history/"
+    },
+    {
+      "change_id": "change:saving-terms-fields-20260909",
+      "changed_at": "2026-09-09T03:10:12.607Z",
+      "summary": "เพิ่มตารางเงื่อนไขออมทองที่แยกสกุลเงิน หน่วยขั้นต่ำ การถอน ค่าธรรมเนียม และรายการที่ต้องถามเพิ่ม",
+      "path": "/p/thai-gold-price-analysis/compare/"
+    },
+    {
+      "change_id": "change:provider-timestamp-check-20260909",
+      "changed_at": "2026-09-09T03:10:12.607Z",
+      "summary": "เพิ่มตัวอย่างตรวจป้ายความสดเทียบกับ timestamp ของผู้ให้บริการ และกติกาแพลตฟอร์มจาก ธปท.",
+      "path": "/p/thai-gold-price-analysis/reports/"
+    },
+    {
+      "change_id": "change:morning-calculation-20260909",
+      "changed_at": "2026-09-09T03:10:12.607Z",
+      "summary": "อัปเดตตัวอย่างคำนวณทอง 1 สลึงจากรอบ 2 พร้อมแยกค่าใช้จ่ายที่ยังไม่ทราบ",
+      "path": "/p/thai-gold-price-analysis/tools/"
     }
   ]
 }

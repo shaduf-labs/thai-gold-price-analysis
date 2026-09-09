@@ -7,7 +7,12 @@
     document.querySelectorAll('[data-language-label]').forEach((node) => { node.textContent = locale.toUpperCase() })
     const prioritize = (selector) => document.querySelectorAll(selector).forEach((container) => {
       const items = [...container.children].filter((item) => item.matches('[data-locale]'))
-      items.sort((a, b) => Number(b.dataset.locale === locale) - Number(a.dataset.locale === locale)).forEach((item) => container.append(item))
+      items.sort((a, b) => {
+        const freshness = Number(a.dataset.stale === 'true') - Number(b.dataset.stale === 'true')
+        const language = Number(b.dataset.locale === locale) - Number(a.dataset.locale === locale)
+        const originalOrder = Number(a.dataset.catalogueOrder || 0) - Number(b.dataset.catalogueOrder || 0)
+        return freshness || language || originalOrder
+      }).forEach((item) => container.append(item))
     })
     prioritize('.explore-list')
     prioritize('.related-dock')

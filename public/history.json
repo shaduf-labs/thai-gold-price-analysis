@@ -22,6 +22,17 @@
       "summary": "รอบที่ 24 เวลา 16:11 น. พร้อมประวัติ 24 รอบ เช็กรายการทอง และต้นทุนดิจิทัลที่ต้องถามเพิ่ม",
       "report_path": "/p/thai-gold-price-analysis/reports/20260908-250b51da.html",
       "entrypoint": "reports/20260908-250b51da.html"
+    },
+    {
+      "run_id": "run:05472300-8f2e-4b93-b31d-c02ae1aa89d6",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-09T03:07:42.005Z",
+      "completed_at": "2026-09-09T03:23:51.355Z",
+      "title": "รอบที่ 2 ลด 50 บาท: ราคาทองต้องอ่านคู่เวลาและเงื่อนไข",
+      "summary": "รอบที่ 2 เวลา 09:38 น. พร้อมอายุข้อมูล ฐานเทียบจากรอบเปิด กติกาแพลตฟอร์ม และตารางเงื่อนไขออมทองที่ยังต้องตรวจเพิ่ม",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260909-05472300.html",
+      "entrypoint": "reports/20260909-05472300.html"
     }
   ]
 }
