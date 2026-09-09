@@ -2,73 +2,43 @@
   "schema_version": "1.0.0",
   "items": [
     {
-      "evidence_id": "evidence:gta-round-2-20260909",
-      "source_type": "แหล่งข้อมูลทางการ",
+      "evidence_id": "evidence:secondary-late-round-20260909",
+      "source_type": "บันทึกราคาแหล่งรอง",
+      "source_url": "https://xn--42cah7d0cxcvbbb9x.com/",
+      "title": "Gold Price Thai: ตารางที่ระบุว่าอ้างอิงประกาศสมาคมค้าทองคำ",
+      "claim": "ตารางแสดงรอบที่ 21 เวลา 17:20 น.: ทองแท่ง 96.5% รับซื้อ 68,250 บาทและขายออก 68,450 บาท; ทองรูปพรรณ 66,885.92/69,250 บาท พร้อม Gold Spot 4,394.00 และ THB 32.91 แหล่งนี้เป็นผู้เผยแพร่ต่อ ไม่ใช่ราคาหน้าร้าน",
+      "accessed_at": "2026-09-09T11:06:30.961Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:kapook-round-19-20260909",
+      "source_type": "บันทึกราคาแหล่งรอง",
+      "source_url": "https://money.kapook.com/gold",
+      "title": "Kapook: ราคาทองวันนี้",
+      "claim": "หน้าเว็บระบุว่าอ้างอิงสมาคมค้าทองคำและแสดงถึงรอบ 19 เวลา 16:07 น. โดยทองแท่ง 68,250/68,450 บาท ใช้ตรวจจุดที่ทับซ้อนกับบันทึกแหล่งรองอีกหน้า ไม่ได้ยืนยันรอบ 20–21",
+      "accessed_at": "2026-09-09T11:06:30.961Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:official-page-retrieval-limit-20260909",
+      "source_type": "หน้าราคาแหล่งต้นทาง",
       "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
-      "title": "ประกาศราคาทองตามสมาคมค้าทองคำ วันที่ 9 ก.ย. 2569",
-      "claim": "หน้าแหล่งข้อมูลแสดงรอบที่ 2 เวลา 09:38 น. (เวลาไทย): ทองแท่ง 96.5% รับซื้อ 67,900 บาทและขายออก 68,100 บาท; ทองรูปพรรณรับซื้อ 66,537.24 บาทและขายออก 68,900 บาทต่อบาททองคำ พร้อม Gold Spot 4,371.00 และ THB 32.90",
-      "accessed_at": "2026-09-09T03:10:12.607Z",
-      "relation": "supports",
-      "publication_basis": "linked-summary"
-    },
-    {
-      "evidence_id": "evidence:hua-monthly-20260909",
-      "source_type": "หน้าเงื่อนไขผู้ให้บริการ",
-      "source_url": "https://www.huasengheng.com/gold-savings/goldsaving_monthly/",
-      "title": "ฮั่วเซ่งเฮง: ออมทองรายเดือน",
-      "claim": "หน้าเว็บระบุออมขั้นต่ำ 1,000 บาทต่อเดือน ถอนทองเริ่ม 0.25 บาท และมีค่าธุรกรรมธนาคารตามช่องทาง; ใช้เป็นข้อมูลผู้ให้บริการ ไม่ใช่การตรวจต้นทุนรวม",
-      "accessed_at": "2026-09-09T03:10:12.607Z",
-      "relation": "context",
-      "publication_basis": "linked-summary"
-    },
-    {
-      "evidence_id": "evidence:truemoney-saving-20260909",
-      "source_type": "หน้าเงื่อนไขผู้ให้บริการ",
-      "source_url": "https://www.truemoney.com/inapp/gold-saving/",
-      "title": "TrueMoney: ออมทองและซื้อทอง",
-      "claim": "หน้าเว็บโฆษณาเริ่มออม 100 บาทและทอง 96.5% พร้อมการเปลี่ยนเป็นทองจริงเมื่อครบขั้นต่ำ; ขั้นต่ำถอนและต้นทุนรวมต้องตรวจเงื่อนไขปัจจุบัน",
-      "accessed_at": "2026-09-09T03:10:12.607Z",
-      "relation": "context",
-      "publication_basis": "linked-summary"
-    },
-    {
-      "evidence_id": "evidence:scb-marketplace-20260909",
-      "source_type": "ประกาศธนาคารและบริการ",
-      "source_url": "https://www.scb.co.th/th/about-us/news/aug-2569/scb-gold-marketplace.html",
-      "title": "SCB Gold Marketplace",
-      "claim": "ประกาศระบุการซื้อขายเป็น USD ผ่าน e-FCD ทอง 96.5% เริ่ม 0.05 บาททอง ทอง 99.99% เริ่ม 0.05 ออนซ์ และมีค่าบล็อกหรือค่าจัดส่งประกันภัยเมื่อรับทองจริงตามเงื่อนไข",
-      "accessed_at": "2026-09-09T03:10:12.607Z",
-      "relation": "context",
-      "publication_basis": "linked-summary"
-    },
-    {
-      "evidence_id": "evidence:bot-rules-20260909",
-      "source_type": "ประกาศธนาคารกลาง",
-      "source_url": "https://www.bot.or.th/content/dam/bot/documents/th/news-and-media/news/2026/news-20260130-2.pdf",
-      "title": "ธปท.: กติกาซื้อขายทองบนแพลตฟอร์มออนไลน์",
-      "claim": "ประกาศมีผล 1 มี.ค. 2569 และระบุวงเงินกับเงื่อนไขการชำระเงิน การรับมอบ และการขายชอร์ตตามขอบเขตของมาตรการ; เป็นบริบทกำกับดูแล ไม่ใช่การรับรองผู้ให้บริการ",
-      "accessed_at": "2026-09-09T03:10:12.607Z",
-      "relation": "supports",
-      "publication_basis": "linked-summary"
-    },
-    {
-      "evidence_id": "evidence:ylg-freshness-20260909",
-      "source_type": "หน้าราคาผู้ให้บริการ",
-      "source_url": "https://www.ylgcorporation.co.th/en",
-      "title": "YLG: หน้าราคาและผลิตภัณฑ์",
-      "claim": "หน้าเว็บติดป้าย Real Time แต่เมื่อเช็ก 9 ก.ย. 2569 แสดงเวลาราคา 8 ก.ย. 2569 เวลา 15:03 น.; ใช้เป็นตัวอย่างว่าต้องอ่าน timestamp แยกจากป้ายความสด",
-      "accessed_at": "2026-09-09T03:10:12.607Z",
+      "title": "สมาคมค้าทองคำ: หน้าราคาประจำวัน",
+      "claim": "หน้าแบบไดนามิกไม่คืนชุดปลายวันที่ตรวจผ่านเส้นทางการวิจัยนี้ จึงใช้เป็นข้อจำกัดของการยืนยันแหล่งต้นทาง ไม่ใช่ข้อสรุปว่าไม่มีการประกาศราคา",
+      "accessed_at": "2026-09-09T11:06:30.961Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
     },
     {
-      "evidence_id": "evidence:google-trends-recheck-20260909",
-      "source_type": "เครื่องมือค้นหา",
-      "source_url": "https://trends.google.com/trends/?hl=th",
-      "title": "Google Trends ภาษาไทย",
-      "claim": "หน้าแรกโหลดได้ แต่การเปรียบเทียบคำค้นทองแบบไดนามิกยังไม่คืนลำดับตัวเลขที่ตรวจซ้ำได้ในการรันนี้",
-      "accessed_at": "2026-09-09T03:10:12.607Z",
-      "relation": "limits",
+      "evidence_id": "evidence:kbank-gold-terms-20260909",
+      "source_type": "บทความผู้ให้บริการ",
+      "source_url": "https://www.kasikornbank.com/th/kwealth/Pages/a441-t4-evg-gold-saving-tool-kgth.aspx",
+      "title": "KBank: ออม-ลงทุนทองคำ ทุกที่ได้ด้วยมือถือเครื่องเดียว",
+      "claim": "บทความลงวันที่ 19 มิ.ย. 2567 อธิบาย USD wallet ขั้นต่ำรับทอง และค่าบล็อกหรือจัดส่ง ใช้เป็นตัวอย่างว่าต้องตรวจสกุลเงินและเงื่อนไขรับทอง ไม่ใช่ค่าธรรมเนียมปัจจุบันหรือการจัดอันดับ",
+      "accessed_at": "2026-09-09T11:06:30.961Z",
+      "relation": "context",
       "publication_basis": "linked-summary"
     }
   ]

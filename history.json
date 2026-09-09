@@ -33,6 +33,17 @@
       "summary": "รอบที่ 2 เวลา 09:38 น. พร้อมอายุข้อมูล ฐานเทียบจากรอบเปิด กติกาแพลตฟอร์ม และตารางเงื่อนไขออมทองที่ยังต้องตรวจเพิ่ม",
       "report_path": "/p/thai-gold-price-analysis/reports/20260909-05472300.html",
       "entrypoint": "reports/20260909-05472300.html"
+    },
+    {
+      "run_id": "run:94e421b1-d551-47b8-9993-f897b90f7dca",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-09T11:00:00.000Z",
+      "completed_at": "2026-09-09T11:16:05.163Z",
+      "title": "21 รอบในวันเดียว: ทองแท่งกลับขึ้นจากเปิด แต่แหล่งต้นทางต้องตามต่อ",
+      "summary": "บันทึกรอบ 21 เวลา 17:20 น. พร้อมสถานะแหล่งรอง การเทียบกับรอบเปิดและวันก่อน และคำถามเรื่องสกุลเงินเมื่อขายกลับ",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260909-94e421b1.html",
+      "entrypoint": "reports/20260909-94e421b1.html"
     }
   ]
 }

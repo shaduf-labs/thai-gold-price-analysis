@@ -60,6 +60,30 @@
       "changed_at": "2026-09-09T03:10:12.607Z",
       "summary": "อัปเดตตัวอย่างคำนวณทอง 1 สลึงจากรอบ 2 พร้อมแยกค่าใช้จ่ายที่ยังไม่ทราบ",
       "path": "/p/thai-gold-price-analysis/tools/"
+    },
+    {
+      "change_id": "change:late-secondary-quote-20260909",
+      "changed_at": "2026-09-09T11:14:42.980Z",
+      "summary": "อัปเดตบันทึกรอบที่ 21 พร้อมเวลา อายุข้อมูล และระบุชัดว่าชุดปลายวันนี้มาจากแหล่งรองที่ระบุว่าอ้างอิงสมาคมฯ",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:21-round-source-status-20260909",
+      "changed_at": "2026-09-09T11:14:42.980Z",
+      "summary": "เพิ่มจุดเทียบเปิด สูงสุด ต่ำสุด และปลายวันของ 21 รอบ พร้อมแยกสถานะแหล่งรองกับข้อจำกัดการยืนยันต้นทาง",
+      "path": "/p/thai-gold-price-analysis/history/"
+    },
+    {
+      "change_id": "change:cashout-currency-check-20260909",
+      "changed_at": "2026-09-09T11:14:42.980Z",
+      "summary": "เพิ่มคำถามเรื่องสกุลเงินเมื่อขายกลับ ชั่วโมงทำรายการ ขั้นต่ำรับทอง และค่ารับทองจริงก่อนเทียบบริการออมทอง",
+      "path": "/p/thai-gold-price-analysis/compare/"
+    },
+    {
+      "change_id": "change:late-salung-calculation-20260909",
+      "changed_at": "2026-09-09T11:14:42.980Z",
+      "summary": "อัปเดตตัวอย่างคำนวณทอง 1 สลึงจากบันทึกรอบที่ 21 พร้อมระบุว่าเป็นการหารจากราคาอ้างอิงของแหล่งรอง",
+      "path": "/p/thai-gold-price-analysis/tools/"
     }
   ]
 }
