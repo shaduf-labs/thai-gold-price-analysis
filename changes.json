@@ -102,6 +102,24 @@
       "changed_at": "2026-09-10T03:07:54.134Z",
       "summary": "อัปเดตตัวอย่างคำนวณทอง 1 สลึงจากประกาศแหล่งต้นทางรอบที่ 2 และคงรายการค่าใช้จ่ายที่ยังไม่ทราบ",
       "path": "/p/thai-gold-price-analysis/tools/"
+    },
+    {
+      "change_id": "change:association-endpoint-provenance-20260910",
+      "changed_at": "2026-09-10T11:09:45.000Z",
+      "summary": "อัปเดตราคาอ้างอิงรอบ 29 พร้อม URL แหล่งต้นทาง และเพิ่มข้อจำกัดเมื่อหน้า newgta กับ www ของสมาคมฯ แสดงคนละรอบ",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:four-checkpoint-history-20260910",
+      "changed_at": "2026-09-10T11:09:45.000Z",
+      "summary": "เพิ่มตาราง 4 จุดที่ตรวจยืนยันจากเปิดถึงรอบ 29 โดยไม่อ้างว่าเป็นบันทึกครบวันหรือราคาปิด",
+      "path": "/p/thai-gold-price-analysis/history"
+    },
+    {
+      "change_id": "change:app-bank-terms-boundary-20260910",
+      "changed_at": "2026-09-10T11:09:45.000Z",
+      "summary": "อัปเดตคำเตือนการเทียบออมทอง: ชื่อผู้ให้บริการและหน้าประชาสัมพันธ์ไม่พอแทนตารางเงื่อนไขปัจจุบัน",
+      "path": "/p/thai-gold-price-analysis/compare"
     }
   ]
 }

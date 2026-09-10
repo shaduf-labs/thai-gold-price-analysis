@@ -70,6 +70,46 @@
       "accessed_at": "2026-09-09T11:06:30.961Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-newgta-round29-20260910",
+      "source_type": "official Association endpoint",
+      "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
+      "title": "Gold Traders Association daily prices — newgta endpoint",
+      "claim": "หน้า newgta แสดงวันที่ 10 ก.ย. 2569 รอบ 29 เวลา 16:51 น.: ทองแท่ง 68,350/68,550 บาท และทองรูปพรรณ 66,976.88/69,350 บาทต่อบาททองคำ",
+      "accessed_at": "2026-09-10T11:09:45.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-www-round28-20260910",
+      "source_type": "official Association endpoint",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "Gold Traders Association daily prices — www endpoint",
+      "claim": "หน้า www แสดงวันที่เดียวกันรอบ 28 เวลา 16:01 น.: ทองแท่ง 68,300/68,500 บาท และทองรูปพรรณ 66,931.40/69,300 บาทต่อบาททองคำ",
+      "accessed_at": "2026-09-10T11:09:45.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:intergold-association-row-20260910",
+      "source_type": "commercial quote display",
+      "source_url": "https://www.intergold.co.th/gold-price/",
+      "title": "InterGOLD price page",
+      "claim": "หน้า InterGOLD แสดงเวลา 17:58:02 และแถวสมาคมฯ 68,350/68,550 บาท ซึ่งตรงกับคู่จากหน้า newgta; ไม่ได้อธิบายสาเหตุที่สอง URL ของสมาคมฯ ต่างกัน",
+      "accessed_at": "2026-09-10T11:09:45.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:kplus-landing-20260910",
+      "source_type": "commercial product landing page",
+      "source_url": "https://www.kasikornbank.com/th/promotion/pages/gold-plus.aspx",
+      "title": "K PLUS online gold-saving landing page",
+      "claim": "หน้าปัจจุบันระบุออมทองกับแม่ทองสุก แต่ข้อความที่เข้าถึงได้ไม่ใช่ตารางเงื่อนไขเปรียบเทียบปัจจุบัน จึงไม่ใช้จัดอันดับผู้ให้บริการ",
+      "accessed_at": "2026-09-10T11:09:45.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }
