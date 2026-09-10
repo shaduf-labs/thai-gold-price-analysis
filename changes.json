@@ -84,6 +84,24 @@
       "changed_at": "2026-09-09T11:14:42.980Z",
       "summary": "อัปเดตตัวอย่างคำนวณทอง 1 สลึงจากบันทึกรอบที่ 21 พร้อมระบุว่าเป็นการหารจากราคาอ้างอิงของแหล่งรอง",
       "path": "/p/thai-gold-price-analysis/tools/"
+    },
+    {
+      "change_id": "change:primary-morning-round2-20260910",
+      "changed_at": "2026-09-10T03:07:54.134Z",
+      "summary": "อัปเดตราคาแหล่งต้นทางรอบที่ 2 เวลา 09:40 น. พร้อมแยกรับซื้อ ขายออก อายุข้อมูล และฐานเทียบจากรอบเปิด",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:cross-source-round-check-20260910",
+      "changed_at": "2026-09-10T03:07:54.134Z",
+      "summary": "เพิ่มบทเรียนว่าเวลาบนหน้าผู้ให้บริการอย่างเดียวไม่บอกว่าตัวเลขอ้างถึงรอบใด พร้อมสถานะเป็นสแนปชอตที่ยังต้องทดสอบต่อ",
+      "path": "/p/thai-gold-price-analysis/reports/"
+    },
+    {
+      "change_id": "change:primary-salung-calculation-20260910",
+      "changed_at": "2026-09-10T03:07:54.134Z",
+      "summary": "อัปเดตตัวอย่างคำนวณทอง 1 สลึงจากประกาศแหล่งต้นทางรอบที่ 2 และคงรายการค่าใช้จ่ายที่ยังไม่ทราบ",
+      "path": "/p/thai-gold-price-analysis/tools/"
     }
   ]
 }

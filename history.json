@@ -44,6 +44,17 @@
       "summary": "บันทึกรอบ 21 เวลา 17:20 น. พร้อมสถานะแหล่งรอง การเทียบกับรอบเปิดและวันก่อน และคำถามเรื่องสกุลเงินเมื่อขายกลับ",
       "report_path": "/p/thai-gold-price-analysis/reports/20260909-94e421b1.html",
       "entrypoint": "reports/20260909-94e421b1.html"
+    },
+    {
+      "run_id": "run:06e17ff0-8a6c-47df-b5a5-0b768eb7c381",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-10T03:00:00.000Z",
+      "completed_at": "2026-09-10T03:16:53.098Z",
+      "title": "36 นาที ขึ้นอีก 100 บาท: เช็กรอบก่อนใช้ราคาทองแท่ง 68,800 บาท",
+      "summary": "ประกาศสมาคมฯ รอบ 2 เวลา 09:40 น. พร้อมประวัติ 2 รอบ สูตร 1 สลึง และสแนปชอตที่แยกเวลาบนหน้าจากรอบอ้างอิง",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260910-06e17ff0.html",
+      "entrypoint": "reports/20260910-06e17ff0.html"
     }
   ]
 }

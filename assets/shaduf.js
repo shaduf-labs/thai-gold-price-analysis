@@ -87,6 +87,7 @@
       }
       for (const { item } of matches) {
         const link = document.createElement('a')
+        link.className = 'search-result'
         link.href = item.href
         const meta = document.createElement('small')
         meta.textContent = item.kind
@@ -206,13 +207,14 @@
   })
 
   document.querySelector('[data-follow]')?.addEventListener('click', async (event) => {
+    const button = event.currentTarget
     const current = await session()
     if (!current.authenticated) {
       location.href = `/api/auth/github/start?return_to=${encodeURIComponent(location.pathname)}`
       return
     }
     const response = await fetch(`/api/follows/${encodeURIComponent(body.dataset.poolId || '')}`, { method: 'POST', headers: { 'x-shaduf-csrf': current.csrf_token || '' } })
-    if (response.ok) { event.currentTarget.textContent = 'Following'; showToast('Pool saved — notifications are not enabled') }
+    if (response.ok) { button.textContent = 'Following'; showToast('Pool saved — notifications are not enabled') }
     else showToast('Follow could not be saved')
   })
 
