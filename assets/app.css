@@ -99,3 +99,5 @@ body[data-kind="home"] .transition-layer{left:0;right:0}
 .transition-layer.visible .shaduf-loading{animation:rise-in .24s both}
 @media(max-width:440px){.shaduf-loading{width:calc(100% - 32px)}.shaduf-plaque{left:24.5%;width:30.5%;padding:4px 3px}.shaduf-loading-caption{padding:15px 12px 0}#transition-title{font-size:27px}}
 @media(max-height:580px){.shaduf-loading{width:min(340px,calc(100% - 40px));padding:0}.shaduf-loading-caption{padding-top:0}.transition-status{margin-bottom:5px}#transition-title{font-size:24px;max-height:62px}.shaduf-plaque{top:59%}}
+
+.pool-research-model b{min-width:0;overflow-wrap:anywhere}.pool-research-model small{display:block;font-size:11px;color:var(--muted);margin-top:2px}

@@ -110,6 +110,36 @@
       "accessed_at": "2026-09-10T11:09:45.000Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-newgta-round2-20260911",
+      "source_type": "official Association daily price endpoint",
+      "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
+      "title": "สมาคมค้าทองคำ: daily price endpoint (newgta)",
+      "claim": "วันที่ 11 ก.ย. 2569 รอบ 2 เวลา 09:28 น. แสดงทองแท่ง 96.5% 67,750/67,950 บาท และทองรูปพรรณ 66,400.80/68,750 บาท",
+      "accessed_at": "2026-09-11T03:08:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-www-round2-20260911",
+      "source_type": "official Association daily price endpoint",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "สมาคมค้าทองคำ: daily price endpoint (www)",
+      "claim": "วันที่ 11 ก.ย. 2569 รอบ 2 เวลา 09:28 น. แสดงตัวเลขตรงกับ newgta ในการตรวจครั้งนี้",
+      "accessed_at": "2026-09-11T03:08:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:intergold-association-row-20260911",
+      "source_type": "dealer platform display",
+      "source_url": "https://www.intergold.co.th/gold-price/",
+      "title": "InterGOLD: gold price page",
+      "claim": "เวลาแสดงผล 09:54:36 น. มีแถวสมาคมฯ 67,650/67,850 บาท ซึ่งต่างจากคู่ในหน้า Association รอบ 2",
+      "accessed_at": "2026-09-11T03:08:00.000Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
     }
   ]
 }

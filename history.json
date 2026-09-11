@@ -66,6 +66,17 @@
       "summary": "หน้า newgta รอบ 29 เวลา 16:51 น. เทียบกับหน้า www รอบ 28 เวลา 16:01 น. พร้อม 4 จุดที่ตรวจยืนยันและขอบเขตของราคาอ้างอิง",
       "report_path": "/p/thai-gold-price-analysis/reports/20260910-5193c4b9.html",
       "entrypoint": "reports/20260910-5193c4b9.html"
+    },
+    {
+      "run_id": "run:cfe18ce8-115f-4377-bd4c-f7dd090ae82a",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-11T03:00:00.000Z",
+      "completed_at": "2026-09-11T03:15:00.000Z",
+      "title": "สอง URL ของสมาคมฯ ตรงกันที่ 67,950 บาท แต่หน้าผู้ให้บริการแสดงต่ำกว่า 100 บาท",
+      "summary": "ราคาอ้างอิงรอบ 2 เวลา 09:28 น. จากหน้า newgta และ www ที่ตรงกัน พร้อมสองรอบแรก ตัวอย่าง 1 สลึง และขอบเขตของการเทียบหน้าผู้ให้บริการ",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260911-cfe18ce8.html",
+      "entrypoint": "reports/20260911-cfe18ce8.html"
     }
   ]
 }

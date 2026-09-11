@@ -120,6 +120,36 @@
       "changed_at": "2026-09-10T11:09:45.000Z",
       "summary": "อัปเดตคำเตือนการเทียบออมทอง: ชื่อผู้ให้บริการและหน้าประชาสัมพันธ์ไม่พอแทนตารางเงื่อนไขปัจจุบัน",
       "path": "/p/thai-gold-price-analysis/compare"
+    },
+    {
+      "change_id": "change:aligned-primary-morning-round2-20260911",
+      "changed_at": "2026-09-11T03:08:00.000Z",
+      "summary": "อัปเดตราคาแหล่งต้นทางรอบที่ 2 เวลา 09:28 น. เมื่อหน้า newgta และ www แสดงตัวเลขตรงกัน พร้อมแยกรับซื้อ ขายออก และขอบเขตราคาอ้างอิง",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:provider-row-mismatch-20260911",
+      "changed_at": "2026-09-11T03:08:00.000Z",
+      "summary": "เพิ่มผลตรวจว่าหน้า InterGOLD ที่แสดงเวลา 09:54:36 น. มีแถวสมาคมฯ ต่ำกว่าคู่ของแหล่งต้นทางรอบ 2 ข้างละ 100 บาท โดยไม่อ้างว่าเป็นสถิติความหน่วง",
+      "path": "/p/thai-gold-price-analysis/today/"
+    },
+    {
+      "change_id": "change:two-round-history-20260911",
+      "changed_at": "2026-09-11T03:08:00.000Z",
+      "summary": "เพิ่มจุดเทียบสองรอบแรกของวันที่ 11 ก.ย. และระบุว่ารอบ 2 ลด 50 บาทจากรอบเปิด แต่ยังไม่ใช่ราคาปิด",
+      "path": "/p/thai-gold-price-analysis/history/"
+    },
+    {
+      "change_id": "change:aligned-salung-calculation-20260911",
+      "changed_at": "2026-09-11T03:08:00.000Z",
+      "summary": "อัปเดตตัวอย่างคำนวณทอง 1 สลึงจากราคาอ้างอิงรอบ 2 ที่สอง URL ของสมาคมฯ แสดงตรงกัน พร้อมรายการค่าใช้จ่ายที่ยังไม่ทราบ",
+      "path": "/p/thai-gold-price-analysis/tools/"
+    },
+    {
+      "change_id": "change:small-sum-terms-reminder-20260911",
+      "changed_at": "2026-09-11T03:08:00.000Z",
+      "summary": "ย้ำรายการเงื่อนไขที่ต้องถามก่อนออมทอง หลังพบคำถามชุมชนเรื่องการเริ่มออมจำนวนเล็ก โดยไม่จัดอันดับผู้ให้บริการ",
+      "path": "/p/thai-gold-price-analysis/compare/"
     }
   ]
 }

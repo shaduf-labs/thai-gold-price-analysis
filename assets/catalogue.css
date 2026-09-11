@@ -28,3 +28,5 @@ html{scroll-padding-top:calc(var(--header) + 20px)}
 @media(max-width:700px){.catalogue-tag-popover{position:fixed;left:20px;right:20px;top:calc(var(--header) + 114px);width:auto;max-height:calc(100dvh - var(--header) - 145px);overflow:auto}.catalogue-tag-options{max-height:200px}}
 
 .catalogue-active-filters{display:flex;align-items:center;flex-wrap:wrap;gap:7px;padding-top:12px}.catalogue-active-filters[hidden]{display:none}.catalogue-active-filters button{display:inline-flex;align-items:center;gap:9px;border:1px solid #c4d7e4;border-radius:7px;background:#e9f1f6;color:#35556b;padding:6px 10px;font:12px var(--ui)}.catalogue-active-filters button:hover{background:#dceaf3;border-color:#a8c3d5}.catalogue-active-filters button>span{font-size:17px;line-height:1}
+
+.pool-card-model{margin:12px 0 0;font:12px/1.5 var(--ui);color:var(--secondary);overflow-wrap:anywhere}.pool-card-model>span{color:var(--muted)}
