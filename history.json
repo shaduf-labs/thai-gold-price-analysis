@@ -77,6 +77,17 @@
       "summary": "ราคาอ้างอิงรอบ 2 เวลา 09:28 น. จากหน้า newgta และ www ที่ตรงกัน พร้อมสองรอบแรก ตัวอย่าง 1 สลึง และขอบเขตของการเทียบหน้าผู้ให้บริการ",
       "report_path": "/p/thai-gold-price-analysis/reports/20260911-cfe18ce8.html",
       "entrypoint": "reports/20260911-cfe18ce8.html"
+    },
+    {
+      "run_id": "run:78adf5df-726f-4b1f-b704-560d229f688a",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-11T11:00:00.000Z",
+      "completed_at": "2026-09-11T11:13:51.000Z",
+      "title": "รอบเย็นเปิดแหล่งต้นทางไม่ได้: อย่าใช้ 67,950 บาทของเช้าแทนราคาตอนนี้",
+      "summary": "เส้นทางตรวจเปิดหน้า newgta และ www ไม่ได้ จึงติดป้ายราคาเช้ารอบ 2 เป็นบันทึกอ้างอิงและให้ตรวจ URL วันที่ เวลา รอบ และด้านราคาใหม่ก่อนทำรายการ",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260911-78adf5df.html",
+      "entrypoint": "reports/20260911-78adf5df.html"
     }
   ]
 }

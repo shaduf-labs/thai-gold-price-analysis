@@ -140,6 +140,26 @@
       "accessed_at": "2026-09-11T03:08:00.000Z",
       "relation": "unresolved",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-newgta-retrieval-limit-20260911-evening",
+      "source_type": "official Association daily price endpoint",
+      "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
+      "title": "สมาคมค้าทองคำ: daily price endpoint (newgta)",
+      "claim": "ในรอบตรวจ 18:08 น. (เวลาไทย) เส้นทางวิจัยนี้ดึงหน้าไม่ได้ จึงไม่ยืนยันประกาศสมาคมฯ หลังรอบ 2 เวลา 09:28 น.; การดึงหน้าไม่ได้ไม่พิสูจน์ว่าเว็บไซต์หรือราคาไม่เปลี่ยน",
+      "accessed_at": "2026-09-11T11:08:06.000Z",
+      "relation": "limits",
+      "publication_basis": "owner-authored"
+    },
+    {
+      "evidence_id": "evidence:gta-www-retrieval-limit-20260911-evening",
+      "source_type": "official Association daily price endpoint",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "สมาคมค้าทองคำ: daily price endpoint (www)",
+      "claim": "ในรอบตรวจ 18:08 น. (เวลาไทย) เส้นทางวิจัยนี้ดึงหน้าไม่ได้ จึงไม่ยืนยันประกาศสมาคมฯ หลังรอบ 2 เวลา 09:28 น.; การดึงหน้าไม่ได้ไม่พิสูจน์ว่าเว็บไซต์หรือราคาไม่เปลี่ยน",
+      "accessed_at": "2026-09-11T11:08:06.000Z",
+      "relation": "limits",
+      "publication_basis": "owner-authored"
     }
   ]
 }
