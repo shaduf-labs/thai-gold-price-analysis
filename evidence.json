@@ -160,6 +160,46 @@
       "accessed_at": "2026-09-11T11:08:06.000Z",
       "relation": "limits",
       "publication_basis": "owner-authored"
+    },
+    {
+      "evidence_id": "evidence:gta-noclassic-round1-20260912",
+      "source_type": "official Association daily price page",
+      "source_url": "https://noclassic.goldtraders.or.th/",
+      "title": "สมาคมค้าทองคำ: noclassic daily page",
+      "claim": "หน้าสมาคมฯ แสดงวันที่ 12 ก.ย. 2569 รอบ 1 เวลา 09:03 น.: ทองแท่ง 96.5% 68,050/68,250 บาท และทองรูปพรรณ 66,688.84/69,050 บาทต่อบาททองคำ",
+      "accessed_at": "2026-09-12T03:09:04.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:intergold-association-row-20260912",
+      "source_type": "dealer and trading-platform quote page",
+      "source_url": "https://www.intergold.co.th/gold-price/",
+      "title": "InterGOLD price page",
+      "claim": "หน้า InterGOLD ที่แสดงเวลา 09:51:50 น. มีแถวสมาคมฯ 68,050/68,250 บาท ตรงกับคู่จากหน้า official ที่ตรวจได้; เป็นหน้าผู้ให้บริการ ไม่ใช่สัญญาการเผยแพร่ของสมาคมฯ",
+      "accessed_at": "2026-09-12T03:09:04.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:goldsabuy-association-row-20260912",
+      "source_type": "commercial price aggregator",
+      "source_url": "https://goldsabuy.com/",
+      "title": "GoldSabuy price page",
+      "claim": "หน้า GoldSabuy ระบุวันที่ 12 ก.ย. 2569 เวลา 09:00 น. รอบ 1 และคู่ทองแท่ง 67,850/68,050 บาท โดยบอกว่าอ้างอิงสมาคมฯ ซึ่งต่างจากหน้า official ที่ตรวจได้ข้างละ 200 บาทและหน้าไม่อธิบายสาเหตุ",
+      "accessed_at": "2026-09-12T03:09:04.000Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:kapook-late-record-20260911",
+      "source_type": "secondary price record",
+      "source_url": "https://money.kapook.com/gold",
+      "title": "Kapook gold price history",
+      "claim": "หน้า Kapook แสดงบันทึกวันที่ 11 ก.ย. 2569 เวลา 17:21 น. รอบ 27: ทองแท่ง 67,850/68,050 บาท ใช้เป็นจุดเทียบเวลา ไม่ใช่แหล่งต้นทางหรือราคาหน้าร้าน",
+      "accessed_at": "2026-09-12T03:09:04.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

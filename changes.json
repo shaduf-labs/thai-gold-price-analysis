@@ -168,6 +168,30 @@
       "changed_at": "2026-09-11T11:13:51.000Z",
       "summary": "เพิ่มรายงานอธิบายขอบเขตของการดึงแหล่งต้นทางไม่ได้ และขั้นตอนตรวจวันที่ เวลา รอบ และด้านราคากับ URL ของสมาคมฯ",
       "path": "/p/thai-gold-price-analysis/reports/"
+    },
+    {
+      "change_id": "change:official-noclassic-round1-20260912",
+      "changed_at": "2026-09-12T03:09:04.000Z",
+      "summary": "อัปเดตราคาอ้างอิงจากหน้าแหล่งต้นทางของสมาคมฯ รอบ 1 เวลา 09:03 น. พร้อมแยกรับซื้อ ขายออก หน่วย และขอบเขตราคาหน้าร้าน",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:morning-source-mismatch-20260912",
+      "changed_at": "2026-09-12T03:09:04.000Z",
+      "summary": "เพิ่มการเทียบหน้าแหล่งต้นทาง แถวสมาคมฯ ของผู้ให้บริการ และหน้ารวมราคาที่ต่างกันข้างละ 200 บาท โดยไม่สรุปสาเหตุหรือกล่าวหาแหล่งใด",
+      "path": "/p/thai-gold-price-analysis/today/"
+    },
+    {
+      "change_id": "change:round1-salung-example-20260912",
+      "changed_at": "2026-09-12T03:09:04.000Z",
+      "summary": "อัปเดตตัวอย่างคำนวณทอง 1 สลึงจากประกาศรอบ 1 พร้อมแยกค่าใช้จ่ายที่ยังไม่ทราบ",
+      "path": "/p/thai-gold-price-analysis/tools/"
+    },
+    {
+      "change_id": "change:official-aggregator-report-20260912",
+      "changed_at": "2026-09-12T03:09:04.000Z",
+      "summary": "เพิ่มรายงานที่วางราคาอ้างอิงจากแหล่งต้นทางไว้ก่อน แล้วอธิบายความต่างของหน้ารวมราคาและคำถามที่ต้องถามร้าน",
+      "path": "/p/thai-gold-price-analysis/reports/"
     }
   ]
 }

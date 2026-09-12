@@ -88,6 +88,17 @@
       "summary": "เส้นทางตรวจเปิดหน้า newgta และ www ไม่ได้ จึงติดป้ายราคาเช้ารอบ 2 เป็นบันทึกอ้างอิงและให้ตรวจ URL วันที่ เวลา รอบ และด้านราคาใหม่ก่อนทำรายการ",
       "report_path": "/p/thai-gold-price-analysis/reports/20260911-78adf5df.html",
       "entrypoint": "reports/20260911-78adf5df.html"
+    },
+    {
+      "run_id": "run:230ea717-ad46-4afa-b76e-b0157ea58d36",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-12T03:00:00.000Z",
+      "completed_at": "2026-09-12T03:16:00.000Z",
+      "title": "เปิด 68,250 บาท แต่หน้ารวมราคาหนึ่งหน้าต่ำกว่า 200 บาท",
+      "summary": "ประกาศแหล่งต้นทางรอบ 1 เวลา 09:03 น. เทียบกับแถวสมาคมฯ ที่ตรงกันบน InterGOLD และหน้ารวมราคาที่ต่ำกว่าข้างละ 200 บาท พร้อมขั้นตอนตรวจรอบและยอดสุทธิ",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260912-230ea717.html",
+      "entrypoint": "reports/20260912-230ea717.html"
     }
   ]
 }
