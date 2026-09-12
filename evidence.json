@@ -200,6 +200,56 @@
       "accessed_at": "2026-09-12T03:09:04.000Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-noclassic-round1-20260912-evening",
+      "source_type": "official Association daily price page",
+      "source_url": "https://noclassic.goldtraders.or.th/",
+      "title": "สมาคมค้าทองคำ: noclassic daily page",
+      "claim": "ตรวจเมื่อ 18:03 น. หน้าแสดงวันที่ 12 ก.ย. 2569 รอบ 1 เวลา 09:03 น.: ทองแท่ง 96.5% 68,050/68,250 บาท และทองรูปพรรณ 66,688.84/69,050 บาทต่อบาททองคำ",
+      "accessed_at": "2026-09-12T11:03:58.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-newgta-round1-20260912-evening",
+      "source_type": "official Association daily price endpoint",
+      "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
+      "title": "สมาคมค้าทองคำ: newgta daily-price endpoint",
+      "claim": "ตรวจเมื่อ 18:03 น. หน้าแสดงข้อมูลวันที่ 12 ก.ย. 2569 เวลา 09:03 น. รอบ 1 และคู่ทองแท่ง 68,050/68,250 บาท ตรงกับ noclassic ในการตรวจนี้",
+      "accessed_at": "2026-09-12T11:03:58.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:intergold-association-row-20260912-evening",
+      "source_type": "dealer and trading-platform quote page",
+      "source_url": "https://www.intergold.co.th/gold-price/",
+      "title": "InterGOLD price page",
+      "claim": "หน้าแสดงเวลา 17:48:45 น. และมีแถวสมาคมฯ 68,050/68,250 บาท; แถว InterGOLD ของตนแยกต่างหาก",
+      "accessed_at": "2026-09-12T11:03:58.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:goldsabuy-association-row-alignment-20260912-evening",
+      "source_type": "commercial price aggregator",
+      "source_url": "https://goldsabuy.com/",
+      "title": "GoldSabuy price page",
+      "claim": "หน้าแสดงข้อมูลสมาคมฯ 12 ก.ย. 2569 เวลา 09:03 น. รอบ 1 ที่ 68,050/68,250 บาท และระบุเวลาระบบดึง 16:37 น.; การตรงกันภายหลังไม่อธิบายความต่างที่ปรากฏตอนเช้า",
+      "accessed_at": "2026-09-12T11:03:58.000Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:ocpb-jewelry-label-fields-202602",
+      "source_type": "official consumer-protection report",
+      "source_url": "https://www.ocpb.go.th/images/article/article_20260203101152.pdf",
+      "title": "สคบ.: ข้อมูลฉลากทองรูปพรรณ",
+      "claim": "รายงาน สคบ. ระบุฟิลด์ฉลาก ได้แก่ ชนิดสินค้า ชื่อและที่ตั้งผู้ประกอบการหรือเครื่องหมายการค้า ความบริสุทธิ์ น้ำหนักเป็นกรัม ราคาเงินบาท และราคารับซื้อคืนขั้นต่ำ; ไม่ได้ประเมินร้านหรือชิ้นงานเฉพาะราย",
+      "accessed_at": "2026-09-12T11:03:58.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

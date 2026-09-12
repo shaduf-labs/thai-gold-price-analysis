@@ -192,6 +192,30 @@
       "changed_at": "2026-09-12T03:09:04.000Z",
       "summary": "เพิ่มรายงานที่วางราคาอ้างอิงจากแหล่งต้นทางไว้ก่อน แล้วอธิบายความต่างของหน้ารวมราคาและคำถามที่ต้องถามร้าน",
       "path": "/p/thai-gold-price-analysis/reports/"
+    },
+    {
+      "change_id": "change:evening-record-age-20260912",
+      "changed_at": "2026-09-12T11:10:12.000Z",
+      "summary": "เปลี่ยนหน้าแรกให้แยกเวลาตรวจ 18:03 น. ออกจากบันทึกราคาเวลา 09:03 น. และไม่เรียกบันทึกเช้าว่าเป็นราคาตอนนี้",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:two-official-endpoint-evening-check-20260912",
+      "changed_at": "2026-09-12T11:10:12.000Z",
+      "summary": "เพิ่มการเทียบสอง URL ของสมาคมฯ กับสองหน้าพาณิชย์ที่แสดงคู่ 68,050/68,250 บาทตรงกัน โดยคงข้อจำกัดเรื่องเวลาบันทึกและราคาหน้าร้าน",
+      "path": "/p/thai-gold-price-analysis/today/"
+    },
+    {
+      "change_id": "change:ocpb-jewelry-label-fields-20260912",
+      "changed_at": "2026-09-12T11:10:12.000Z",
+      "summary": "เพิ่มรายการตรวจฉลากทองรูปพรรณจากรายงาน สคบ. ได้แก่ ชนิดสินค้า ร้าน ความบริสุทธิ์ กรัม ราคา และราคารับซื้อคืนขั้นต่ำ",
+      "path": "/p/thai-gold-price-analysis/compare/"
+    },
+    {
+      "change_id": "change:evening-source-age-report-20260912",
+      "changed_at": "2026-09-12T11:10:12.000Z",
+      "summary": "เพิ่มรายงานอธิบายว่าเวลาเปิดหน้าหรือเวลาระบบดึงข้อมูลไม่ใช่เวลาอ้างอิงของราคา พร้อมคำถามเรื่องรอบและยอดสุทธิ",
+      "path": "/p/thai-gold-price-analysis/reports/"
     }
   ]
 }
