@@ -250,6 +250,46 @@
       "accessed_at": "2026-09-12T11:03:58.000Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-newgta-loading-20260913",
+      "source_type": "official Association endpoint",
+      "source_url": "https://newgta.goldtraders.or.th/",
+      "title": "Homepage — สมาคมค้าทองคำ",
+      "claim": "เมื่อเข้าตรวจ 13 ก.ย. 2569 เวลา 10:05 น. หน้า newgta ยังแสดงสถานะกำลังโหลดข้อมูลราคา จึงไม่มีบันทึกราคาวันที่ 13 ก.ย. ให้ตรวจยืนยันจากรอบนี้",
+      "accessed_at": "2026-09-13T03:05:57.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-noclassic-timeout-20260913",
+      "source_type": "official Association endpoint",
+      "source_url": "https://noclassic.goldtraders.or.th/",
+      "title": "สมาคมค้าทองคำ noclassic",
+      "claim": "เส้นทาง noclassic หมดเวลาเชื่อมต่อในรอบตรวจเช้าวันที่ 13 ก.ย. 2569; เป็นข้อจำกัดการเข้าถึง ไม่ใช่หลักฐานว่าไม่มีประกาศ",
+      "accessed_at": "2026-09-13T03:05:57.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:intergold-closed-zero-20260913",
+      "source_type": "commercial dealer-platform page",
+      "source_url": "https://www.intergold.co.th/gold-price/",
+      "title": "InterGOLD gold price page",
+      "claim": "หน้าวันที่ 13 ก.ย. 2569 แสดงเวลา 09:54:16 น. ระบุว่าตลาดทองปิด และแถวราคาเป็นขีดกับ 0.00 จึงไม่มีแถวสมาคมฯ ที่ใช้เป็นราคาอ้างอิงได้",
+      "accessed_at": "2026-09-13T03:05:57.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:icaforex-prior-record-current-label-20260913",
+      "source_type": "commercial SEO gold-rate page",
+      "source_url": "https://icaforex.com/gold-rate-today/",
+      "title": "iCafeFX gold-rate page",
+      "claim": "หน้าที่ขึ้นหัววันที่ 13 ก.ย. 2569 แสดงคู่ 67,850/68,050 บาท แต่ข้อความในหน้าเองระบุว่าบันทึกนั้นอัปเดต 11 ก.ย. 2569 เวลา 17:21 น.; ใช้เป็นตัวอย่างให้ตรวจวันที่ของบันทึก ไม่ใช่ราคา 13 ก.ย.",
+      "accessed_at": "2026-09-13T03:05:57.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }
