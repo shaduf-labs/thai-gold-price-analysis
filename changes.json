@@ -222,6 +222,36 @@
       "changed_at": "2026-09-13T03:05:57.000Z",
       "summary": "เปลี่ยนหน้าสรุปและหน้าราคาเป็นสถานะ “ยังยืนยันราคา 13 ก.ย. ไม่ได้” พร้อมแยกวันที่ของบันทึกราคาออกจากป้ายวันที่ของหน้า และติดป้ายตัวอย่างเดิมว่าเป็นข้อมูลย้อนหลัง",
       "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:weekend-round1-reference-20260913",
+      "changed_at": "2026-09-13T11:05:29.000Z",
+      "summary": "อัปเดตราคาอ้างอิงสมาคมฯ วันที่ 13 ก.ย. รอบ 1 เวลา 09:03 น. พร้อมอายุข้อมูล รับซื้อ และขายออกของทองแท่ง",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:weekend-shop-hours-separation-20260913",
+      "changed_at": "2026-09-13T11:05:29.000Z",
+      "summary": "เพิ่มข้อแยกว่าประกาศราคาเสาร์–อาทิตย์ไม่รับรองว่าร้านเปิด และให้ถามรอบกับยอดสุทธิก่อนทำรายการ",
+      "path": "/p/thai-gold-price-analysis/today/"
+    },
+    {
+      "change_id": "change:jewelry-tax-base-label-20260913",
+      "changed_at": "2026-09-13T11:05:29.000Z",
+      "summary": "แก้ป้าย 66,688.84 บาทของทองรูปพรรณเป็นฐานภาษี ไม่ใช้แทนราคารับซื้อร้านในหน้าคำนวณและเปรียบเทียบ",
+      "path": "/p/thai-gold-price-analysis/tools/"
+    },
+    {
+      "change_id": "change:round1-history-20260913",
+      "changed_at": "2026-09-13T11:05:29.000Z",
+      "summary": "เพิ่มจุดเทียบประกาศรอบ 1 วันที่ 13 ก.ย. และระบุว่าไม่ใช่ราคาปิดวัน",
+      "path": "/p/thai-gold-price-analysis/history/"
+    },
+    {
+      "change_id": "change:weekend-reference-report-20260913",
+      "changed_at": "2026-09-13T11:05:29.000Z",
+      "summary": "เพิ่มรายงานเรื่องราคาอ้างอิงวันอาทิตย์ เวลาเปิดร้าน และป้ายฐานภาษีของทองรูปพรรณ",
+      "path": "/p/thai-gold-price-analysis/reports/20260913-6d53f096.html"
     }
   ]
 }

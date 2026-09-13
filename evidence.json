@@ -290,6 +290,56 @@
       "accessed_at": "2026-09-13T03:05:57.000Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-noclassic-round1-20260913",
+      "source_type": "official Association daily price page",
+      "source_url": "https://noclassic.goldtraders.or.th/",
+      "title": "สมาคมค้าทองคำ: noclassic daily page",
+      "claim": "หน้าแสดงวันที่ 13 ก.ย. 2569 เวลา 09:03 น. ครั้งที่ 1: ทองแท่ง 96.5% รับซื้อ 68,050 บาท ขายออก 68,250 บาท; ทองรูปพรรณขายออก 69,050 บาท และช่อง 66,688.84 บาทระบุว่า “ฐานภาษี”.",
+      "accessed_at": "2026-09-13T11:05:29.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:goldsabuy-round1-20260913",
+      "source_type": "commercial price aggregator",
+      "source_url": "https://goldsabuy.com/",
+      "title": "GoldSabuy price page",
+      "claim": "หน้าแสดงวันที่ 13 ก.ย. 2569 เวลา 09:03 น. ครั้งที่ 1 และคู่ทองแท่ง 68,050/68,250 บาท พร้อมเวลาระบบเช็ก 16:32 น.; เป็นการเทียบบันทึกที่แสดง ไม่ใช่แหล่งต้นทางหรือราคาหน้าร้าน.",
+      "accessed_at": "2026-09-13T11:05:29.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-weekend-announcement-20260723",
+      "source_type": "official Association notice",
+      "source_url": "https://classic.goldtraders.or.th/ArticleView.aspx?gp=1&id=1506",
+      "title": "สมาคมค้าทองคำ: เริ่มประกาศราคาเสาร์–อาทิตย์",
+      "claim": "ประกาศสมาคมฯ ระบุว่าเริ่มประกาศราคาเสาร์–อาทิตย์ตั้งแต่ 25 ก.ค. 2569 รอบและเวลาขึ้นกับสถานการณ์ และร้านทองแต่ละแห่งกำหนดเวลาเปิดเอง.",
+      "accessed_at": "2026-09-13T11:05:29.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:intergold-closed-20260913-evening",
+      "source_type": "dealer and trading-platform quote page",
+      "source_url": "https://www.intergold.co.th/gold-price/",
+      "title": "InterGOLD price page",
+      "claim": "หน้าแสดงวันที่ 13 ก.ย. 2569 เวลา 17:47:30 น. ว่าอยู่ในช่วงตลาดทองปิดและไม่มีแถวสมาคมฯ ที่ใช้ได้; เป็นผลบนหน้าผู้ให้บริการ ไม่ใช่ข้อสรุปว่าไม่มีประกาศสมาคมฯ.",
+      "accessed_at": "2026-09-13T11:05:29.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:thaniya-sunday-hours-20260913",
+      "source_type": "dealer-stated opening-hours page",
+      "source_url": "https://thaniyagold.com/th/gold",
+      "title": "Thaniya Gold opening hours",
+      "claim": "หน้าร้านระบุเวลาเปิดวันอาทิตย์ 13:00–22:00 น. ใช้เป็นตัวอย่างว่าร้านกำหนดเวลาของตนเอง ไม่ใช่ข้อมูลครอบคลุมร้านทองหรือการรับรองบริการ.",
+      "accessed_at": "2026-09-13T11:05:29.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }
