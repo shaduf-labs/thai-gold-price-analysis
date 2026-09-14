@@ -370,6 +370,26 @@
       "accessed_at": "2026-09-14T07:40:33.000Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-round19-20260914",
+      "source_type": "official Association daily price page",
+      "source_url": "https://classic.goldtraders.or.th/default.aspx",
+      "title": "สมาคมค้าทองคำ: classic daily page",
+      "claim": "หน้าแสดงวันที่ 14 ก.ย. 2569 เวลา 17:18 น. ครั้งที่ 19: ทองแท่ง 96.5% รับซื้อ 67,400 บาท ขายออก 67,600 บาท; ทองรูปพรรณขายออก 68,400 บาท และช่อง 66,052.12 บาทระบุว่า “ฐานภาษี”.",
+      "accessed_at": "2026-09-14T11:06:31.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-www-round16-20260914",
+      "source_type": "official Association daily price endpoint",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "สมาคมค้าทองคำ: www daily-price print view",
+      "claim": "หน้าแสดงวันที่ 14 ก.ย. 2569 เวลา 16:34 น. ครั้งที่ 16: ทองแท่ง 96.5% รับซื้อ 67,450 บาท ขายออก 67,650 บาท และทองรูปพรรณ 66,097.60/68,450 บาท จึงต่างจากบันทึกรอบ 19 บนหน้า classic ในรอบตรวจเดียวกัน.",
+      "accessed_at": "2026-09-14T11:06:31.000Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
     }
   ]
 }

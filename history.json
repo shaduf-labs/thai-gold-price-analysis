@@ -143,6 +143,17 @@
       "summary": "ตรวจพบประกาศสมาคมฯ รอบ 9 เวลา 13:14 น. ที่ 67,800/68,000 บาท พร้อมแยกผลสำรวจความเห็นออกจากราคาหรือคำแนะนำ",
       "report_path": "/p/thai-gold-price-analysis/reports/20260914-6ae8531c.html",
       "entrypoint": "reports/20260914-6ae8531c.html"
+    },
+    {
+      "run_id": "run:1c2beaff-ef71-4888-be2d-63fa6b7f3dd9",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-14T11:00:00.000Z",
+      "completed_at": "2026-09-14T11:12:00.000Z",
+      "title": "รอบ 19 อยู่ที่ 67,600 บาท แต่หน้าสมาคมฯ อีกหน้าหยุดที่รอบ 16",
+      "summary": "ตรวจพบรอบ 19 เวลา 17:18 น. ที่ 67,400/67,600 บาท และหน้า www ที่แสดงรอบ 16 เวลา 16:34 น. ที่ต่างกันข้างละ 50 บาท พร้อมคำถามยอดสุทธิของร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260914-1c2beaff.html",
+      "entrypoint": "reports/20260914-1c2beaff.html"
     }
   ]
 }

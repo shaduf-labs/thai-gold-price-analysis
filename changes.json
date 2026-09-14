@@ -276,6 +276,24 @@
       "changed_at": "2026-09-14T07:40:33.000Z",
       "summary": "เพิ่มบันทึกรอบ 9 ในประวัติและรายงานวันที่ 14 ก.ย. ที่แยกความต่างระหว่างสองบันทึกออกจากราคาปิดและเหตุเชิงสาเหตุ",
       "path": "/p/thai-gold-price-analysis/reports/20260914-6ae8531c.html"
+    },
+    {
+      "change_id": "change:round19-official-view-difference-20260914",
+      "changed_at": "2026-09-14T11:06:31.000Z",
+      "summary": "อัปเดตบันทึกรอบ 19 เวลา 17:18 น. และแสดงควบคู่กับรอบ 16 เวลา 16:34 น. จากอีกหน้าหนึ่งของสมาคมฯ โดยไม่เลือก URL ใดเป็นราคาปิด",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:round19-salung-calculation-20260914",
+      "changed_at": "2026-09-14T11:06:31.000Z",
+      "summary": "อัปเดตตัวอย่างคำนวณทอง 1 สลึงจากบันทึก classic รอบ 19 พร้อม URL เวลา รอบ และค่าใช้จ่ายที่ยังไม่ทราบ",
+      "path": "/p/thai-gold-price-analysis/tools/"
+    },
+    {
+      "change_id": "change:jewelry-net-sale-question-20260914",
+      "changed_at": "2026-09-14T11:06:31.000Z",
+      "summary": "เพิ่มคำถามยอดสุทธิของทองรูปพรรณและย้ำว่าฐานภาษีไม่ใช่ราคารับซื้อร้าน",
+      "path": "/p/thai-gold-price-analysis/compare/"
     }
   ]
 }
