@@ -252,6 +252,30 @@
       "changed_at": "2026-09-13T11:05:29.000Z",
       "summary": "เพิ่มรายงานเรื่องราคาอ้างอิงวันอาทิตย์ เวลาเปิดร้าน และป้ายฐานภาษีของทองรูปพรรณ",
       "path": "/p/thai-gold-price-analysis/reports/20260913-6d53f096.html"
+    },
+    {
+      "change_id": "change:official-round9-20260914",
+      "changed_at": "2026-09-14T07:40:33.000Z",
+      "summary": "อัปเดตราคาอ้างอิงสมาคมฯ วันที่ 14 ก.ย. รอบ 9 เวลา 13:14 น. พร้อมแยกรับซื้อ ขายออก หน่วย และอายุบันทึก",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:round9-salung-example-20260914",
+      "changed_at": "2026-09-14T07:40:33.000Z",
+      "summary": "อัปเดตตัวอย่างคำนวณทอง 1 สลึงจากประกาศรอบ 9 พร้อมแยกยอดร้านและรายการหักที่ยังไม่ทราบ",
+      "path": "/p/thai-gold-price-analysis/tools/"
+    },
+    {
+      "change_id": "change:survey-not-signal-20260914",
+      "changed_at": "2026-09-14T07:40:33.000Z",
+      "summary": "เพิ่มบริบทผลสำรวจความเห็นรายสัปดาห์พร้อมป้ายว่าไม่ใช่คำทำนายหรือคำแนะนำให้ซื้อขาย",
+      "path": "/p/thai-gold-price-analysis/today/"
+    },
+    {
+      "change_id": "change:round9-history-report-20260914",
+      "changed_at": "2026-09-14T07:40:33.000Z",
+      "summary": "เพิ่มบันทึกรอบ 9 ในประวัติและรายงานวันที่ 14 ก.ย. ที่แยกความต่างระหว่างสองบันทึกออกจากราคาปิดและเหตุเชิงสาเหตุ",
+      "path": "/p/thai-gold-price-analysis/reports/20260914-6ae8531c.html"
     }
   ]
 }

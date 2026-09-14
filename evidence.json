@@ -340,6 +340,36 @@
       "accessed_at": "2026-09-13T11:05:29.000Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-noclassic-round9-20260914",
+      "source_type": "official Association daily price page",
+      "source_url": "https://noclassic.goldtraders.or.th/",
+      "title": "สมาคมค้าทองคำ: noclassic daily page",
+      "claim": "หน้าแสดงวันที่ 14 ก.ย. 2569 เวลา 13:14 น. ครั้งที่ 9: ทองแท่ง 96.5% รับซื้อ 67,800 บาท ขายออก 68,000 บาท; ทองรูปพรรณขายออก 68,800 บาท และช่อง 66,446.28 บาทระบุว่า “ฐานภาษี”.",
+      "accessed_at": "2026-09-14T07:40:33.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:grc-weekly-survey-20260914",
+      "source_type": "market research opinion survey",
+      "source_url": "https://goldresearchcenter.com/archives/6584",
+      "title": "Gold Research Center weekly survey 14–18 September 2026",
+      "claim": "ผลสำรวจระบุความเห็นผู้เชี่ยวชาญ 13 คน: ขึ้น 38% ลง 38% ทรงตัว 24%; ผู้ร่วมตอบแบบสำรวจ 324 คน: ขึ้น 37% ลง 51% ทรงตัว 12%. เป็นความเห็นของผู้ตอบ ไม่ใช่ราคาหรือคำทำนาย.",
+      "accessed_at": "2026-09-14T07:40:33.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-faq-variable-rounds-20260914",
+      "source_type": "official Association FAQ",
+      "source_url": "https://noclassic.goldtraders.or.th/FAQs.aspx",
+      "title": "สมาคมค้าทองคำ: คำถามที่พบบ่อย",
+      "claim": "สมาคมฯ ระบุว่าจำนวนและเวลาการปรับราคาในแต่ละวันไม่ตายตัว และประกาศแรกของวันทำการมักอยู่ราว 09:20–09:40 น.; ใช้สนับสนุนการแสดงเวลาและครั้งที่ของบันทึก ไม่ใช่การทำนายรอบต่อไป.",
+      "accessed_at": "2026-09-14T07:40:33.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }
