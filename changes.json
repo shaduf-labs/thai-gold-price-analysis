@@ -294,6 +294,30 @@
       "changed_at": "2026-09-14T11:06:31.000Z",
       "summary": "เพิ่มคำถามยอดสุทธิของทองรูปพรรณและย้ำว่าฐานภาษีไม่ใช่ราคารับซื้อร้าน",
       "path": "/p/thai-gold-price-analysis/compare/"
+    },
+    {
+      "change_id": "change:official-morning-round4-20260915",
+      "changed_at": "2026-09-15T03:07:27.000Z",
+      "summary": "อัปเดตราคาอ้างอิงรอบ 4 เวลา 09:41 น. พร้อมรับซื้อ ขายออก หน่วย และสถานะว่าไม่ใช่ราคาปิด",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:round1-to-round4-comparison-20260915",
+      "changed_at": "2026-09-15T03:07:27.000Z",
+      "summary": "เพิ่มจุดเทียบรอบ 1 รอบ 2 และรอบ 4 ของเช้าวันที่ 15 ก.ย. และระบุชัดว่าไม่มีบันทึกรอบ 3 ในชุดที่เก็บ",
+      "path": "/p/thai-gold-price-analysis/history/"
+    },
+    {
+      "change_id": "change:morning-salung-calculation-20260915",
+      "changed_at": "2026-09-15T03:07:27.000Z",
+      "summary": "อัปเดตตัวอย่างคำนวณทอง 1 สลึงจากราคาอ้างอิงรอบ 4 พร้อมรายการค่าใช้จ่ายที่ยังไม่ทราบ",
+      "path": "/p/thai-gold-price-analysis/tools/"
+    },
+    {
+      "change_id": "change:digital-cashout-path-check-20260915",
+      "changed_at": "2026-09-15T03:07:27.000Z",
+      "summary": "เพิ่มคำถามเรื่องสกุลเงิน บัญชีรับเงิน การแลกเงิน และค่าธรรมเนียมเมื่อขายทองในแอป โดยไม่สรุปเงื่อนไขผู้ให้บริการรายใด",
+      "path": "/p/thai-gold-price-analysis/compare/"
     }
   ]
 }

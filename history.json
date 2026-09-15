@@ -154,6 +154,17 @@
       "summary": "ตรวจพบรอบ 19 เวลา 17:18 น. ที่ 67,400/67,600 บาท และหน้า www ที่แสดงรอบ 16 เวลา 16:34 น. ที่ต่างกันข้างละ 50 บาท พร้อมคำถามยอดสุทธิของร้าน",
       "report_path": "/p/thai-gold-price-analysis/reports/20260914-1c2beaff.html",
       "entrypoint": "reports/20260914-1c2beaff.html"
+    },
+    {
+      "run_id": "run:37fd7112-0744-4101-b873-2fba4395a7f7",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-15T03:00:00.000Z",
+      "completed_at": "2026-09-15T03:13:24.335Z",
+      "title": "09:41 น. ขายออก 67,900 บาท: ขึ้น 150 บาทจากรอบแรก แต่ยังไม่ใช่ราคาปิด",
+      "summary": "หน้า www ของสมาคมฯ แสดงรอบ 4 เวลา 09:41 น. ที่ 67,700/67,900 บาท เทียบกับรอบแรก 67,550/67,750 บาท พร้อมคำถามยอดสุทธิร้านและเส้นทางเงินเมื่อขายทองในแอป",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260915-37fd7112.html",
+      "entrypoint": "reports/20260915-37fd7112.html"
     }
   ]
 }

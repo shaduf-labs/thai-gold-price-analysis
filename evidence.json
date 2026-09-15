@@ -390,6 +390,36 @@
       "accessed_at": "2026-09-14T11:06:31.000Z",
       "relation": "unresolved",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-www-round4-20260915",
+      "source_type": "official Association daily price endpoint",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "สมาคมค้าทองคำ: www daily-price",
+      "claim": "หน้าแสดงวันที่ 15 ก.ย. 2569 เวลา 09:41 น. ครั้งที่ 4: ทองแท่ง 96.5% รับซื้อ 67,700 บาท ขายออก 67,900 บาท; รอบ 1 เวลา 09:01 น. อยู่ที่ 67,550/67,750 และรอบ 2 เวลา 09:35 น. อยู่ที่ 67,600/67,800 บาท.",
+      "accessed_at": "2026-09-15T03:07:27.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-faq-retail-difference-20260915",
+      "source_type": "official Association FAQ",
+      "source_url": "https://noclassic.goldtraders.or.th/FAQs.aspx",
+      "title": "สมาคมค้าทองคำ: คำถามที่พบบ่อย",
+      "claim": "สมาคมฯ ระบุว่าราคาทองแท่งของร้านอาจต่างจากราคาอ้างอิงเพราะต้นทุนการเดินทาง ความเสี่ยง ค่าใช้จ่ายอื่น และกำไรของร้าน; เป็นคำอธิบายของสมาคมฯ ไม่ใช่การสำรวจราคาหน้าร้าน.",
+      "accessed_at": "2026-09-15T03:07:27.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:pantip-app-foreign-cashout-202606",
+      "source_type": "community post search result",
+      "source_url": "https://pantip.com/topic/44122961",
+      "title": "Pantip: ขายทองในแอพเป๋าตัง",
+      "claim": "คำถามชุมชนหนึ่งกล่าวถึงขั้นตอนรับเงินผ่านบัญชีต่างประเทศ การแปลงเป็นบาท และการโอนต่อหลังขายทองในแอป; ใช้เป็นสัญญาณคำถาม ไม่ใช่เงื่อนไขปัจจุบันของผู้ให้บริการ.",
+      "accessed_at": "2026-09-15T03:07:27.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }
