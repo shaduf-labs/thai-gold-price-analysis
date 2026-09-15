@@ -420,6 +420,46 @@
       "accessed_at": "2026-09-15T03:07:27.000Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-round20-20260915",
+      "source_type": "official Association current price view",
+      "source_url": "https://sideb.goldtraders.or.th/",
+      "title": "สมาคมค้าทองคำ: sideb current price view",
+      "claim": "หน้าแสดงวันที่ 15 ก.ย. 2569 เวลา 17:10 น. ครั้งที่ 20: ทองแท่ง 96.5% รับซื้อ 67,200 บาท ขายออก 67,400 บาท; ทองรูปพรรณขายออก 68,200 บาท และช่อง 65,855.04 บาทระบุฐานภาษี.",
+      "accessed_at": "2026-09-15T11:07:55Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-round20-20260915",
+      "source_type": "official Association daily price page",
+      "source_url": "https://classic.goldtraders.or.th/DailyPrices.aspx",
+      "title": "สมาคมค้าทองคำ: classic daily-price view",
+      "claim": "หน้าแสดงวันที่ 15 ก.ย. 2569: ทองแท่ง 96.5% รับซื้อ 67,200 บาท ขายออก 67,400 บาท และทองรูปพรรณขายออก 68,200 บาท; ตรงกับบันทึกรอบ 20 เวลา 17:10 น. บนหน้า sideb ในรอบตรวจนี้.",
+      "accessed_at": "2026-09-15T11:07:55Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-intraday-through-round9-20260915",
+      "source_type": "official Association intraday-adjustment page",
+      "source_url": "https://sideb.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "สมาคมค้าทองคำ: sideb intraday adjustments",
+      "claim": "หน้าการปรับเปลี่ยนระหว่างวันแสดงบันทึกวันที่ 15 ก.ย. 2569 ที่มองเห็นได้ถึงครั้งที่ 9 เวลา 12:59 น. 67,450/67,650 บาท จึงไม่ใช้เป็นหลักฐานว่าบันทึกที่เห็นครบทุกรอบหรือว่าหลังจากนั้นไม่มีการปรับราคา.",
+      "accessed_at": "2026-09-15T11:07:55Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-faq-retail-difference-20260915",
+      "source_type": "official Association FAQ",
+      "source_url": "https://sideb.goldtraders.or.th/FAQs.aspx",
+      "title": "สมาคมค้าทองคำ: คำถามที่พบบ่อย",
+      "claim": "สมาคมฯ อธิบายว่าราคาทองแท่งของร้านค้าปลีกอาจรวมต้นทุนการเดินทาง ความเสี่ยง ค่าใช้จ่ายอื่น และกำไรของร้าน; เป็นคำอธิบายของสมาคมฯ ไม่ใช่การสำรวจยอดร้าน.",
+      "accessed_at": "2026-09-15T11:07:55Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

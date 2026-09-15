@@ -318,6 +318,42 @@
       "changed_at": "2026-09-15T03:07:27.000Z",
       "summary": "เพิ่มคำถามเรื่องสกุลเงิน บัญชีรับเงิน การแลกเงิน และค่าธรรมเนียมเมื่อขายทองในแอป โดยไม่สรุปเงื่อนไขผู้ให้บริการรายใด",
       "path": "/p/thai-gold-price-analysis/compare/"
+    },
+    {
+      "change_id": "change:aligned-round20-official-daily-20260915",
+      "changed_at": "2026-09-15T11:15:26Z",
+      "summary": "อัปเดตราคาอ้างอิงรอบ 20 เวลา 17:10 น. จากสองหน้ารายวันของสมาคมฯ ที่แสดงตรงกัน พร้อมรับซื้อ ขายออก หน่วย และสถานะว่าไม่ใช่ราคาปิด",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:official-intraday-visible-through-round9-20260915",
+      "changed_at": "2026-09-15T11:15:26Z",
+      "summary": "เพิ่มข้อจำกัดว่าหน้าตารางปรับระหว่างวันของสมาคมฯ ที่ตรวจเห็นรายการถึงรอบ 9 จึงไม่เรียกบันทึกที่เห็นว่าครบทั้งวัน",
+      "path": "/p/thai-gold-price-analysis/today/"
+    },
+    {
+      "change_id": "change:round20-partial-history-20260915",
+      "changed_at": "2026-09-15T11:15:26Z",
+      "summary": "เพิ่มรอบ 9 และรอบ 20 ของวันที่ 15 ก.ย. พร้อมแยกการเคลื่อนไหวที่พบออกจากประวัติครบวันและราคาปิด",
+      "path": "/p/thai-gold-price-analysis/history/"
+    },
+    {
+      "change_id": "change:round20-salung-calculation-20260915",
+      "changed_at": "2026-09-15T11:15:26Z",
+      "summary": "อัปเดตตัวอย่างคำนวณทอง 1 สลึงจากราคาอ้างอิงรอบ 20 พร้อมรายการค่าใช้จ่ายที่ยังไม่ทราบ",
+      "path": "/p/thai-gold-price-analysis/tools/"
+    },
+    {
+      "change_id": "change:item-specific-jewelry-charge-question-20260915",
+      "changed_at": "2026-09-15T11:15:26Z",
+      "summary": "ปรับรายการตรวจทองรูปพรรณให้ถามค่ากำเหน็จและรายการหักของชิ้นนั้นโดยตรง ไม่อนุมานยอดสุทธิจากฐานภาษีหรือราคาอ้างอิง",
+      "path": "/p/thai-gold-price-analysis/compare/"
+    },
+    {
+      "change_id": "change:round20-record-coverage-report-20260915",
+      "changed_at": "2026-09-15T11:15:26Z",
+      "summary": "เพิ่มรายงานรอบเย็นที่แยกราคาอ้างอิงรอบ 20 ออกจากข้อจำกัดของตารางปรับระหว่างวันที่มองเห็นไม่ครบ",
+      "path": "/p/thai-gold-price-analysis/reports/20260915-1557135f.html"
     }
   ]
 }
