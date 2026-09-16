@@ -460,6 +460,46 @@
       "accessed_at": "2026-09-15T11:07:55Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-intraday-round4-20260916",
+      "source_type": "official Association intraday-adjustment page",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "สมาคมค้าทองคำ: classic การปรับเปลี่ยนระหว่างวัน",
+      "claim": "หน้าแสดง 16 ก.ย. 2569 รอบ 1–4 โดยรอบ 4 เวลา 09:41 น. มีทองแท่ง 96.5% รับซื้อ 67,650 บาท ขายออก 67,850 บาท; ใช้เป็นบันทึกอ้างอิงที่มีเวลาและรอบ ไม่ใช่ยอดหน้าร้าน.",
+      "accessed_at": "2026-09-16T03:04:44Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-home-round2-20260916",
+      "source_type": "official Association current-price view",
+      "source_url": "https://sideb.goldtraders.or.th/",
+      "title": "สมาคมค้าทองคำ: sideb",
+      "claim": "ในการตรวจเดียวกัน หน้า sideb แสดง 16 ก.ย. 2569 เวลา 09:24 น. ครั้งที่ 2: ทองแท่ง 67,450/67,650 บาท จึงเป็นบันทึกก่อนหน้ารอบ 4 ที่มีเวลา.",
+      "accessed_at": "2026-09-16T03:04:44Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-daily-untimed-20260916",
+      "source_type": "official Association daily-price page",
+      "source_url": "https://classic.goldtraders.or.th/DailyPrices.aspx",
+      "title": "สมาคมค้าทองคำ: classic daily-price",
+      "claim": "หน้าแสดงคู่ทองแท่ง 67,700/67,900 บาทของ 16 ก.ย. 2569 แต่หน้าที่ตรวจไม่แสดงเวลาและครั้งที่ จึงใช้ระบุจังหวะราคาหรือเทียบกับร้านไม่ได้.",
+      "accessed_at": "2026-09-16T03:04:44Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-intraday-prior-date-20260916",
+      "source_type": "official Association intraday-adjustment page",
+      "source_url": "https://sideb.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "สมาคมค้าทองคำ: sideb การปรับเปลี่ยนระหว่างวัน",
+      "claim": "หน้าที่ตรวจวันที่ 16 ก.ย. กลับแสดงบันทึก 15 ก.ย. ถึงรอบ 20 เวลา 17:10 น. จึงไม่ใช้เป็นราคาอ้างอิงของวันที่ 16 ก.ย. และไม่สรุปสาเหตุของความต่าง.",
+      "accessed_at": "2026-09-16T03:04:44Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
     }
   ]
 }

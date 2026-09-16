@@ -354,6 +354,36 @@
       "changed_at": "2026-09-15T11:15:26Z",
       "summary": "เพิ่มรายงานรอบเย็นที่แยกราคาอ้างอิงรอบ 20 ออกจากข้อจำกัดของตารางปรับระหว่างวันที่มองเห็นไม่ครบ",
       "path": "/p/thai-gold-price-analysis/reports/20260915-1557135f.html"
+    },
+    {
+      "change_id": "change:timed-round4-reference-20260916",
+      "changed_at": "2026-09-16T03:04:44Z",
+      "summary": "อัปเดตราคาอ้างอิงจากบันทึกสมาคมฯ รอบ 4 เวลา 09:41 น. พร้อมแยกรับซื้อ ขายออก หน่วย และอายุข้อมูล",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:official-rendered-view-status-20260916",
+      "changed_at": "2026-09-16T03:04:44Z",
+      "summary": "เพิ่มสถานะว่าหน้าสมาคมฯ ที่ตรวจแสดงคนละรอบ เลขไม่มีเวลา หรือข้อมูลวันก่อน จึงใช้บันทึกที่มีเวลาและรอบก่อน",
+      "path": "/p/thai-gold-price-analysis/today/"
+    },
+    {
+      "change_id": "change:four-round-morning-history-20260916",
+      "changed_at": "2026-09-16T03:04:44Z",
+      "summary": "เพิ่มบันทึกสี่รอบเช้าตั้งแต่ 09:05 ถึง 09:41 น. โดยไม่เรียกรอบ 4 ว่าราคาปิดหรือเลขล่าสุด",
+      "path": "/p/thai-gold-price-analysis/history/"
+    },
+    {
+      "change_id": "change:round4-salung-calculation-20260916",
+      "changed_at": "2026-09-16T03:04:44Z",
+      "summary": "อัปเดตตัวอย่างคำนวณทอง 1 สลึงจากราคาอ้างอิงรอบ 4 พร้อมรายการค่าใช้จ่ายที่ยังไม่ทราบ",
+      "path": "/p/thai-gold-price-analysis/tools/"
+    },
+    {
+      "change_id": "change:timed-record-report-20260916",
+      "changed_at": "2026-09-16T03:04:44Z",
+      "summary": "เพิ่มรายงานที่แยกบันทึกมีเวลาและรอบออกจากตัวเลขทางการที่ไม่มีเวลาหรือแสดงข้อมูลคนละวันที่",
+      "path": "/p/thai-gold-price-analysis/reports/20260916-5f1b320d.html"
     }
   ]
 }
