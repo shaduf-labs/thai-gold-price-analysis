@@ -384,6 +384,48 @@
       "changed_at": "2026-09-16T03:04:44Z",
       "summary": "เพิ่มรายงานที่แยกบันทึกมีเวลาและรอบออกจากตัวเลขทางการที่ไม่มีเวลาหรือแสดงข้อมูลคนละวันที่",
       "path": "/p/thai-gold-price-analysis/reports/20260916-5f1b320d.html"
+    },
+    {
+      "change_id": "change:round26-aligned-quote-20260916",
+      "changed_at": "2026-09-16T11:31:00Z",
+      "summary": "อัปเดตราคาอ้างอิงรอบ 26 เวลา 17:11 น. ที่สองหน้าสมาคมฯ แสดงตรงกัน พร้อมขอบเขตว่าไม่ใช่ราคาปิดหรือยอดร้าน",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:evening-source-status-20260916",
+      "changed_at": "2026-09-16T11:31:00Z",
+      "summary": "อัปเดตสถานะแหล่งข้อมูล: สองหน้ามีเวลาและรอบตรงกัน อีกหน้าตรงเฉพาะคู่ราคา และอีก URL ยังแสดงวันก่อน",
+      "path": "/p/thai-gold-price-analysis/today/"
+    },
+    {
+      "change_id": "change:twenty-six-round-history-20260916",
+      "changed_at": "2026-09-16T11:31:00Z",
+      "summary": "เพิ่มจุดเทียบจากบันทึก 26 รอบของวันที่ 16 ก.ย. โดยไม่เรียกแถวสุดท้ายว่าราคาปิด",
+      "path": "/p/thai-gold-price-analysis/history/"
+    },
+    {
+      "change_id": "change:round26-salung-calculation-20260916",
+      "changed_at": "2026-09-16T11:31:00Z",
+      "summary": "อัปเดตตัวอย่างคำนวณทอง 1 สลึงจากราคาอ้างอิงรอบ 26 พร้อมค่าใช้จ่ายที่ยังไม่ทราบ",
+      "path": "/p/thai-gold-price-analysis/tools/"
+    },
+    {
+      "change_id": "change:round26-form-explainer-20260916",
+      "changed_at": "2026-09-16T11:31:00Z",
+      "summary": "อัปเดตตัวอย่างทองแท่งและทองรูปพรรณด้วยรอบ 26 และย้ำว่าฐานภาษีไม่ใช่ยอดรับซื้อสุทธิ",
+      "path": "/p/thai-gold-price-analysis/compare/"
+    },
+    {
+      "change_id": "change:round26-source-literacy-20260916",
+      "changed_at": "2026-09-16T11:31:00Z",
+      "summary": "อัปเดตคำอธิบาย URL เวลา และครั้งที่จากการตรวจรอบเย็น",
+      "path": "/p/thai-gold-price-analysis/learn/"
+    },
+    {
+      "change_id": "change:round26-alignment-report-20260916",
+      "changed_at": "2026-09-16T11:31:00Z",
+      "summary": "เพิ่มรายงาน 26 รอบที่แยกการตรงกันของบันทึกมีเวลาออกจากข้อมูลที่ไม่มีเวลาหรือเป็นวันก่อน",
+      "path": "/p/thai-gold-price-analysis/reports/20260916-bf2ab51e.html"
     }
   ]
 }

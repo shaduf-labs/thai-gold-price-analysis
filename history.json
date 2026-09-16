@@ -187,6 +187,17 @@
       "summary": "classic ตารางปรับแสดงรอบ 4 เวลา 09:41 น. ที่ 67,650/67,850 บาท ขณะที่ official rendered views อื่นแสดงรอบ 2 เลขไม่มีเวลา หรือข้อมูลวันก่อน จึงใช้เฉพาะบันทึกที่มีเวลาและรอบเป็นราคาอ้างอิงตามเวลา",
       "report_path": "/p/thai-gold-price-analysis/reports/20260916-5f1b320d.html",
       "entrypoint": "reports/20260916-5f1b320d.html"
+    },
+    {
+      "run_id": "run:bf2ab51e-84f3-4afb-ad62-4f9bc48df4e9",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-16T11:00:00.000Z",
+      "completed_at": "2026-09-16T11:40:12Z",
+      "title": "26 รอบใน 8 ชั่วโมง: 67,600 เป็น 68,400 บาท และสองหน้าสมาคมฯ บอกเวลาเดียวกัน",
+      "summary": "classic ตารางปรับและ sideb แสดงรอบ 26 เวลา 17:11 น. ที่ 68,200/68,400 บาทตรงกัน ขณะที่ classic daily-price ไม่มีเวลาและรอบ และ sideb ตารางปรับยังแสดงวันที่ 15 ก.ย. จึงใช้บันทึกมีเวลาและรอบเป็นราคาอ้างอิงตามเวลา",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260916-bf2ab51e.html",
+      "entrypoint": "reports/20260916-bf2ab51e.html"
     }
   ]
 }
