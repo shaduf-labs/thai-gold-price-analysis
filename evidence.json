@@ -540,6 +540,26 @@
       "accessed_at": "2026-09-16T11:31:00Z",
       "relation": "unresolved",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-www-round3-20260917",
+      "source_type": "official Association daily-price page",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "สมาคมค้าทองคำ: www daily-price",
+      "claim": "หน้าราคาประจำวันแสดงวันที่ 17 ก.ย. 2569: รอบ 1 เวลา 09:02 น. 67,850/68,050 บาท, รอบ 2 เวลา 09:14 น. 67,650/67,850 บาท, และรอบ 3 เวลา 09:23 น. 67,700/67,900 บาทสำหรับทองแท่ง 96.5%; รอบ 3 ใช้เป็นบันทึกอ้างอิงตามเวลา ไม่ใช่ยอดหน้าร้าน.",
+      "accessed_at": "2026-09-17T03:03:43Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:thansettakij-opening-round1-20260917",
+      "source_type": "Thai business-news report",
+      "source_url": "https://www.thansettakij.com/finance/669065",
+      "title": "ฐานเศรษฐกิจ: ราคาทองเปิดตลาด 17 ก.ย. 2569",
+      "claim": "รายงานระบุบันทึกเปิดเวลา 09:02 น. ที่ทองแท่ง 96.5% รับซื้อ 67,850 บาท และขายออก 68,050 บาท ตรงกับแถวรอบ 1 ของหน้าสมาคมฯ; ใช้เทียบการอ่านบันทึกเปิด ไม่ใช่ใบเสนอราคาของร้าน.",
+      "accessed_at": "2026-09-17T03:03:43Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

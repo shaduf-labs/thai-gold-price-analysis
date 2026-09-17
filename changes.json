@@ -426,6 +426,42 @@
       "changed_at": "2026-09-16T11:31:00Z",
       "summary": "เพิ่มรายงาน 26 รอบที่แยกการตรงกันของบันทึกมีเวลาออกจากข้อมูลที่ไม่มีเวลาหรือเป็นวันก่อน",
       "path": "/p/thai-gold-price-analysis/reports/20260916-bf2ab51e.html"
+    },
+    {
+      "change_id": "change:three-round-morning-reference-20260917",
+      "changed_at": "2026-09-17T03:03:43Z",
+      "summary": "อัปเดตราคาอ้างอิงรอบ 1–3 ของวันที่ 17 ก.ย. โดยย้ำว่าราคาเปิดใช้แทนรอบ 3 ไม่ได้",
+      "path": "/p/thai-gold-price-analysis/today/"
+    },
+    {
+      "change_id": "change:round3-history-20260917",
+      "changed_at": "2026-09-17T03:03:43Z",
+      "summary": "เพิ่มจุดเทียบสามรอบใน 21 นาที โดยไม่เรียกรอบ 3 ว่าราคาปิด",
+      "path": "/p/thai-gold-price-analysis/history/"
+    },
+    {
+      "change_id": "change:round3-salung-calculation-20260917",
+      "changed_at": "2026-09-17T03:03:43Z",
+      "summary": "อัปเดตตัวอย่างคำนวณทอง 1 สลึงจากราคาอ้างอิงรอบ 3 พร้อมค่าใช้จ่ายที่ยังไม่ทราบ",
+      "path": "/p/thai-gold-price-analysis/tools/"
+    },
+    {
+      "change_id": "change:round3-form-explainer-20260917",
+      "changed_at": "2026-09-17T03:03:43Z",
+      "summary": "อัปเดตตัวอย่างทองแท่งและทองรูปพรรณรอบ 3 และย้ำว่าฐานภาษีไม่ใช่ยอดรับซื้อสุทธิ",
+      "path": "/p/thai-gold-price-analysis/compare/"
+    },
+    {
+      "change_id": "change:round3-source-literacy-20260917",
+      "changed_at": "2026-09-17T03:03:43Z",
+      "summary": "อัปเดตคำอธิบายการอ่านเวลาและครั้งที่จากบันทึกสามรอบเช้า",
+      "path": "/p/thai-gold-price-analysis/learn/"
+    },
+    {
+      "change_id": "change:three-round-morning-report-20260917",
+      "changed_at": "2026-09-17T03:03:43Z",
+      "summary": "เพิ่มรายงานสามรอบเช้าที่แยกบันทึกเปิด ราคาอ้างอิงตามเวลา และยอดสุทธิร้าน",
+      "path": "/p/thai-gold-price-analysis/reports/20260917-2b410b5d.html"
     }
   ]
 }
