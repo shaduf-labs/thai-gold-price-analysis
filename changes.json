@@ -462,6 +462,30 @@
       "changed_at": "2026-09-17T03:03:43Z",
       "summary": "เพิ่มรายงานสามรอบเช้าที่แยกบันทึกเปิด ราคาอ้างอิงตามเวลา และยอดสุทธิร้าน",
       "path": "/p/thai-gold-price-analysis/reports/20260917-2b410b5d.html"
+    },
+    {
+      "change_id": "change:round34-route-difference-20260917",
+      "changed_at": "2026-09-17T11:05:37Z",
+      "summary": "อัปเดตราคาอ้างอิงรอบ 34 เวลา 16:55 น. และเปิดเผยว่าหน้า classic แสดงรอบ 33 เวลา 16:29 น. โดยเก็บ URL เวลา รอบ และด้านราคาไว้กับตัวเลข",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:thirty-four-round-history-20260917",
+      "changed_at": "2026-09-17T11:05:37Z",
+      "summary": "เพิ่มจุดเปิด ต่ำสุด สูงสุด รอบ 33 และรอบ 34 ของวันที่ 17 ก.ย. เพื่อไม่ให้เลขเดียวกลบความผันผวนระหว่างวัน",
+      "path": "/p/thai-gold-price-analysis/history/"
+    },
+    {
+      "change_id": "change:round34-salung-20260917",
+      "changed_at": "2026-09-17T11:05:37Z",
+      "summary": "อัปเดตตัวอย่างคำนวณทอง 1 สลึงจากบันทึกรอบ 34 พร้อมแยกช่องฐานภาษีและค่าใช้จ่ายที่ยังไม่ทราบ",
+      "path": "/p/thai-gold-price-analysis/tools/"
+    },
+    {
+      "change_id": "change:round34-endpoint-report-20260917",
+      "changed_at": "2026-09-17T11:05:37Z",
+      "summary": "เพิ่มรายงานตรวจสอง URL ของสมาคมฯ ที่แสดงคนละรอบ พร้อมคำถามยอดสุทธิร้านและข้อจำกัดของข้อมูล",
+      "path": "/p/thai-gold-price-analysis/reports/"
     }
   ]
 }

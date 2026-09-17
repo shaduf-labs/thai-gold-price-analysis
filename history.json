@@ -209,6 +209,17 @@
       "summary": "หน้าราคาประจำวันของสมาคมฯ แสดงรอบ 1 เวลา 09:02 น. ที่ 67,850/68,050 บาท, รอบ 2 เวลา 09:14 น. ที่ 67,650/67,850 บาท, และรอบ 3 เวลา 09:23 น. ที่ 67,700/67,900 บาท จึงใช้เฉพาะบันทึกมีเวลาและรอบเป็นราคาอ้างอิงตามเวลา",
       "report_path": "/p/thai-gold-price-analysis/reports/20260917-2b410b5d.html",
       "entrypoint": "reports/20260917-2b410b5d.html"
+    },
+    {
+      "run_id": "run:40d4c944-d5a3-480d-98df-6abbdd56550c",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-17T11:00:00Z",
+      "completed_at": "2026-09-17T11:12:01Z",
+      "title": "34 รอบในวันเดียว: 68,100 บาทบนหน้า www แต่หน้า classic ยังแสดง 68,050 บาท",
+      "summary": "หน้า www แสดงรอบ 34 เวลา 16:55 น. ที่ 67,900/68,100 บาท ขณะที่หน้า classic แสดงรอบ 33 เวลา 16:29 น. ที่ 67,850/68,050 บาท จึงต้องเก็บ URL เวลา รอบ และด้านราคาไว้กับตัวเลข.",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260917-40d4c944.html",
+      "entrypoint": "reports/20260917-40d4c944.html"
     }
   ]
 }

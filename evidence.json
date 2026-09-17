@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-www-round34-20260917",
+      "source_type": "official Association daily price page",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "ราคาทองตามประกาศของสมาคมค้าทองคำ",
+      "claim": "The page rendered round 34 at 16:55 on 17 September 2569: 67,900 baht buyback and 68,100 baht selling for 96.5% bars.",
+      "accessed_at": "2026-09-17T11:05:37Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-round33-20260917",
+      "source_type": "official Association classic homepage",
+      "source_url": "https://classic.goldtraders.or.th/default.aspx",
+      "title": "Gold Traders Association classic page",
+      "claim": "The page rendered round 33 at 16:29 on 17 September 2569: 67,850 baht buyback and 68,050 baht selling for 96.5% bars.",
+      "accessed_at": "2026-09-17T11:05:37Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-morning-round2-20260910",
       "source_type": "ประกาศสมาคมค้าทองคำ",
       "source_url": "https://www.goldtraders.or.th/dailyprices_print",
