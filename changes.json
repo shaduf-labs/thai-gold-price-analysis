@@ -486,6 +486,36 @@
       "changed_at": "2026-09-17T11:05:37Z",
       "summary": "เพิ่มรายงานตรวจสอง URL ของสมาคมฯ ที่แสดงคนละรอบ พร้อมคำถามยอดสุทธิร้านและข้อจำกัดของข้อมูล",
       "path": "/p/thai-gold-price-analysis/reports/"
+    },
+    {
+      "change_id": "change:round3-route-record-20260918",
+      "changed_at": "2026-09-18T03:14:40Z",
+      "summary": "อัปเดตราคาอ้างอิงรอบ 3 เวลา 09:51 น. และเปิดเผยว่าหน้าสมาคมฯ อื่นยังแสดงรอบ 1 หรือรอบ 2 โดยเก็บ URL เวลา รอบ และด้านราคาไว้กับตัวเลข",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:three-morning-record-history-20260918",
+      "changed_at": "2026-09-18T03:14:40Z",
+      "summary": "เพิ่มจุดเทียบรอบ 1–3 ใน 48 นาที พร้อมระบุว่าแต่ละบันทึกมาจาก URL ใดและไม่เรียกรอบ 3 ว่าราคาปิด",
+      "path": "/p/thai-gold-price-analysis/history/"
+    },
+    {
+      "change_id": "change:round3-salung-calculation-20260918",
+      "changed_at": "2026-09-18T03:14:40Z",
+      "summary": "อัปเดตตัวอย่างคำนวณทอง 1 สลึงจากบันทึกรอบ 3 พร้อมแยกช่องฐานภาษีและค่าใช้จ่ายที่ยังไม่ทราบ",
+      "path": "/p/thai-gold-price-analysis/tools/"
+    },
+    {
+      "change_id": "change:round3-form-explainer-20260918",
+      "changed_at": "2026-09-18T03:14:40Z",
+      "summary": "อัปเดตตัวอย่างทองแท่งและทองรูปพรรณรอบ 3 และย้ำว่าฐานภาษีไม่ใช่ยอดรับซื้อสุทธิ",
+      "path": "/p/thai-gold-price-analysis/compare/"
+    },
+    {
+      "change_id": "change:round3-route-report-20260918",
+      "changed_at": "2026-09-18T03:14:40Z",
+      "summary": "เพิ่มรายงานตรวจหลาย URL ของสมาคมฯ พร้อมความต่างของรอบ 1, 2 และ 3 และคำถามยอดสุทธิร้าน",
+      "path": "/p/thai-gold-price-analysis/reports/20260918-6b51b24c.html"
     }
   ]
 }

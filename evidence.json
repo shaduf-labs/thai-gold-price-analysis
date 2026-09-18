@@ -580,6 +580,66 @@
       "accessed_at": "2026-09-17T03:03:43Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-noclassic-round3-20260918",
+      "source_type": "official Association daily price endpoint",
+      "source_url": "https://noclassic.goldtraders.or.th/",
+      "title": "สมาคมค้าทองคำ: noclassic",
+      "claim": "หน้าแสดงวันที่ 18 ก.ย. 2569 เวลา 09:51 น. ครั้งที่ 3: ทองแท่ง 96.5% รับซื้อ 68,400 บาท ขายออก 68,600 บาท; ทองรูปพรรณขายออก 69,400 บาท และช่อง 67,037.52 บาทระบุฐานภาษี.",
+      "accessed_at": "2026-09-18T03:05:03Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-www-round2-20260918",
+      "source_type": "official Association daily-price endpoint",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "สมาคมค้าทองคำ: www daily-price",
+      "claim": "หน้าแสดงวันที่ 18 ก.ย. 2569 เวลา 09:31 น. ครั้งที่ 2: ทองแท่ง 96.5% รับซื้อ 68,350 บาท ขายออก 68,550 บาท; ตารางระหว่างวันแสดงรอบ 1 เวลา 09:03 น. ที่ 68,300/68,500 บาท.",
+      "accessed_at": "2026-09-18T03:05:03Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-intraday-round2-20260918",
+      "source_type": "official Association intraday-adjustment page",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "สมาคมค้าทองคำ: classic การปรับเปลี่ยนระหว่างวัน",
+      "claim": "หน้าการปรับเปลี่ยนระหว่างวันแสดงวันที่ 18 ก.ย. 2569 รอบ 2 เวลา 09:31 น. ที่ทองแท่ง 96.5% รับซื้อ 68,350 บาท ขายออก 68,550 บาท และรอบ 1 เวลา 09:03 น. ที่ 68,300/68,500 บาท.",
+      "accessed_at": "2026-09-18T03:05:03Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-home-round1-20260918",
+      "source_type": "official Association current-price view",
+      "source_url": "https://classic.goldtraders.or.th/default.aspx",
+      "title": "สมาคมค้าทองคำ: classic หน้าแรก",
+      "claim": "หน้าแสดงวันที่ 18 ก.ย. 2569 เวลา 09:03 น. ครั้งที่ 1: ทองแท่ง 96.5% รับซื้อ 68,300 บาท ขายออก 68,500 บาท จึงเป็นบันทึกก่อนรอบ 2 และรอบ 3 ที่พบในหน้า Association อื่น.",
+      "accessed_at": "2026-09-18T03:05:03Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:intergold-association-row-round1-20260918",
+      "source_type": "dealer and trading-platform quote page",
+      "source_url": "https://www.intergold.co.th/gold-price/",
+      "title": "InterGOLD price page",
+      "claim": "หน้าระบุเวลา 09:36 น. และแสดงแถวสมาคมฯ 68,300/68,500 บาทกับแถว InterGold 68,504/68,569 บาทสำหรับ 96.5%; แถวสมาคมฯ ที่ตรวจไม่มีเวลาและครั้งที่ของบันทึกต้นทาง จึงไม่ใช้แทนรอบสมาคมฯ ที่มีเวลา.",
+      "accessed_at": "2026-09-18T03:05:03Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-home-round1-20260918",
+      "source_type": "official Association current-price view",
+      "source_url": "https://sideb.goldtraders.or.th/",
+      "title": "สมาคมค้าทองคำ: sideb หน้าแรก",
+      "claim": "หน้าแสดงวันที่ 18 ก.ย. 2569 เวลา 09:03 น. ครั้งที่ 1: ทองแท่ง 96.5% รับซื้อ 68,300 บาท ขายออก 68,500 บาท จึงเป็นบันทึกก่อนรอบ 2 และรอบ 3 ที่พบในหน้า Association อื่น.",
+      "accessed_at": "2026-09-18T03:05:03Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }
