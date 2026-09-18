@@ -640,6 +640,26 @@
       "accessed_at": "2026-09-18T03:05:03Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-www-round27-20260918",
+      "source_type": "official Association daily-price endpoint",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "สมาคมค้าทองคำ: www daily-price",
+      "claim": "หน้าราคาประจำวันแสดงวันที่ 18 ก.ย. 2569 เวลา 16:53 น. ครั้งที่ 27: ทองแท่ง 96.5% รับซื้อ 68,850 บาท ขายออก 69,050 บาท และตารางระหว่างวัน 27 แถวตั้งแต่ 09:03 น. ถึง 16:53 น.; ใช้เป็นราคาอ้างอิงตามเวลา ไม่ใช่ยอดหน้าร้าน.",
+      "accessed_at": "2026-09-18T11:06:53Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-noclassic-round27-20260918",
+      "source_type": "official Association daily-price endpoint",
+      "source_url": "https://noclassic.goldtraders.or.th/",
+      "title": "สมาคมค้าทองคำ: noclassic",
+      "claim": "หน้าแสดงวันที่ 18 ก.ย. 2569 เวลา 16:53 น. ครั้งที่ 27: ทองแท่ง 96.5% รับซื้อ 68,850 บาท ขายออก 69,050 บาท; ทองรูปพรรณขายออก 69,850 บาท และช่อง 67,477.16 บาทระบุฐานภาษี.",
+      "accessed_at": "2026-09-18T11:06:53Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
     }
   ]
 }

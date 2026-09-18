@@ -231,6 +231,17 @@
       "summary": "หน้า noclassic แสดงรอบ 3 เวลา 09:51 น. ที่ 68,400/68,600 บาท ขณะที่ www และ classic ตารางปรับแสดงรอบ 2 เวลา 09:31 น. และหน้าแรก classic กับ sideb แสดงรอบ 1 เวลา 09:03 น. จึงต้องเก็บ URL เวลา รอบ และด้านราคาไว้กับตัวเลข.",
       "report_path": "/p/thai-gold-price-analysis/reports/20260918-6b51b24c.html",
       "entrypoint": "reports/20260918-6b51b24c.html"
+    },
+    {
+      "run_id": "run:fd52ab4f-dbcc-46c2-8e46-5002b7af1f35",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-18T11:00:00.000Z",
+      "completed_at": "2026-09-18T11:12:30Z",
+      "title": "27 รอบในวันเดียว: 69,200 บาทลงมาที่ 69,050 บาท แต่ยังไม่ใช่ยอดร้าน",
+      "summary": "หน้า www แสดง 27 รอบตั้งแต่ 09:03 น. ถึง 16:53 น.; รอบ 27 ที่ 68,850/69,050 บาทเป็นบันทึกท้ายสุดที่หน้าแสดง และ noclassic แสดงคู่เดียวกัน แต่ยังต้องเก็บ URL เวลา รอบ และด้านราคาไว้กับตัวเลข.",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260918-fd52ab4f.html",
+      "entrypoint": "reports/20260918-fd52ab4f.html"
     }
   ]
 }

@@ -516,6 +516,24 @@
       "changed_at": "2026-09-18T03:14:40Z",
       "summary": "เพิ่มรายงานตรวจหลาย URL ของสมาคมฯ พร้อมความต่างของรอบ 1, 2 และ 3 และคำถามยอดสุทธิร้าน",
       "path": "/p/thai-gold-price-analysis/reports/20260918-6b51b24c.html"
+    },
+    {
+      "change_id": "change:round27-timed-reference-20260918",
+      "changed_at": "2026-09-18T11:06:53Z",
+      "summary": "อัปเดตราคาอ้างอิงรอบ 27 เวลา 16:53 น. จากหน้า www และ noclassic พร้อมเวลา อายุข้อมูล และขอบเขตว่าไม่ใช่ราคาปิดหรือยอดร้าน",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:27-round-intraday-history-20260918",
+      "changed_at": "2026-09-18T11:06:53Z",
+      "summary": "เพิ่มจุดเทียบบันทึกเปิด จุดสูงสุดที่พบ และบันทึกท้ายสุดในตาราง 27 รอบ โดยไม่ทำนายทิศทางหรือเรียกว่าราคาปิด",
+      "path": "/p/thai-gold-price-analysis/history/"
+    },
+    {
+      "change_id": "change:round27-salung-and-exit-terms-20260918",
+      "changed_at": "2026-09-18T11:06:53Z",
+      "summary": "อัปเดตตัวอย่างคำนวณทอง 1 สลึงจากรอบ 27 และเพิ่มคำถามเรื่องการยกเลิก ทางรับเงิน และเวลารอในรายการเทียบออมทอง",
+      "path": "/p/thai-gold-price-analysis/tools/"
     }
   ]
 }
