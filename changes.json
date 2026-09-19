@@ -540,6 +540,30 @@
       "changed_at": "2026-09-19T03:06:00Z",
       "summary": "ย้ายคำตอบหลักเป็นสถานะ “ยังยืนยันราคา 19 ก.ย. ไม่ได้” เก็บเลข 18 ก.ย. เป็นประวัติ และเพิ่มคำถามเรื่องร้านเดิมกับหลักฐานการซื้อก่อนขายทองรูปพรรณ",
       "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:round1-same-day-reference-20260919-evening",
+      "changed_at": "2026-09-19T11:06:00Z",
+      "summary": "อัปเดตราคาอ้างอิงรอบ 1 เวลา 09:06 น. จากสามหน้าสมาคมฯ พร้อมรับซื้อ ขายออก หน่วย และอายุข้อมูลเมื่อเวลาตรวจ",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:round1-history-and-salung-20260919-evening",
+      "changed_at": "2026-09-19T11:06:00Z",
+      "summary": "เพิ่มบันทึกรอบ 1 วันที่ 19 ก.ย. และตัวอย่างคำนวณทอง 1 สลึง โดยแยกราคาอ้างอิงออกจากยอดร้าน",
+      "path": "/p/thai-gold-price-analysis/history/"
+    },
+    {
+      "change_id": "change:price-object-labels-20260919-evening",
+      "changed_at": "2026-09-19T11:06:00Z",
+      "summary": "เพิ่มคำอธิบายว่าป้ายราคาแถวสมาคมฯ กับแถวผู้ให้บริการเป็นคนละข้อมูล และต้องถามยอดสุทธิของชิ้นงาน",
+      "path": "/p/thai-gold-price-analysis/learn/"
+    },
+    {
+      "change_id": "change:round1-source-age-report-20260919-evening",
+      "changed_at": "2026-09-19T11:06:00Z",
+      "summary": "เพิ่มรายงานรอบเย็นที่แยกราคาอ้างอิงเวลา 09:06 น. ออกจากราคาสด ใบเสนอราคาของร้าน และแถวพาณิชย์",
+      "path": "/p/thai-gold-price-analysis/reports/20260919-e4d4f280.html"
     }
   ]
 }

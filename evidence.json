@@ -40,6 +40,46 @@
       "accessed_at": "2026-09-19T03:06:00Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-www-round1-20260919-evening",
+      "source_type": "official Association daily-price route",
+      "title": "Gold Traders Association www daily-price",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "claim": "หน้า www แสดงบันทึกวันที่ 19 ก.ย. เวลา 09:06 น. ครั้งที่ 1: ทองคำแท่ง 96.5% รับซื้อ 68,900 บาท และขายออก 69,100 บาท",
+      "accessed_at": "2026-09-19T11:02:52Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-noclassic-round1-20260919-evening",
+      "source_type": "official Association current-price route",
+      "title": "Gold Traders Association noclassic",
+      "source_url": "https://noclassic.goldtraders.or.th/",
+      "claim": "หน้า noclassic แสดงบันทึกวันที่ 19 ก.ย. เวลา 09:06 น. ครั้งที่ 1 และคู่ราคาทองแท่งเดียวกัน",
+      "accessed_at": "2026-09-19T11:02:52Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-round1-20260919-evening",
+      "source_type": "official Association current-price route",
+      "title": "Gold Traders Association classic",
+      "source_url": "https://classic.goldtraders.or.th/default2.aspx",
+      "claim": "หน้า classic แสดงบันทึกวันที่ 19 ก.ย. เวลา 09:06 น. ครั้งที่ 1 และคู่ราคาทองแท่งเดียวกัน",
+      "accessed_at": "2026-09-19T11:02:52Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:intergold-distinct-display-20260919",
+      "source_type": "commercial dealer display",
+      "title": "InterGOLD weekly news 19",
+      "source_url": "https://www.intergold.co.th/investor_core/weekly-19-9-2026/weekly-news-19/",
+      "claim": "หน้าพาณิชย์แสดงแถว InterGold และแถวสมาคมฯ แยกชื่อและตัวเลขกัน; ใช้ยืนยันการแยกป้ายของหน้านี้ ไม่ใช่ใบเสนอราคาหน้าร้าน",
+      "accessed_at": "2026-09-19T11:02:52Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }
