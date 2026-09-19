@@ -242,6 +242,17 @@
       "summary": "หน้า www แสดง 27 รอบตั้งแต่ 09:03 น. ถึง 16:53 น.; รอบ 27 ที่ 68,850/69,050 บาทเป็นบันทึกท้ายสุดที่หน้าแสดง และ noclassic แสดงคู่เดียวกัน แต่ยังต้องเก็บ URL เวลา รอบ และด้านราคาไว้กับตัวเลข.",
       "report_path": "/p/thai-gold-price-analysis/reports/20260918-fd52ab4f.html",
       "entrypoint": "reports/20260918-fd52ab4f.html"
+    },
+    {
+      "run_id": "run:early:9f448ff90ea32a65d018fdaf9ca9f88e",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-19T03:00:00.000Z",
+      "completed_at": "2026-09-19T03:18:00Z",
+      "title": "เช้านี้ยังยืนยันราคา 19 ก.ย. ไม่ได้: อย่าเอา 69,050 บาทของเมื่อวานไปใช้แทน",
+      "summary": "สองหน้าสมาคมฯ ที่ตรวจยังแสดงบันทึก 18 ก.ย. รอบ 27 จึงไม่ใช้เลขเก่าแทนราคาเช้าวันที่ 19 ก.ย. และเพิ่มคำถามเรื่องร้านเดิม หลักฐานการซื้อ และยอดสุทธิสำหรับทองรูปพรรณ",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260919-9f448ff9.html",
+      "entrypoint": "reports/20260919-9f448ff9.html"
     }
   ]
 }
