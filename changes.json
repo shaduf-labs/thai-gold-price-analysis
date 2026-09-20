@@ -564,6 +564,36 @@
       "changed_at": "2026-09-19T11:06:00Z",
       "summary": "เพิ่มรายงานรอบเย็นที่แยกราคาอ้างอิงเวลา 09:06 น. ออกจากราคาสด ใบเสนอราคาของร้าน และแถวพาณิชย์",
       "path": "/p/thai-gold-price-analysis/reports/20260919-e4d4f280.html"
+    },
+    {
+      "change_id": "change:two-route-round1-20260920-afternoon",
+      "changed_at": "2026-09-20T08:36:07Z",
+      "summary": "อัปเดตราคาอ้างอิงรอบ 1 เวลา 09:20 น. จากสองหน้าสมาคมฯ พร้อมรับซื้อ ขายออก หน่วย และอายุข้อมูลเมื่อเวลาตรวจ",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:route-retrieval-limit-20260920-afternoon",
+      "changed_at": "2026-09-20T08:36:07Z",
+      "summary": "เพิ่มข้อจำกัดว่าหน้า www daily-price ดึงไม่สำเร็จในการตรวจครั้งนี้ และไม่ใช้ผลนั้นสรุปว่าราคาหายหรือแตกต่าง",
+      "path": "/p/thai-gold-price-analysis/today/"
+    },
+    {
+      "change_id": "change:round1-history-and-salung-20260920-afternoon",
+      "changed_at": "2026-09-20T08:36:07Z",
+      "summary": "เพิ่มบันทึกรอบ 1 วันที่ 20 ก.ย. และตัวอย่างคำนวณทอง 1 สลึง โดยแยกราคาอ้างอิงออกจากยอดร้าน",
+      "path": "/p/thai-gold-price-analysis/history/"
+    },
+    {
+      "change_id": "change:same-shop-net-question-20260920-afternoon",
+      "changed_at": "2026-09-20T08:36:07Z",
+      "summary": "ทำให้คำถามขายทองรูปพรรณเริ่มจากสถานะร้านเดิม หลักฐานการซื้อ รายการหัก และยอดสุทธิของชิ้นงาน",
+      "path": "/p/thai-gold-price-analysis/compare/"
+    },
+    {
+      "change_id": "change:two-route-source-age-report-20260920-afternoon",
+      "changed_at": "2026-09-20T08:36:07Z",
+      "summary": "เพิ่มรายงานที่แยกบันทึกอ้างอิงจากสองหน้าสมาคมฯ ออกจากราคาสด ใบเสนอราคาของร้าน และยอดสุทธิ",
+      "path": "/p/thai-gold-price-analysis/reports/20260920-4b94d9df.html"
     }
   ]
 }

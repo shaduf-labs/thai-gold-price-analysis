@@ -264,6 +264,17 @@
       "summary": "สามหน้าสมาคมฯ ที่ตรวจแสดงรอบ 1 เวลา 09:06 น. ที่ 68,900/69,100 บาท; รายงานเก็บอายุข้อมูลและแยกแถวราคาอ้างอิงออกจากแถวพาณิชย์กับยอดร้าน",
       "report_path": "/p/thai-gold-price-analysis/reports/20260919-e4d4f280.html",
       "entrypoint": "reports/20260919-e4d4f280.html"
+    },
+    {
+      "run_id": "run:manual:4b94d9dfdd81c8a386e8eb8c197c844f",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-20T08:26:48.651Z",
+      "completed_at": "2026-09-20T08:37:11Z",
+      "title": "สองหน้าสมาคมฯ ตรงกันที่ 69,050 บาท แต่บันทึกเวลา 09:20 น.",
+      "summary": "หน้า noclassic และ classic แสดงรอบ 1 เวลา 09:20 น. ที่ 68,850/69,050 บาท; รายงานเก็บอายุข้อมูล ข้อจำกัดการดึงหน้า www และคำถามหายอดสุทธิของชิ้นงาน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260920-4b94d9df.html",
+      "entrypoint": "reports/20260920-4b94d9df.html"
     }
   ]
 }

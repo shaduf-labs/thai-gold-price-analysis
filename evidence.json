@@ -80,6 +80,36 @@
       "accessed_at": "2026-09-19T11:02:52Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-noclassic-round1-20260920",
+      "source_type": "official Association current-price route",
+      "title": "Gold Traders Association noclassic",
+      "source_url": "https://noclassic.goldtraders.or.th/",
+      "claim": "หน้า noclassic แสดงบันทึกวันที่ 20 ก.ย. เวลา 09:20 น. ครั้งที่ 1: ทองคำแท่ง 96.5% รับซื้อ 68,850 บาท และขายออก 69,050 บาท",
+      "accessed_at": "2026-09-20T08:29:47Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-round1-20260920",
+      "source_type": "official Association current-price route",
+      "title": "Gold Traders Association classic",
+      "source_url": "https://classic.goldtraders.or.th/default2.aspx",
+      "claim": "หน้า classic แสดงบันทึกวันที่ 20 ก.ย. เวลา 09:20 น. ครั้งที่ 1 และคู่ราคาทองแท่งเดียวกัน",
+      "accessed_at": "2026-09-20T08:29:47Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-www-daily-timeout-20260920",
+      "source_type": "official Association daily-price route",
+      "title": "Gold Traders Association www daily-price",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "claim": "เส้นทาง www daily-price ดึงไม่สำเร็จในการตรวจครั้งนี้; ใช้บอกข้อจำกัดการเข้าถึงเท่านั้น ไม่ใช่หลักฐานว่าหน้าแสดงราคาอื่น",
+      "accessed_at": "2026-09-20T08:29:47Z",
+      "relation": "limits",
+      "publication_basis": "owner-authored"
     }
   ]
 }
