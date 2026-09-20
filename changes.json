@@ -594,6 +594,36 @@
       "changed_at": "2026-09-20T08:36:07Z",
       "summary": "เพิ่มรายงานที่แยกบันทึกอ้างอิงจากสองหน้าสมาคมฯ ออกจากราคาสด ใบเสนอราคาของร้าน และยอดสุทธิ",
       "path": "/p/thai-gold-price-analysis/reports/20260920-4b94d9df.html"
+    },
+    {
+      "change_id": "change:stale-round1-status-20260920-evening",
+      "changed_at": "2026-09-20T11:18:00Z",
+      "summary": "เปลี่ยนสถานะบันทึกรอบ 1 เวลา 09:20 น. เป็นข้อมูลเก่าหลังตรวจซ้ำเวลา 18:08 น. และย้ำว่าไม่ใช่ราคาสด ราคาปิด หรือยอดร้าน",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:evening-route-recheck-20260920",
+      "changed_at": "2026-09-20T11:18:00Z",
+      "summary": "เพิ่มผลตรวจซ้ำว่า noclassic และ classic ยังแสดงบันทึก 09:20 น. พร้อมข้อจำกัดว่าไม่ยืนยันรอบสุดท้ายหรือไม่มีรอบอื่น",
+      "path": "/p/thai-gold-price-analysis/today/"
+    },
+    {
+      "change_id": "change:item-check-before-jewelry-20260920",
+      "changed_at": "2026-09-20T11:18:00Z",
+      "summary": "เพิ่มรายการตรวจราคาสินค้า ประเภท ความบริสุทธิ์ ชื่อและที่ตั้งผู้ประกอบการ และน้ำหนักก่อนซื้อทองรูปพรรณ",
+      "path": "/p/thai-gold-price-analysis/compare/"
+    },
+    {
+      "change_id": "change:stale-salung-example-20260920",
+      "changed_at": "2026-09-20T11:18:00Z",
+      "summary": "ติดป้ายตัวอย่าง 1 สลึงว่าคำนวณจากบันทึก 09:20 น. ที่เก่าแล้ว ไม่ใช่ใบเสนอราคาของร้านเวลาเย็น",
+      "path": "/p/thai-gold-price-analysis/tools/"
+    },
+    {
+      "change_id": "change:evening-stale-reference-report-20260920",
+      "changed_at": "2026-09-20T11:18:00Z",
+      "summary": "เพิ่มรายงานที่แยกบันทึกอ้างอิงอายุ 8 ชั่วโมง 48 นาทีออกจากราคาสด รอบสุดท้าย และยอดสุทธิร้าน",
+      "path": "/p/thai-gold-price-analysis/reports/20260920-ea533f94.html"
     }
   ]
 }

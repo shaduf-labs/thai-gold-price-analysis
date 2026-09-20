@@ -110,6 +110,46 @@
       "accessed_at": "2026-09-20T08:29:47Z",
       "relation": "limits",
       "publication_basis": "owner-authored"
+    },
+    {
+      "evidence_id": "evidence:gta-noclassic-round1-persisted-20260920",
+      "source_type": "official Association current-price route",
+      "title": "Gold Traders Association noclassic",
+      "source_url": "https://noclassic.goldtraders.or.th/",
+      "claim": "เวลา 18:08 น. หน้า noclassic ยังแสดงบันทึกวันที่ 20 ก.ย. เวลา 09:20 น. ครั้งที่ 1: ทองคำแท่ง 96.5% รับซื้อ 68,850 บาท และขายออก 69,050 บาท",
+      "accessed_at": "2026-09-20T11:08:32Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-round1-persisted-20260920",
+      "source_type": "official Association current-price route",
+      "title": "Gold Traders Association classic",
+      "source_url": "https://classic.goldtraders.or.th/default2.aspx",
+      "claim": "เวลา 18:08 น. หน้า classic ยังแสดงบันทึกวันที่ 20 ก.ย. เวลา 09:20 น. ครั้งที่ 1 และคู่ราคาทองแท่งเดียวกัน",
+      "accessed_at": "2026-09-20T11:08:32Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:ocpb-jewelry-purchase-checklist-202601",
+      "source_type": "official consumer-protection notice",
+      "title": "สคบ. ลุยตรวจทันควัน หลังโซเชียลแฉเปอร์เซ็นต์ทองไม่ตรง",
+      "source_url": "https://www.ocpb.go.th/news_view_en.php?nid=17337",
+      "claim": "สคบ. แนะนำให้ตรวจราคาขาย ประเภทสินค้า ความบริสุทธิ์ ชื่อและที่ตั้งผู้ประกอบการ และน้ำหนักก่อนซื้อทองรูปพรรณ; เป็นรายการตรวจ ไม่ใช่คำรับรองร้าน",
+      "accessed_at": "2026-09-20T11:08:32Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:ocpb-gold-saving-platform-check-202602",
+      "source_type": "official consumer-protection notice",
+      "title": "สคบ. ร่วมบันทึกเทปประเด็นแชร์ลูกโซ่ออมทองออนไลน์",
+      "source_url": "https://www.ocpb.go.th/news_view_en.php?nid=17481",
+      "claim": "สคบ. ระบุว่าควรตรวจร้านค้าหรือแพลตฟอร์มออมทองก่อนตัดสินใจ; หน้านี้ไม่เปรียบเทียบหรือรับรองผู้ให้บริการ",
+      "accessed_at": "2026-09-20T11:08:32Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

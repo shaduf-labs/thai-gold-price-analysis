@@ -275,6 +275,17 @@
       "summary": "หน้า noclassic และ classic แสดงรอบ 1 เวลา 09:20 น. ที่ 68,850/69,050 บาท; รายงานเก็บอายุข้อมูล ข้อจำกัดการดึงหน้า www และคำถามหายอดสุทธิของชิ้นงาน",
       "report_path": "/p/thai-gold-price-analysis/reports/20260920-4b94d9df.html",
       "entrypoint": "reports/20260920-4b94d9df.html"
+    },
+    {
+      "run_id": "run:ea533f94-be1b-4c27-829c-4820299505f1",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-20T11:00:00.000Z",
+      "completed_at": "2026-09-20T11:18:00Z",
+      "title": "18:08 น. ยังเห็น 69,050 บาทจากรอบ 09:20: บันทึกมีอายุ 8 ชั่วโมง 48 นาที",
+      "summary": "หน้า noclassic และ classic ที่ตรวจยังแสดงรอบ 1 เวลา 09:20 น. ที่ 68,850/69,050 บาท จึงเปลี่ยนสถานะเป็นข้อมูลเก่าและเพิ่มรายการตรวจชิ้นงานกับคำถามยอดสุทธิ.",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260920-ea533f94.html",
+      "entrypoint": "reports/20260920-ea533f94.html"
     }
   ]
 }
