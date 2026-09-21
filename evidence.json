@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-classic-home-round19-20260921",
+      "source_type": "official Association current-price page",
+      "title": "Gold Traders Association classic current-price page",
+      "source_url": "https://classic.goldtraders.or.th/",
+      "claim": "หน้าที่ตรวจแสดงทองคำแท่ง 96.5% รอบ 19 เวลา 17:17 น. รับซื้อ 68,400 บาท และขายออก 68,600 บาทต่อบาททองคำ",
+      "accessed_at": "2026-09-21T11:07:37Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-noclassic-home-round19-20260921",
+      "source_type": "official Association current-price page",
+      "title": "Gold Traders Association noclassic current-price page",
+      "source_url": "https://noclassic.goldtraders.or.th/",
+      "claim": "หน้าที่ตรวจแสดงทองคำแท่ง 96.5% รอบ 19 เวลา 17:17 น. รับซื้อ 68,400 บาท และขายออก 68,600 บาทต่อบาททองคำ",
+      "accessed_at": "2026-09-21T11:07:37Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-intraday-19-rounds-20260921",
+      "source_type": "official Association intraday-adjustment table",
+      "title": "Gold Traders Association intraday adjustment table",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "claim": "ตารางที่ตรวจแสดง 19 รอบตั้งแต่ 09:09 ถึง 17:17 น.; ขายออกจาก 68,950 บาทในรอบแรกที่เห็น ไป 68,600 บาทในรอบ 19 และต่ำสุดที่เห็น 68,500 บาท",
+      "accessed_at": "2026-09-21T11:07:37Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:ocpb-volatile-bar-sales-case-202603",
       "source_type": "official consumer-protection report",
       "title": "สคบ. ลงพื้นที่ตรวจสอบห้างทองแม่ทองสุก หลังประกาศงดขายทองคำแท่งหน้าร้าน",

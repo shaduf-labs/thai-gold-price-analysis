@@ -297,6 +297,17 @@
       "summary": "หน้า www daily-price แสดงรอบ 3 เวลา 09:30 น. ที่ 68,700/68,900 บาท ขณะที่ noclassic แสดงรอบ 2 เวลา 09:24 น. ที่ 68,650/68,850 บาท จึงเก็บ URL เวลา รอบ และด้านราคาไว้กับตัวเลข.",
       "report_path": "/p/thai-gold-price-analysis/reports/20260921-bcc3889a.html",
       "entrypoint": "reports/20260921-bcc3889a.html"
+    },
+    {
+      "run_id": "run:b03c88b7-eb8b-4e29-82fb-42a48b9046cd",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-21T11:00:00.000Z",
+      "completed_at": "2026-09-21T11:31:21Z",
+      "title": "รอบ 19 เวลา 17:17 น. ขายออก 68,600 บาท: หน้าสมาคมฯ สองเส้นทางแสดงตรงกัน",
+      "summary": "classic และ noclassic แสดงรอบ 19 เวลา 17:17 น. ที่ 68,400/68,600 บาท ขณะที่ตารางปรับระหว่างวันที่ตรวจแสดง 19 รอบจาก 09:09 ถึง 17:17 น.; คงข้อจำกัดเรื่อง URL มาตรฐาน ความครบถ้วนของตาราง และยอดร้าน.",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260921-b03c88b7.html",
+      "entrypoint": "reports/20260921-b03c88b7.html"
     }
   ]
 }

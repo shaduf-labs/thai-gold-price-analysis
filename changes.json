@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:aligned-round19-intraday-history-20260921",
+      "changed_at": "2026-09-21T11:31:21Z",
+      "summary": "อัปเดตราคาอ้างอิงรอบ 19 เวลา 17:17 น. ที่สองหน้าสมาคมฯ แสดงตรงกัน และเพิ่มบันทึก 19 รอบกับตัวอย่าง 1 สลึงที่ระบุเวลาและข้อจำกัด",
+      "path": "/p/thai-gold-price-analysis/reports/20260921-b03c88b7.html"
+    },
+    {
       "change_id": "change:route-divergence-report-20260921",
       "changed_at": "2026-09-21T03:18:18.095Z",
       "summary": "เพิ่มรายงานเช้าวันที่ 21 ก.ย. ที่แยกบันทึก official สอง URL ออกจากราคาสด ราคาปิด และยอดสุทธิร้าน",
