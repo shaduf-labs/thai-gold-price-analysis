@@ -2,10 +2,10 @@
   "schema_version": "1.0.0",
   "items": [
     {
-      "change_id": "change:quote-round-24-20260908",
-      "changed_at": "2026-09-08T11:06:27.262Z",
-      "summary": "อัปเดตราคาประกาศรอบที่ 24 พร้อมเวลา อายุข้อมูล ด้านราคา และคำเตือนว่าเป็นราคาอ้างอิง",
-      "path": "/p/thai-gold-price-analysis/"
+      "change_id": "change:route-divergence-report-20260921",
+      "changed_at": "2026-09-21T03:18:18.095Z",
+      "summary": "เพิ่มรายงานเช้าวันที่ 21 ก.ย. ที่แยกบันทึก official สอง URL ออกจากราคาสด ราคาปิด และยอดสุทธิร้าน",
+      "path": "/p/thai-gold-price-analysis/reports/20260921-bcc3889a.html"
     },
     {
       "change_id": "change:intraday-history-24-rounds-20260908",

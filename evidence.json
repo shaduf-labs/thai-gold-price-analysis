@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "items": [
     {
-      "evidence_id": "evidence:gta-www-stale-morning-20260919",
-      "source_type": "official Association daily-price route",
-      "title": "Gold Traders Association www daily-price",
-      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
-      "claim": "ในการตรวจวันที่ 19 ก.ย. หน้า www ยังแสดงบันทึกวันที่ 18 ก.ย. เวลา 16:53 น. รอบ 27",
-      "accessed_at": "2026-09-19T03:06:00Z",
-      "relation": "supports",
+      "evidence_id": "evidence:ocpb-volatile-bar-sales-case-202603",
+      "source_type": "official consumer-protection report",
+      "title": "สคบ. ลงพื้นที่ตรวจสอบห้างทองแม่ทองสุก หลังประกาศงดขายทองคำแท่งหน้าร้าน",
+      "source_url": "https://www.ocpb.go.th/news_view.php?nid=17543",
+      "claim": "สคบ. รายงานกรณีร้านหนึ่งหยุดขายทองแท่งชั่วคราวในช่วงผันผวน ขณะที่บริการรับซื้อ ขายฝาก และไถ่ถอนยังเปิด; เป็นกรณีเฉพาะ ไม่ใช่สถานะของทุกร้าน",
+      "accessed_at": "2026-09-21T03:05:15Z",
+      "relation": "context",
       "publication_basis": "linked-summary"
     },
     {

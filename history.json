@@ -286,6 +286,17 @@
       "summary": "หน้า noclassic และ classic ที่ตรวจยังแสดงรอบ 1 เวลา 09:20 น. ที่ 68,850/69,050 บาท จึงเปลี่ยนสถานะเป็นข้อมูลเก่าและเพิ่มรายการตรวจชิ้นงานกับคำถามยอดสุทธิ.",
       "report_path": "/p/thai-gold-price-analysis/reports/20260920-ea533f94.html",
       "entrypoint": "reports/20260920-ea533f94.html"
+    },
+    {
+      "run_id": "run:bcc3889a-aea2-4f9e-b86c-34f3ca92b71f",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-21T03:00:00.000Z",
+      "completed_at": "2026-09-21T03:22:50Z",
+      "title": "09:30 น. 68,900 บาท แต่หน้าอีกเส้นทางยังอยู่ที่ 68,850 บาท",
+      "summary": "หน้า www daily-price แสดงรอบ 3 เวลา 09:30 น. ที่ 68,700/68,900 บาท ขณะที่ noclassic แสดงรอบ 2 เวลา 09:24 น. ที่ 68,650/68,850 บาท จึงเก็บ URL เวลา รอบ และด้านราคาไว้กับตัวเลข.",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260921-bcc3889a.html",
+      "entrypoint": "reports/20260921-bcc3889a.html"
     }
   ]
 }
