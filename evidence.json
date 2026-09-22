@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-classic-intraday-current-row-20260922",
+      "source_type": "สมาคมค้าทองคำ · ตารางปรับระหว่างวัน",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "การปรับเปลี่ยนระหว่างวัน",
+      "claim": "ในการตรวจครั้งนี้ หน้าที่เข้าถึงได้ไม่ให้แถวปัจจุบันที่ตรวจสอบได้ จึงไม่ใช้เป็นประวัติครบวัน",
+      "accessed_at": "2026-09-22T03:05:53Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-noclassic-home-round3-20260922",
+      "source_type": "สมาคมค้าทองคำ · หน้า noclassic",
+      "source_url": "https://noclassic.goldtraders.or.th/",
+      "title": "ราคาทองตามประกาศของสมาคมค้าทองคำ",
+      "claim": "หน้า noclassic ที่ตรวจแสดงวันที่ 22 ก.ย. 2569 เวลา 09:29 น. ครั้งที่ 3: ทองแท่ง 96.5% รับซื้อ 68,300 บาท และขายออก 68,500 บาทต่อบาททองคำ",
+      "accessed_at": "2026-09-22T03:05:53Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-home-round4-20260922",
+      "source_type": "สมาคมค้าทองคำ · หน้า classic",
+      "source_url": "https://classic.goldtraders.or.th/",
+      "title": "ราคาทองตามประกาศของสมาคมค้าทองคำ",
+      "claim": "หน้า classic ที่ตรวจแสดงวันที่ 22 ก.ย. 2569 เวลา 09:33 น. ครั้งที่ 4: ทองแท่ง 96.5% รับซื้อ 68,350 บาท และขายออก 68,550 บาทต่อบาททองคำ",
+      "accessed_at": "2026-09-22T03:05:53Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-classic-home-round19-20260921",
       "source_type": "official Association current-price page",
       "title": "Gold Traders Association classic current-price page",
