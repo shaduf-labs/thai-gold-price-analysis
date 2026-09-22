@@ -636,6 +636,30 @@
       "changed_at": "2026-09-20T11:18:00Z",
       "summary": "เพิ่มรายงานที่แยกบันทึกอ้างอิงอายุ 8 ชั่วโมง 48 นาทีออกจากราคาสด รอบสุดท้าย และยอดสุทธิร้าน",
       "path": "/p/thai-gold-price-analysis/reports/20260920-ea533f94.html"
+    },
+    {
+      "change_id": "change:round33-visible-range-20260922-evening",
+      "changed_at": "2026-09-22T11:11:37Z",
+      "summary": "อัปเดตบันทึกรอบ 33 เวลา 17:19 น. และช่วงขายออก 700 บาทจาก 33 แถวที่เห็นในตารางสมาคมฯ",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:home-table-lag-20260922-evening",
+      "changed_at": "2026-09-22T11:11:37Z",
+      "summary": "เพิ่มความต่างระหว่างหน้าแรกที่ยังแสดงรอบ 32 กับตารางที่แสดงรอบ 33 โดยแยก URL เวลา รอบ และด้านราคา",
+      "path": "/p/thai-gold-price-analysis/today/"
+    },
+    {
+      "change_id": "change:round33-salung-example-20260922-evening",
+      "changed_at": "2026-09-22T11:11:37Z",
+      "summary": "ปรับตัวอย่างทองแท่ง 1 สลึงจากรอบ 33 เป็นรับซื้อ 16,950 บาทและขายออก 17,000 บาท พร้อมขอบเขตยอดร้าน",
+      "path": "/p/thai-gold-price-analysis/tools/"
+    },
+    {
+      "change_id": "change:round33-intraday-report-20260922-evening",
+      "changed_at": "2026-09-22T11:11:37Z",
+      "summary": "เพิ่มรายงาน 33 แถวที่เห็นในตาราง พร้อมช่วงสูงต่ำ บันทึกรอบ 32 ที่หน้าแรก และข้อจำกัดเรื่องรอบสุดท้าย",
+      "path": "/p/thai-gold-price-analysis/reports/20260922-2abf1b85.html"
     }
   ]
 }

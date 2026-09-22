@@ -319,6 +319,17 @@
       "summary": "classic แสดงรอบ 4 เวลา 09:33 น. ที่ 68,350/68,550 บาท ขณะที่ noclassic แสดงรอบ 3 เวลา 09:29 น. ที่ 68,300/68,500 บาท จึงต้องเก็บ URL เวลา รอบ และด้านราคาไว้กับตัวเลข.",
       "report_path": "/p/thai-gold-price-analysis/reports/20260922-f375bbcf.html",
       "entrypoint": "reports/20260922-f375bbcf.html"
+    },
+    {
+      "run_id": "run:2abf1b85-9f74-4973-b86c-46894fcf7f3d",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-22T11:00:00.000Z",
+      "completed_at": "2026-09-22T11:12:32Z",
+      "title": "33 รอบที่เห็นในตาราง: ขายออกแตะ 68,550 บาท แล้วอยู่ 68,000 บาทเวลา 17:19 น.",
+      "summary": "ตาราง classic แสดง 33 แถวจาก 09:00 ถึง 17:19 น.; รอบ 33 ที่ 67,800/68,000 บาท ขณะที่หน้าแรก classic และ noclassic ยังอยู่รอบ 32 ที่ 17:00 จึงต้องเก็บ URL เวลา รอบ และด้านราคาไว้กับตัวเลข.",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260922-2abf1b85.html",
+      "entrypoint": "reports/20260922-2abf1b85.html"
     }
   ]
 }

@@ -210,6 +210,46 @@
       "accessed_at": "2026-09-20T11:08:32Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-intraday-round33-20260922",
+      "source_type": "official Association intraday-adjustment view",
+      "title": "Gold Traders Association classic intraday table",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "claim": "ตาราง classic แสดงรอบ 33 เวลา 17:19 น. ที่ 67,800/68,000 บาทสำหรับทองแท่ง 96.5% และแถวที่เห็นตั้งแต่รอบ 1 ถึงรอบ 33 มีขายออกสูงสุด 68,550 บาทและต่ำสุด 67,850 บาท",
+      "accessed_at": "2026-09-22T11:05:21Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-daily-round33-alignment-20260922",
+      "source_type": "official Association daily-price view",
+      "title": "Gold Traders Association classic daily prices",
+      "source_url": "https://classic.goldtraders.or.th/DailyPrices.aspx",
+      "claim": "หน้าราคาประจำวัน classic แสดงคู่ทองแท่ง 96.5% 67,800/68,000 บาท แต่ไม่มีเวลาและรอบ จึงใช้ยืนยันคู่ตัวเลขเท่านั้น",
+      "accessed_at": "2026-09-22T11:05:21Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-home-round32-20260922",
+      "source_type": "official Association current-price view",
+      "title": "Gold Traders Association classic",
+      "source_url": "https://classic.goldtraders.or.th/",
+      "claim": "หน้า classic แสดงรอบ 32 เวลา 17:00 น. ที่ 67,850/68,050 บาท ต่างจากรอบ 33 ในตาราง 19 นาทีและข้างละ 50 บาท",
+      "accessed_at": "2026-09-22T11:05:21Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-noclassic-home-round32-20260922",
+      "source_type": "official Association current-price view",
+      "title": "Gold Traders Association noclassic",
+      "source_url": "https://noclassic.goldtraders.or.th/",
+      "claim": "หน้า noclassic แสดงรอบ 32 เวลา 17:00 น. ที่ 67,850/68,050 บาท เช่นเดียวกับหน้า classic ในการตรวจครั้งนี้",
+      "accessed_at": "2026-09-22T11:05:21Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }
