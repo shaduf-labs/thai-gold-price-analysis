@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-classic-intraday-round12-20260923",
+      "source_type": "official Association intraday-adjustment view",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "Gold Traders Association classic intraday table",
+      "claim": "At the research check, the table rendered 12 records from 09:04 round 1 through 15:48 round 12; the displayed bar-selling range was 68,000–68,300 baht.",
+      "accessed_at": "2026-09-23T11:12:28Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-noclassic-home-round12-20260923",
+      "source_type": "official Association current-price view",
+      "source_url": "https://noclassic.goldtraders.or.th/",
+      "title": "Gold Traders Association noclassic homepage",
+      "claim": "At the research check, this page displayed the same 23 September 2569, 15:48, round-12 96.5% bar reference as the classic page.",
+      "accessed_at": "2026-09-23T11:12:28Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-home-round12-20260923",
+      "source_type": "official Association current-price view",
+      "source_url": "https://classic.goldtraders.or.th/",
+      "title": "Gold Traders Association classic homepage",
+      "claim": "At the research check, this page displayed 23 September 2569, 15:48, round 12: 96.5% bars 67,800 baht buyback and 68,000 baht selling per Thai baht-weight.",
+      "accessed_at": "2026-09-23T11:12:28Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-daily-print-round1-20260923",
       "source_type": "สมาคมค้าทองคำ · หน้าพิมพ์รายงาน",
       "source_url": "https://www.goldtraders.or.th/dailyprices_print",

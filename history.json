@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:6097bc3c-4484-4b62-9ec1-b1c8ac35303f",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-23T11:00:00.000Z",
+      "completed_at": "2026-09-23T11:22:00Z",
+      "title": "12 รอบที่เห็น: ขายออกแตะ 68,300 บาท แล้วอยู่ 68,000 บาทเวลา 15:48 น.",
+      "summary": "ตาราง classic ของสมาคมฯ แสดง 12 แถวตั้งแต่ 09:04 ถึง 15:48 น.; รอบ 12 อยู่ที่ 67,800/68,000 บาท และหน้า classic กับ noclassic แสดงคู่เวลาเดียวกัน แต่ยังไม่เรียกว่าราคาปิดหรือยอดร้าน.",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260923-6097bc3c.html",
+      "entrypoint": "reports/20260923-6097bc3c.html"
+    },
+    {
       "run_id": "run:4db625fc-c621-4af4-b67d-e8bcd2c258a9",
       "status": "completed",
       "answer_change": "meaningful_change",
