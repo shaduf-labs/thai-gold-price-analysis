@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:4db625fc-c621-4af4-b67d-e8bcd2c258a9",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-23T03:03:13.970Z",
+      "completed_at": "2026-09-23T03:12:04.450Z",
+      "title": "5 หน้าสมาคมฯ ตรงกันที่ 68,150 บาทเวลา 09:04 น. แต่ยังไม่ใช่ราคาสด",
+      "summary": "ตรวจพบราคาทองแท่ง 96.5% รอบ 1 เวลา 09:04 น. ที่ 67,950/68,150 บาทใน 5 หน้าสมาคมฯ พร้อมข้อจำกัดเรื่องอายุข้อมูล ตาราง 1 แถว และยอดร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260923-4db625fc.html",
+      "entrypoint": "reports/20260923-4db625fc.html"
+    },
+    {
       "run_id": "run:manual:88c2aa49b30a2209b3fa5da8908073a8",
       "status": "completed",
       "answer_change": "meaningful_change",

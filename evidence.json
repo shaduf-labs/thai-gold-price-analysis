@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-daily-print-round1-20260923",
+      "source_type": "สมาคมค้าทองคำ · หน้าพิมพ์รายงาน",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "ราคาทองตามประกาศของสมาคมค้าทองคำ",
+      "claim": "หน้าที่ตรวจแสดงวันที่ 23 ก.ย. 2569 เวลา 09:04 น. ครั้งที่ 1: ทองแท่ง 96.5% รับซื้อ 67,950 บาท และขายออก 68,150 บาทต่อบาททองคำ",
+      "accessed_at": "2026-09-23T03:05:32Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-home-round1-20260923",
+      "source_type": "สมาคมค้าทองคำ · หน้า classic",
+      "source_url": "https://classic.goldtraders.or.th/",
+      "title": "ราคาทองตามประกาศของสมาคมค้าทองคำ",
+      "claim": "หน้า classic ที่ตรวจแสดงวันที่ 23 ก.ย. 2569 เวลา 09:04 น. ครั้งที่ 1: ทองแท่ง 96.5% รับซื้อ 67,950 บาท และขายออก 68,150 บาทต่อบาททองคำ",
+      "accessed_at": "2026-09-23T03:05:32Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-noclassic-home-round1-20260923",
+      "source_type": "สมาคมค้าทองคำ · หน้า noclassic",
+      "source_url": "https://noclassic.goldtraders.or.th/",
+      "title": "ราคาทองตามประกาศของสมาคมค้าทองคำ",
+      "claim": "หน้า noclassic ที่ตรวจแสดงวันที่ 23 ก.ย. 2569 เวลา 09:04 น. ครั้งที่ 1: ทองแท่ง 96.5% รับซื้อ 67,950 บาท และขายออก 68,150 บาทต่อบาททองคำ",
+      "accessed_at": "2026-09-23T03:05:32Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-daily-round1-20260923",
+      "source_type": "สมาคมค้าทองคำ · ราคาประจำวัน classic",
+      "source_url": "https://classic.goldtraders.or.th/DailyPrices.aspx",
+      "title": "ราคาทองประจำวัน",
+      "claim": "หน้าราคาประจำวัน classic ที่ตรวจแสดงคู่ทองแท่ง 96.5% 67,950/68,150 บาทในวันที่ 23 ก.ย. แต่ไม่มีเวลาและครั้งที่",
+      "accessed_at": "2026-09-23T03:05:32Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-intraday-round1-20260923",
+      "source_type": "สมาคมค้าทองคำ · ตารางปรับระหว่างวัน classic",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "การปรับเปลี่ยนระหว่างวัน",
+      "claim": "ตารางที่ตรวจแสดง 1 แถว: 23 ก.ย. 2569 เวลา 09:04 น. ครั้งที่ 1 ทองแท่ง 96.5% 67,950/68,150 บาท; 1 แถวไม่ยืนยันว่าครบทั้งวัน",
+      "accessed_at": "2026-09-23T03:05:32Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-classic-intraday-current-row-20260922",
       "source_type": "สมาคมค้าทองคำ · ตารางปรับระหว่างวัน",
       "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",

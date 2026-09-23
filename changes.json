@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:five-view-round1-alignment-20260923",
+      "changed_at": "2026-09-23T03:11:14.880Z",
+      "summary": "อัปเดตบันทึก 23 ก.ย. เวลา 09:04 น. ครั้งที่ 1 ที่หน้าสมาคมฯ 5 หน้าตรงกัน: ทองแท่ง 96.5% รับซื้อ 67,950 บาทและขายออก 68,150 บาท พร้อมอายุข้อมูลและขอบเขตของการตรงกัน",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:single-row-history-limit-20260923",
+      "changed_at": "2026-09-23T03:11:14.880Z",
+      "summary": "ปรับหน้าสถานะแหล่งข้อมูลและประวัติให้แสดงว่าตารางระหว่างวันที่ตรวจมี 1 แถว จึงไม่สรุปช่วงสูงต่ำ ประวัติครบวัน หรือรอบสุดท้าย",
+      "path": "/p/thai-gold-price-analysis/history/"
+    },
+    {
+      "change_id": "change:round1-salung-example-20260923",
+      "changed_at": "2026-09-23T03:11:14.880Z",
+      "summary": "ปรับตัวอย่างทองแท่ง 1 สลึงจากรอบ 1 เป็นรับซื้อ 16,987.50 บาทและขายออก 17,037.50 บาท พร้อมขอบเขตยอดร้าน",
+      "path": "/p/thai-gold-price-analysis/tools/"
+    },
+    {
+      "change_id": "change:round1-jewelry-questions-20260923",
+      "changed_at": "2026-09-23T03:11:14.880Z",
+      "summary": "ปรับคำถามก่อนขายทองรูปพรรณให้ใช้บันทึก 09:04 น. ครั้งที่ 1 และย้ำว่าฐานภาษี 66,597.88 บาทไม่ใช่ยอดรับซื้อสุทธิ",
+      "path": "/p/thai-gold-price-analysis/compare/"
+    },
+    {
+      "change_id": "change:five-view-alignment-report-20260923",
+      "changed_at": "2026-09-23T03:11:14.880Z",
+      "summary": "เพิ่มรายงานที่แยกการตรงกันของ 5 หน้าสมาคมฯ ออกจากราคาสด URL มาตรฐาน รอบสุดท้าย และยอดสุทธิร้าน",
+      "path": "/p/thai-gold-price-analysis/reports/20260923-4db625fc.html"
+    },
+    {
       "change_id": "change:route-round4-round3-20260922",
       "changed_at": "2026-09-22T03:10:00Z",
       "summary": "อัปเดตบันทึกอ้างอิงวันที่ 22 ก.ย.: classic แสดงรอบ 4 เวลา 09:33 น. ที่ 68,350/68,550 บาท ขณะที่ noclassic แสดงรอบ 3 เวลา 09:29 น. ที่ 68,300/68,500 บาท และระบุว่าไม่ควรรวมเลขคนละรอบเป็นราคาเดียว",
