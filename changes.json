@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:three-route-round23-reference-20260924",
+      "changed_at": "2026-09-24T11:04:38Z",
+      "summary": "อัปเดตบันทึก 24 ก.ย.: classic, noclassic และตาราง classic แสดงรอบ 23 เวลา 16:48 น. ที่ 67,300/67,500 บาท พร้อมอายุข้อมูลและขอบเขตยอดร้าน",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:round23-visible-history-20260924",
+      "changed_at": "2026-09-24T11:04:38Z",
+      "summary": "ปรับหน้าประวัติให้แสดง 23 แถวที่ตารางเปิดเผยจาก 09:08 ถึง 16:48 น. ช่วงขายออก 500 บาท และไม่เรียกว่าเป็นประวัติครบวันหรือราคาปิด",
+      "path": "/p/thai-gold-price-analysis/history/"
+    },
+    {
+      "change_id": "change:round23-salung-example-20260924",
+      "changed_at": "2026-09-24T11:04:38Z",
+      "summary": "ปรับตัวอย่างทองแท่ง 1 สลึงจากรอบ 23 เป็นรับซื้อ 16,825 บาทและขายออก 16,875 บาท พร้อมขอบเขตยอดร้าน",
+      "path": "/p/thai-gold-price-analysis/tools/"
+    },
+    {
+      "change_id": "change:round23-jewelry-questions-20260924",
+      "changed_at": "2026-09-24T11:04:38Z",
+      "summary": "ปรับคำถามก่อนขายทองรูปพรรณให้ใช้บันทึก 16:48 น. ครั้งที่ 23 และย้ำว่าฐานภาษี 65,961.16 บาทไม่ใช่ยอดรับซื้อสุทธิ",
+      "path": "/p/thai-gold-price-analysis/compare/"
+    },
+    {
+      "change_id": "change:round23-visible-trail-report-20260924",
+      "changed_at": "2026-09-24T11:04:38Z",
+      "summary": "เพิ่มรายงานที่แยกบันทึก 3 หน้าสมาคมฯ ที่ตรงกันออกจากราคาสด ราคาปิด และยอดร้าน พร้อมช่วงของ 23 แถวที่เห็น",
+      "path": "/p/thai-gold-price-analysis/reports/20260924-1d80bde7.html"
+    },
+    {
       "change_id": "change:home-round3-table-round2-20260924",
       "changed_at": "2026-09-24T03:05:45Z",
       "summary": "อัปเดตบันทึก 24 ก.ย.: หน้า classic และ noclassic แสดงรอบ 3 เวลา 09:41 น. ที่ 67,750/67,950 บาท ขณะที่ตาราง classic แสดงถึงรอบ 2 เวลา 09:17 น. ที่ 67,700/67,900 บาท จึงแยก URL เวลา รอบ และด้านราคา",
