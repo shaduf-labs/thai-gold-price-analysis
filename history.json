@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:07388cd3-629a-4748-9a25-07aabe309a95",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-24T03:00:00Z",
+      "completed_at": "2026-09-24T03:11:48Z",
+      "title": "หน้าหลักอยู่รอบ 3 เวลา 09:41 น. แต่ตารางยังเห็นรอบ 2",
+      "summary": "หน้า classic และ noclassic แสดง 67,750/67,950 บาทในรอบ 3 ขณะที่ตาราง classic แสดงถึงรอบ 2 ที่ 67,700/67,900 บาท จึงต้องเก็บ URL เวลา รอบ และด้านราคาไว้กับตัวเลข.",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260924-07388cd3.html",
+      "entrypoint": "reports/20260924-07388cd3.html"
+    },
+    {
       "run_id": "run:6097bc3c-4484-4b62-9ec1-b1c8ac35303f",
       "status": "completed",
       "answer_change": "meaningful_change",
