@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-classic-home-round21-20260925",
+      "source_type": "official Association classic current-price view",
+      "title": "สมาคมค้าทองคำ: หน้า classic",
+      "source_url": "https://classic.goldtraders.or.th/",
+      "claim": "หน้า classic แสดง 25 ก.ย. 2569 เวลา 17:15 น. ครั้งที่ 21: ทองแท่ง 96.5% รับซื้อ 67,700 บาท และขายออก 67,900 บาทต่อบาททองคำ",
+      "accessed_at": "2026-09-25T11:22:16Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-daily-round21-20260925",
+      "source_type": "official Association classic daily-price view",
+      "title": "สมาคมค้าทองคำ: หน้าราคาประจำวัน",
+      "source_url": "https://classic.goldtraders.or.th/DailyPrices.aspx",
+      "claim": "หน้าราคาประจำวันแสดง 25 ก.ย. 2569 และคู่ทองแท่ง 96.5% รับซื้อ 67,700 บาท ขายออก 67,900 บาทต่อบาททองคำ แต่ไม่มีเวลาและครั้งที่",
+      "accessed_at": "2026-09-25T11:22:16Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-intraday-round21-20260925",
+      "source_type": "official Association classic intraday-adjustment view",
+      "title": "สมาคมค้าทองคำ: ตารางปรับระหว่างวัน",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "claim": "ตารางแสดง 21 แถวตั้งแต่ 09:06 ถึง 17:15 น.; ขายออกทองแท่ง 96.5% อยู่ระหว่าง 67,450–67,900 บาท และแถว 17:15 น. ครั้งที่ 21 อยู่ที่ 67,700/67,900 บาท",
+      "accessed_at": "2026-09-25T11:22:16Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-www-stale-20260925",
       "source_type": "official Association printable daily-price view",
       "title": "สมาคมค้าทองคำ: หน้าพิมพ์รายวัน",

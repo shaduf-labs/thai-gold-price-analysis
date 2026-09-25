@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:745c4c3b-a6e4-4745-b502-2206b4c511a7",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-25T11:00:00Z",
+      "completed_at": "2026-09-25T11:28:43.536Z",
+      "title": "21 รอบที่แสดง: ขายออกลงถึง 67,450 บาท แล้วกลับ 67,900 บาทเวลา 17:15 น.",
+      "summary": "หน้า classic และตาราง classic ของสมาคมฯ แสดงรอบ 21 เวลา 17:15 น. ที่ 67,700/67,900 บาท หน้าราคาประจำวันยืนยันวันที่และคู่ราคา ตารางแสดง 21 แถวและช่วงขายออก 450 บาท แต่ยังไม่ใช่ประวัติครบวัน ราคาปิด หรือยอดร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260925-745c4c3b.html",
+      "entrypoint": "reports/20260925-745c4c3b.html"
+    },
+    {
       "run_id": "run:c3d52392-e955-46b2-b0dc-ae08da43f991",
       "status": "completed",
       "answer_change": "meaningful_change",

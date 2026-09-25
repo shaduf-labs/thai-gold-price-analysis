@@ -2,6 +2,30 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:round21-reference-20260925-evening",
+      "changed_at": "2026-09-25T11:22:16Z",
+      "summary": "อัปเดตราคาอ้างอิง 25 ก.ย. เวลา 17:15 น. ครั้งที่ 21: ทองแท่ง 96.5% รับซื้อ 67,700 บาท ขายออก 67,900 บาท พร้อมอายุข้อมูลและคำถามยอดสุทธิร้าน",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:round21-visible-range-20260925-evening",
+      "changed_at": "2026-09-25T11:22:16Z",
+      "summary": "เพิ่มบันทึก 21 แถวที่เห็นตั้งแต่ 09:06 ถึง 17:15 น. ฝั่งขายออกต่ำสุด 67,450 บาทและกลับ 67,900 บาท โดยไม่เรียกว่าราคาปิด",
+      "path": "/p/thai-gold-price-analysis/history/"
+    },
+    {
+      "change_id": "change:round21-salung-calculation-20260925-evening",
+      "changed_at": "2026-09-25T11:22:16Z",
+      "summary": "อัปเดตตัวอย่างทองแท่ง 1 สลึงจากบันทึก 17:15 น.: รับซื้อ 16,925 บาท ขายออก 16,975 บาท พร้อมขอบเขตค่าใช้จ่ายร้าน",
+      "path": "/p/thai-gold-price-analysis/tools/"
+    },
+    {
+      "change_id": "change:round21-report-20260925-evening",
+      "changed_at": "2026-09-25T11:22:16Z",
+      "summary": "เพิ่มรายงานที่แยกบันทึก 17:15 น. ครั้งที่ 21 ออกจากราคาสด ราคาปิด และยอดสุทธิร้าน",
+      "path": "/p/thai-gold-price-analysis/reports/20260925-745c4c3b.html"
+    },
+    {
       "change_id": "change:morning-unverified-official-status-20260925",
       "changed_at": "2026-09-25T03:06:19Z",
       "summary": "เปลี่ยนคำตอบหลักเป็นสถานะ “ยังยืนยันราคา 25 ก.ย. ไม่ได้” หลังหน้าพิมพ์สมาคมฯ ยังแสดง 24 ก.ย. และหน้าใหม่อ่านบันทึกไม่ได้",
