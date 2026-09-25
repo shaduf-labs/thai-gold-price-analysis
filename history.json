@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:c3d52392-e955-46b2-b0dc-ae08da43f991",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-25T03:00:00Z",
+      "completed_at": "2026-09-25T03:12:17Z",
+      "title": "10:06 น. ยังยืนยันราคาอ้างอิง 25 ก.ย. จากสมาคมฯ ไม่ได้",
+      "summary": "หน้าพิมพ์รายวันยังแสดงบันทึก 24 ก.ย. ส่วนหน้าใหม่แสดงสถานะกำลังโหลด จึงไม่ใช้เลขวันก่อนหรือเลขพาณิชย์แทนราคาวันนี้.",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260925-c3d52392.html",
+      "entrypoint": "reports/20260925-c3d52392.html"
+    },
+    {
       "run_id": "run:1d80bde7-8b00-4fce-9bd8-ebbc7be28b92",
       "status": "completed",
       "answer_change": "meaningful_change",

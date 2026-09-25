@@ -2,6 +2,30 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:morning-unverified-official-status-20260925",
+      "changed_at": "2026-09-25T03:06:19Z",
+      "summary": "เปลี่ยนคำตอบหลักเป็นสถานะ “ยังยืนยันราคา 25 ก.ย. ไม่ได้” หลังหน้าพิมพ์สมาคมฯ ยังแสดง 24 ก.ย. และหน้าใหม่อ่านบันทึกไม่ได้",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:prior-day-record-labelled-history-20260925",
+      "changed_at": "2026-09-25T03:06:19Z",
+      "summary": "ย้ายบันทึก 24 ก.ย. เวลา 16:48 น. เป็นประวัติและหยุดใช้เป็นตัวอย่างคำนวณราคาวันที่ 25 ก.ย.",
+      "path": "/p/thai-gold-price-analysis/history/"
+    },
+    {
+      "change_id": "change:shop-prompt-without-unverified-quote-20260925",
+      "changed_at": "2026-09-25T03:06:19Z",
+      "summary": "ปรับหน้าซื้อขายและคำนวณให้ถามวันที่ เวลา ครั้งที่ ด้านราคา และยอดสุทธิจากร้าน โดยไม่เดาราคา 25 ก.ย.",
+      "path": "/p/thai-gold-price-analysis/compare/"
+    },
+    {
+      "change_id": "change:official-commercial-status-report-20260925",
+      "changed_at": "2026-09-25T03:06:19Z",
+      "summary": "เพิ่มรายงานผลตรวจแหล่งสมาคมฯ และข้อจำกัดของเลขจากหน้าพาณิชย์เมื่อยังไม่มีบันทึกต้นทางวันที่ 25 ก.ย. ที่ตรวจได้",
+      "path": "/p/thai-gold-price-analysis/reports/20260925-c3d52392.html"
+    },
+    {
       "change_id": "change:three-route-round23-reference-20260924",
       "changed_at": "2026-09-24T11:04:38Z",
       "summary": "อัปเดตบันทึก 24 ก.ย.: classic, noclassic และตาราง classic แสดงรอบ 23 เวลา 16:48 น. ที่ 67,300/67,500 บาท พร้อมอายุข้อมูลและขอบเขตยอดร้าน",

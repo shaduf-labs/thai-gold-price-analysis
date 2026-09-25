@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-www-stale-20260925",
+      "source_type": "official Association printable daily-price view",
+      "title": "สมาคมค้าทองคำ: หน้าพิมพ์รายวัน",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "claim": "เวลา 10:06 น. หน้าพิมพ์ยังแสดงบันทึก 24 ก.ย. เวลา 16:48 น. ครั้งที่ 23 ไม่ใช่บันทึกวันที่ 25 ก.ย.",
+      "accessed_at": "2026-09-25T03:06:19Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sse-loading-20260925",
+      "source_type": "official Association current-price view",
+      "title": "สมาคมค้าทองคำ: หน้าใหม่",
+      "source_url": "https://sse.goldtraders.or.th/",
+      "claim": "หน้าใหม่แสดงสถานะกำลังโหลดราคา จึงไม่มีบันทึกวันที่ เวลา และครั้งที่ให้ตรวจในรอบนี้",
+      "accessed_at": "2026-09-25T03:06:19Z",
+      "relation": "limits",
+      "publication_basis": "owner-authored"
+    },
+    {
+      "evidence_id": "evidence:goldprice88-no-quote-20260925",
+      "source_type": "commercial price-status page",
+      "title": "GoldPrice88",
+      "source_url": "https://goldprice88.com/",
+      "claim": "หน้าพาณิชย์ระบุว่ายังไม่มีประกาศ 25 ก.ย. และคงบันทึก 24 ก.ย.; ใช้ยืนยันเฉพาะสถานะของหน้านี้",
+      "accessed_at": "2026-09-25T03:06:19Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:goldsabuy-timed-record-20260925",
+      "source_type": "commercial price and calculation page",
+      "title": "GoldSabuy",
+      "source_url": "https://goldsabuy.com/gold-price-today",
+      "claim": "หน้าพาณิชย์แสดงบันทึก 25 ก.ย. เวลา 09:53 น. ครั้งที่ 3; เป็นแหล่งรอง ไม่ใช่การยืนยันจากสมาคมฯ",
+      "accessed_at": "2026-09-25T03:06:19Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:thongnow-timed-record-20260925",
+      "source_type": "commercial price and history page",
+      "title": "Thongnow",
+      "source_url": "https://thongnow.com/",
+      "claim": "หน้าพาณิชย์แสดงบันทึก 25 ก.ย. เวลา 09:38 น.; เป็นแหล่งรอง ไม่ใช่การยืนยันจากสมาคมฯ",
+      "accessed_at": "2026-09-25T03:06:19Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-classic-home-round23-20260924",
       "source_type": "official Association classic current-price view",
       "source_url": "https://classic.goldtraders.or.th/",
