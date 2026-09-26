@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:90d4abc9-edd7-4429-b594-344d7f2ccff4",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-26T11:00:00.000Z",
+      "completed_at": "2026-09-26T11:15:00Z",
+      "title": "18:09 น. ยังเห็น 67,850 บาทจาก 09:05: อย่าเรียกเป็นราคาสด",
+      "summary": "หน้า classic ของสมาคมฯ ยังแสดงรอบ 1 เวลา 09:05 น. ที่ 67,650/67,850 บาทเมื่อเวลา 18:09 น. บันทึกมีอายุประมาณ 9 ชั่วโมง 4 นาที; หน้าพิมพ์รายวันดึงไม่สำเร็จ และชื่อช่องฐานภาษีของทองรูปพรรณไม่ใช่ยอดรับซื้อสุทธิร้าน.",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260926-90d4abc9.html",
+      "entrypoint": "reports/20260926-90d4abc9.html"
+    },
+    {
       "run_id": "run:512abea0-8692-4d2b-a0f9-bb83c5b934e6",
       "status": "completed",
       "answer_change": "meaningful_change",

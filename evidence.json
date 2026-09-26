@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-classic-round1-persisted-20260926",
+      "source_type": "แหล่งทางการ: หน้าราคาปัจจุบัน classic ของสมาคมฯ",
+      "title": "สมาคมค้าทองคำ: หน้า classic",
+      "source_url": "https://classic.goldtraders.or.th/",
+      "claim": "เวลา 18:09 น. หน้า classic ยังแสดง 26 ก.ย. 2569 เวลา 09:05 น. ครั้งที่ 1: ทองแท่ง 96.5% รับซื้อ 67,650 บาท ขายออก 67,850 บาทต่อบาททองคำ; หน้ายังเรียกเลขทองรูปพรรณ 66,294.68 บาทว่า “ฐานภาษี”.",
+      "accessed_at": "2026-09-26T11:09:16Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-www-print-timeout-20260926",
+      "source_type": "แหล่งทางการ: หน้าพิมพ์รายวันของสมาคมฯ",
+      "title": "สมาคมค้าทองคำ: หน้าพิมพ์รายวัน",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "claim": "เส้นทางหน้าพิมพ์รายวันดึงไม่สำเร็จเพราะหมดเวลาในการเชื่อมต่อในการตรวจเย็น; ใช้บอกข้อจำกัดการเข้าถึงเท่านั้น ไม่ใช่หลักฐานว่าหน้าไม่มีบันทึกใหม่หรือมีราคาอื่น.",
+      "accessed_at": "2026-09-26T11:09:16Z",
+      "relation": "limits",
+      "publication_basis": "owner-authored"
+    },
+    {
+      "evidence_id": "evidence:goldprice88-jewelry-label-20260926",
+      "source_type": "หน้าราคาทองและเครื่องคำนวณเชิงพาณิชย์",
+      "title": "GoldPrice88",
+      "source_url": "https://goldprice88.com/",
+      "claim": "หน้าพาณิชย์แสดงคู่ทองแท่ง 09:05 น. เดียวกัน และวางเลขทองรูปพรรณ 66,294.68 บาทใต้คอลัมน์ “รับซื้อ”; ใช้บอกป้ายของหน้านี้ ไม่ใช่ยอดรับซื้อสุทธิของร้าน.",
+      "accessed_at": "2026-09-26T11:09:16Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-classic-home-round1-20260926",
       "source_type": "official Association classic current-price view",
       "title": "สมาคมค้าทองคำ: หน้า classic",

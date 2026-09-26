@@ -840,6 +840,36 @@
       "changed_at": "2026-09-22T11:11:37Z",
       "summary": "เพิ่มรายงาน 33 แถวที่เห็นในตาราง พร้อมช่วงสูงต่ำ บันทึกรอบ 32 ที่หน้าแรก และข้อจำกัดเรื่องรอบสุดท้าย",
       "path": "/p/thai-gold-price-analysis/reports/20260922-2abf1b85.html"
+    },
+    {
+      "change_id": "change:evening-record-age-20260926",
+      "changed_at": "2026-09-26T11:09:16Z",
+      "summary": "เปลี่ยนสถานะบันทึก 09:05 น. เป็นข้อมูลอ้างอิงอายุประมาณ 9 ชั่วโมง 4 นาทีเมื่อเวลาตรวจ 18:09 น. และไม่เรียกว่าราคาสด ราคาปิด หรือยอดร้าน",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:evening-print-route-limit-20260926",
+      "changed_at": "2026-09-26T11:09:16Z",
+      "summary": "เพิ่มข้อจำกัดว่าหน้าพิมพ์รายวันดึงไม่สำเร็จในการตรวจเย็น และไม่ใช้ผลนั้นสรุปว่าหน้าไม่มีบันทึกใหม่หรือมีตัวเลขอื่น",
+      "path": "/p/thai-gold-price-analysis/today/"
+    },
+    {
+      "change_id": "change:jewelry-tax-base-label-20260926",
+      "changed_at": "2026-09-26T11:09:16Z",
+      "summary": "เพิ่มการแยก “ฐานภาษี” 66,294.68 บาทจากยอดรับซื้อสุทธิของร้านสำหรับทองรูปพรรณ",
+      "path": "/p/thai-gold-price-analysis/compare/"
+    },
+    {
+      "change_id": "change:stale-salung-example-20260926-evening",
+      "changed_at": "2026-09-26T11:09:16Z",
+      "summary": "ติดป้ายตัวอย่างทองแท่ง 1 สลึงว่าใช้บันทึก 09:05 น. ที่มีอายุประมาณ 9 ชั่วโมง 4 นาที ไม่ใช่ใบเสนอราคาของร้าน",
+      "path": "/p/thai-gold-price-analysis/tools/"
+    },
+    {
+      "change_id": "change:evening-record-age-report-20260926",
+      "changed_at": "2026-09-26T11:09:16Z",
+      "summary": "เพิ่มรายงานตรวจเย็นที่แยกบันทึก 09:05 น. ออกจากราคาสด รอบสุดท้าย และยอดร้าน พร้อมขอบเขตชื่อช่องทองรูปพรรณ",
+      "path": "/p/thai-gold-price-analysis/reports/20260926-90d4abc9.html"
     }
   ]
 }
