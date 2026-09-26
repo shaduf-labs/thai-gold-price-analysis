@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-classic-home-round1-20260926",
+      "source_type": "official Association classic current-price view",
+      "title": "สมาคมค้าทองคำ: หน้า classic",
+      "source_url": "https://classic.goldtraders.or.th/",
+      "claim": "หน้า classic แสดง 26 ก.ย. 2569 เวลา 09:05 น. ครั้งที่ 1: ทองแท่ง 96.5% รับซื้อ 67,650 บาท และขายออก 67,850 บาทต่อบาททองคำ",
+      "accessed_at": "2026-09-26T03:06:19Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-www-print-round1-20260926",
+      "source_type": "official Association printable daily-price view",
+      "title": "สมาคมค้าทองคำ: หน้าพิมพ์รายวัน",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "claim": "หน้าพิมพ์รายวันแสดง 26 ก.ย. 2569 เวลา 09:05 น. ครั้งที่ 1 และคู่ทองแท่ง 96.5% รับซื้อ 67,650 บาท ขายออก 67,850 บาทต่อบาททองคำ ตารางที่หน้าพิมพ์แสดงมีแถวนี้ 1 แถวในรอบตรวจ",
+      "accessed_at": "2026-09-26T03:06:19Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:thongnow-round1-20260926",
+      "source_type": "commercial Thai price, history, sharing, and alert site",
+      "title": "Thongnow",
+      "source_url": "https://thongnow.com/",
+      "claim": "หน้าพาณิชย์แสดงบันทึก 26 ก.ย. เวลา 09:05 น. และมีส่วนแจ้งเตือน แชร์ และประวัติ ใช้ดูทางเลือกในตลาด ไม่ใช้แทนบันทึกสมาคมฯ หรือยอดร้าน",
+      "accessed_at": "2026-09-26T03:06:19Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-classic-home-round21-20260925",
       "source_type": "official Association classic current-price view",
       "title": "สมาคมค้าทองคำ: หน้า classic",
