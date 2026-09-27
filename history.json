@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:5c5db66b-d318-4b43-90e2-2f0d926749f8",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-27T03:00:00.000Z",
+      "completed_at": "2026-09-27T03:12:31Z",
+      "title": "67,850 บาทเท่าเดิม แต่เป็นบันทึกใหม่เวลา 09:01 น.",
+      "summary": "สามหน้าสมาคมฯ แสดงรอบ 1 เวลา 09:01 น. ที่ 67,650/67,850 บาทตรงกันเมื่อเราตรวจเวลา 10:04 น.; บันทึกมีอายุประมาณ 1 ชั่วโมง 4 นาที และชื่อช่องทองรูปพรรณ 66,294.68 บาทต่างกันระหว่างเส้นทาง จึงไม่ใช่ยอดรับซื้อสุทธิร้าน.",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260927-5c5db66b.html",
+      "entrypoint": "reports/20260927-5c5db66b.html"
+    },
+    {
       "run_id": "run:90d4abc9-edd7-4429-b594-344d7f2ccff4",
       "status": "completed",
       "answer_change": "meaningful_change",
