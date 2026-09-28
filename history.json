@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:79cd163e-5d1f-4b01-b9a2-1f49fa6ea4ce",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-28T11:05:01Z",
+      "completed_at": "2026-09-28T11:09:42Z",
+      "title": "18:05 น. สี่หน้าตรงกันที่รอบ 20 แต่เลขอายุเกินชั่วโมง",
+      "summary": "สี่หน้าสมาคมฯ แสดงทองแท่ง 96.5% รอบ 20 เวลา 16:52 น. รับซื้อ 65,950 บาท ขายออก 66,150 บาทต่อบาททองคำเมื่อเราตรวจ 18:05 น.; ตาราง Gold Spot รอบ 18 ขัดกับหน้าพิมพ์ และไม่ยืนยันราคาปิดหรือยอดร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260928-79cd163e.html",
+      "entrypoint": "reports/20260928-79cd163e.html"
+    },
+    {
       "run_id": "run:45f37e98-20ab-44a7-9beb-c2370d7c3ae1",
       "status": "completed",
       "answer_change": "meaningful_change",

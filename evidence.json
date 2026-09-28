@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-newgta-print-round20-20260928-evening",
+      "source_type": "official Association print view",
+      "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
+      "title": "ราคาทองตามประกาศของสมาคมค้าทองคำ",
+      "claim": "Association newgta print view displayed 28 September round 20 at 16:52, bar buyback 65,950 and selling 66,150 baht per baht-weight, with rows 1 through 20.",
+      "accessed_at": "2026-09-28T11:05:01Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-www-print-round20-20260928-evening",
+      "source_type": "official Association print view",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "ราคาทองตามประกาศของสมาคมค้าทองคำ",
+      "claim": "Association www print view displayed 28 September round 20 at 16:52, bar buyback 65,950 and selling 66,150 baht per baht-weight, with rows 1 through 20.",
+      "accessed_at": "2026-09-28T11:05:01Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-intraday-round20-20260928-evening",
+      "source_type": "official Association intraday view",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "การปรับเปลี่ยนระหว่างวัน",
+      "claim": "Association intraday table displayed rounds 1 through 20 on 28 September, with round 20 at 16:52: bar 65,950/66,150 baht per baht-weight. Its round-18 Gold Spot cell showed 41,550 while both print views showed 4,150 for that row; the bar prices matched.",
+      "accessed_at": "2026-09-28T11:05:01Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-home-round20-20260928-evening",
+      "source_type": "official Association classic homepage",
+      "source_url": "https://classic.goldtraders.or.th/default.aspx",
+      "title": "Gold Price by GTA",
+      "claim": "Association classic home displayed 28 September 2569, 16:52, round 20: 96.5% gold-bar buyback 65,950 and selling 66,150 baht per baht-weight; jewelry 64,627.08 was labelled tax base.",
+      "accessed_at": "2026-09-28T11:05:01Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-classic-home-20260928",
       "source_type": "official Association classic homepage",
       "source_url": "https://classic.goldtraders.or.th/default.aspx",

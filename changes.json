@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:evening-round20-20260928",
+      "changed_at": "2026-09-28T11:05:01Z",
+      "summary": "แสดงราคาทองแท่งรอบ 20 เวลา 16:52 น. จากสี่หน้า ระบุอายุบันทึกและความต่างของช่อง Gold Spot รอบ 18",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
       "change_id": "change:morning-route-divergence-20260928",
       "changed_at": "2026-09-28T03:09:18Z",
       "summary": "แสดงรอบ 3 บนหน้าหลักและรอบเก่ากว่าอีกสามเส้นทาง พร้อมวันที่ เวลา หน่วย ฝั่งราคา และข้อจำกัด",
