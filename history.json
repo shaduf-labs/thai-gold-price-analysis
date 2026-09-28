@@ -2,6 +2,28 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:manual:e9786735eeeda9ccffab555e6ef0be7e",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-09-27T15:38:03.090Z",
+      "completed_at": "2026-09-27T15:48:50Z",
+      "title": "22:41 น. ยังเห็นบันทึก 09:01 น.; หน้าพิมพ์กลับมาเปิดได้",
+      "summary": "สามหน้าสมาคมค้าทองคำที่ตรวจราว 22:41 น. ยังแสดงรอบ 1 เวลา 09:01 น. ที่ทองแท่ง 96.5% รับซื้อ 67,650 บาทและขายออก 67,850 บาทต่อบาททองคำ บันทึกมีอายุประมาณ 13 ชั่วโมง 40 นาที หน้าพิมพ์ที่เปิดไม่ได้เมื่อ 18:03 น. เปิดได้ในการตรวจนี้ แต่ยังไม่ยืนยันราคาปิดหรือยอดร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260927-e9786735.html",
+      "entrypoint": "reports/20260927-e9786735.html"
+    },
+    {
+      "run_id": "run:53f53fc8-e8e9-41c5-9e46-96698e52e235",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-27T11:00:00Z",
+      "completed_at": "2026-09-27T11:07:33.846Z",
+      "title": "18:03 น. ยังเห็นราคา 09:01 น.: บันทึกเก่ากว่า 9 ชั่วโมง",
+      "summary": "สองหน้า classic ของสมาคมฯ ยังแสดงรอบ 1 เวลา 09:01 น. ที่ 67,650/67,850 บาทเมื่อเราตรวจ 18:03 น. บันทึกเก่าประมาณ 9 ชั่วโมง 3 นาที; หน้าพิมพ์ newgta ดึงไม่สำเร็จ และไม่ยืนยันรอบสุดท้ายหรือยอดร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260927-53f53fc8.html",
+      "entrypoint": "reports/20260927-53f53fc8.html"
+    },
+    {
       "run_id": "run:5c5db66b-d318-4b43-90e2-2f0d926749f8",
       "status": "completed",
       "answer_change": "meaningful_change",

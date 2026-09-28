@@ -2,33 +2,73 @@
   "schema_version": "1.0.0",
   "items": [
     {
-      "evidence_id": "evidence:gta-www-print-round1-20260927",
-      "source_type": "official Association printable daily-price view",
-      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
-      "title": "ราคาทองตามประกาศของสมาคมค้าทองคำ",
-      "claim": "The view displayed 27 September 2569, 09:01, round 1: 96.5% bar buyback 67,650 baht and selling 67,850 baht per Thai baht-weight; the 96.5% jewelry 66,294.68-baht field appeared under a buyback header.",
-      "accessed_at": "2026-09-27T03:04:55Z",
-      "relation": "supports",
-      "publication_basis": "linked-summary"
-    },
-    {
-      "evidence_id": "evidence:gta-classic-home-round1-20260927",
+      "evidence_id": "evidence:gta-classic-home-late",
       "source_type": "official Association classic current-price view",
       "source_url": "https://classic.goldtraders.or.th/default.aspx",
       "title": "Gold Price by GTA",
-      "claim": "The view displayed the same 27 September 2569 09:01 round-1 96.5% bar pair and called the 66,294.68-baht 96.5% jewelry field a tax base.",
-      "accessed_at": "2026-09-27T03:04:55Z",
+      "claim": "At the approximately 22:41 Thailand-time check, the view displayed 27 September 09:01 round 1: 96.5% bar buyback 67,650 and selling 67,850 baht per Thai baht-weight.",
+      "accessed_at": "2026-09-27T15:41:04Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
     {
-      "evidence_id": "evidence:gta-classic-intraday-round1-20260927",
-      "source_type": "official Association classic intraday-adjustment view",
+      "evidence_id": "evidence:gta-classic-intraday-late",
+      "source_type": "official Association intraday-adjustment view",
       "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
       "title": "การปรับเปลี่ยนระหว่างวัน",
-      "claim": "The view displayed one visible 27 September 2569 09:01 round-1 row with the same 96.5% bar pair and placed the 66,294.68-baht jewelry value under a buyback header.",
-      "accessed_at": "2026-09-27T03:04:55Z",
+      "claim": "At the check, one visible 27 September 09:01 round-1 row showed the same bar pair; one row does not prove complete history.",
+      "accessed_at": "2026-09-27T15:41:04Z",
       "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-newgta-print-late",
+      "source_type": "official Association daily print view",
+      "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
+      "title": "ราคาทองตามประกาศของสมาคมค้าทองคำ",
+      "claim": "After the prior 18:03 timeout, the route was accessible at the later check and displayed the same 09:01 round-1 bar pair.",
+      "accessed_at": "2026-09-27T15:41:04Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-weight-late",
+      "source_type": "official Association weight explainer",
+      "source_url": "https://gtadmin.goldtraders.or.th/featuresandbenefits/",
+      "title": "คุณสมบัติและประโยชน์ของทองคำ",
+      "claim": "The Association states that one baht-weight of gold bar is 15.244 grams, jewelry is 15.16 grams, and one baht-weight equals four salung.",
+      "accessed_at": "2026-09-27T15:41:04Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-home-round1-evening",
+      "source_type": "official Association classic current-price view",
+      "source_url": "https://classic.goldtraders.or.th/default.aspx",
+      "title": "Gold Price by GTA",
+      "claim": "At the 18:03 Thailand-time check, the view displayed 27 September 2569, 09:01, round 1: 96.5% bar buyback 67,650 baht and selling 67,850 baht per baht-weight; jewelry 66,294.68 baht was labelled tax base.",
+      "accessed_at": "2026-09-27T11:03:39Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-intraday-round1-evening",
+      "source_type": "official Association intraday-adjustment view",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "การปรับเปลี่ยนระหว่างวัน",
+      "claim": "At the 18:03 Thailand-time check, one visible 27 September 09:01 round-1 row showed the same 96.5% bar pair; the 66,294.68-baht jewelry value appeared beneath a buyback header. One row is not complete history.",
+      "accessed_at": "2026-09-27T11:03:39Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:newgta-print-timeout-evening",
+      "source_type": "official Association print endpoint",
+      "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
+      "title": "Daily prices print",
+      "claim": "The endpoint timed out on inspection. No content was observed and no price inference follows.",
+      "accessed_at": "2026-09-27T11:03:39Z",
+      "relation": "limits",
       "publication_basis": "linked-summary"
     }
   ]
