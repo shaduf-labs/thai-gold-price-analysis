@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:45f37e98-20ab-44a7-9beb-c2370d7c3ae1",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-28T03:01:42.969Z",
+      "completed_at": "2026-09-28T03:13:18Z",
+      "title": "10:09 น. สี่หน้าสมาคมฯ แสดงคนละรอบ",
+      "summary": "หน้าหลัก classic แสดงรอบ 3 เวลา 09:58 น. ที่ทองแท่ง 96.5% รับซื้อ 66,650 บาท ขายออก 66,850 บาทต่อบาททองคำ แต่ตารางแสดงถึงรอบ 2 หน้าพิมพ์ www แสดงรอบ 1 และ newgta ยังเป็นวันที่ 27 ก.ย.; ไม่ใช่ราคาสดหรือยอดร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260928-45f37e98.html",
+      "entrypoint": "reports/20260928-45f37e98.html"
+    },
+    {
       "run_id": "run:manual:e9786735eeeda9ccffab555e6ef0be7e",
       "status": "completed",
       "answer_change": "no_meaningful_change",

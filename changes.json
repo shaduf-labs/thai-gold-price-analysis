@@ -2,6 +2,24 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:morning-route-divergence-20260928",
+      "changed_at": "2026-09-28T03:09:18Z",
+      "summary": "แสดงรอบ 3 บนหน้าหลักและรอบเก่ากว่าอีกสามเส้นทาง พร้อมวันที่ เวลา หน่วย ฝั่งราคา และข้อจำกัด",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:historical-example-label-20260928",
+      "changed_at": "2026-09-28T03:09:18Z",
+      "summary": "ระบุให้ชัดว่าตัวอย่าง 1 สลึงใช้ราคา 27 ก.ย. และหน้านี้ยังไม่มีช่องกรอกค่า",
+      "path": "/p/thai-gold-price-analysis/tools/"
+    },
+    {
+      "change_id": "change:morning-report-20260928",
+      "changed_at": "2026-09-28T03:09:18Z",
+      "summary": "เพิ่มรายงานตรวจความต่างของรอบที่สี่หน้าสมาคมฯ แสดงเวลา 10:09 น.",
+      "path": "/p/thai-gold-price-analysis/reports/20260928-45f37e98.html"
+    },
+    {
       "change_id": "change:route-links-and-late-status-20260927",
       "changed_at": "2026-09-27T15:41:04Z",
       "summary": "แก้ลิงก์ภายในให้ไปยังหน้าที่เผยแพร่จริงและอัปเดตหน้าสรุป สถานะ ประวัติ คู่มือ และตัวอย่างคำนวณตามการตรวจราว 22:41 น. โดยยังไม่เพิ่มโค้ดเครื่องคำนวณ",

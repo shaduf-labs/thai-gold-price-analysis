@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-classic-home-20260928",
+      "source_type": "official Association classic homepage",
+      "source_url": "https://classic.goldtraders.or.th/default.aspx",
+      "title": "Gold Price by GTA",
+      "claim": "At approximately 10:09 Thailand time, classic home displayed 28 September round 3 at 09:58: 96.5% bar buyback 66,650 and selling 66,850 baht per baht-weight; jewelry 65,324.44 was labelled tax base.",
+      "accessed_at": "2026-09-28T03:09:18Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-intraday-20260928",
+      "source_type": "official Association intraday view",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "การปรับเปลี่ยนระหว่างวัน",
+      "claim": "The classic intraday view displayed 28 September rounds 1 at 09:01 (66,800/67,000) and 2 at 09:38 (66,750/66,950), but not the round 3 visible on classic home at this inspection.",
+      "accessed_at": "2026-09-28T03:09:18Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-www-print-20260928",
+      "source_type": "official Association print view",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "ราคาทองตามประกาศของสมาคมค้าทองคำ",
+      "claim": "At inspection, www print displayed 28 September round 1 at 09:01: 96.5% bar 66,800/67,000 baht per baht-weight.",
+      "accessed_at": "2026-09-28T03:09:18Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-newgta-print-20260928",
+      "source_type": "official Association print view",
+      "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
+      "title": "ราคาทองตามประกาศของสมาคมค้าทองคำ",
+      "claim": "At inspection, newgta print still displayed 27 September round 1 at 09:01: 96.5% bar 67,650/67,850 baht per baht-weight.",
+      "accessed_at": "2026-09-28T03:09:18Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-classic-home-late",
       "source_type": "official Association classic current-price view",
       "source_url": "https://classic.goldtraders.or.th/default.aspx",
