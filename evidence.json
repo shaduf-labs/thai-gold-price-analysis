@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-home-round2-20260929",
+      "source_type": "official Association view",
+      "source_url": "https://classic.goldtraders.or.th/default.aspx",
+      "title": "ราคาทองตามประกาศของสมาคมค้าทองคำ",
+      "claim": "หน้าหลัก classic ระบุ 29 ก.ย. รอบ 2 เวลา 09:08 น. ทองแท่ง 96.5% รับซื้อ 65,650 บาท ขายออก 65,850 บาทต่อบาททองคำ",
+      "accessed_at": "2026-09-29T03:05:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-daily-round2-20260929",
+      "source_type": "official Association view",
+      "source_url": "https://classic.goldtraders.or.th/DailyPrices.aspx",
+      "title": "ราคาทองตามประกาศของสมาคมค้าทองคำ",
+      "claim": "หน้าราคาประจำวัน classic แสดง 29 ก.ย. ทองแท่ง 96.5% รับซื้อ 65,650 บาท ขายออก 65,850 บาทต่อบาททองคำ; หน้าไม่แสดงเวลา",
+      "accessed_at": "2026-09-29T03:05:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-newgta-round2-20260929",
+      "source_type": "official Association view",
+      "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
+      "title": "ราคาทองตามประกาศของสมาคมค้าทองคำ",
+      "claim": "หน้าพิมพ์ newgta ระบุ 29 ก.ย. รอบ 2 เวลา 09:08 น. ทองแท่ง 96.5% รับซื้อ 65,650 บาท ขายออก 65,850 บาทต่อบาททองคำ และแสดงรอบ 1 เวลา 09:01 น.",
+      "accessed_at": "2026-09-29T03:05:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-newgta-print-round20-20260928-evening",
       "source_type": "official Association print view",
       "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",

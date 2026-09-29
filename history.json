@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:c7693bf8-0566-45cd-96d3-70f81dffd33e",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-29T03:04:00Z",
+      "completed_at": "2026-09-29T03:10:55Z",
+      "title": "10:05 น. สองหน้าระบุรอบ 2; อีกหน้าแสดงราคาเดียวกัน",
+      "summary": "29 ก.ย. รอบ 2 เวลา 09:08 น. ทองแท่ง 96.5% รับซื้อ 65,650 บาท ขายออก 65,850 บาทต่อบาททองคำในสามหน้าที่ตรวจ (สองหน้าระบุรอบ) หน้าพิมพ์ www ดึงไม่สำเร็จ; ไม่ใช่ราคาสดหรือยอดร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260929-c7693bf8.html",
+      "entrypoint": "reports/20260929-c7693bf8.html"
+    },
+    {
       "run_id": "run:79cd163e-5d1f-4b01-b9a2-1f49fa6ea4ce",
       "status": "completed",
       "answer_change": "meaningful_change",

@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:morning-round2-20260929",
+      "changed_at": "2026-09-29T03:05:05Z",
+      "summary": "แสดงราคาทองแท่งรอบ 2 วันที่ 29 ก.ย. จากสามหน้าสมาคมฯ พร้อมอายุบันทึกและสถานะหน้าพิมพ์ที่ดึงไม่สำเร็จ",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
       "change_id": "change:evening-round20-20260928",
       "changed_at": "2026-09-28T11:05:01Z",
       "summary": "แสดงราคาทองแท่งรอบ 20 เวลา 16:52 น. จากสี่หน้า ระบุอายุบันทึกและความต่างของช่อง Gold Spot รอบ 18",
