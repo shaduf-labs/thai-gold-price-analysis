@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:87090b71-7f34-43e3-87e7-3db7cebcfc3d",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-29T11:02:00Z",
+      "completed_at": "2026-09-29T11:06:57Z",
+      "title": "18:03 น. รอบ 15: รับซื้อ 65,800 บาท ขายออก 66,000 บาท",
+      "summary": "สามหน้าสมาคมฯ ระบุรอบ 15 เวลา 17:07 น. ทองแท่ง 96.5% รับซื้อ 65,800 บาท ขายออก 66,000 บาทต่อบาททองคำ; หน้าราคาประจำวันแสดงคู่ราคาเดียวกันโดยไม่ระบุรอบ หน้าพิมพ์ newgta ดึงไม่สำเร็จ ไม่ยืนยันราคาปิดหรือยอดร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260929-87090b71.html",
+      "entrypoint": "reports/20260929-87090b71.html"
+    },
+    {
       "run_id": "run:c7693bf8-0566-45cd-96d3-70f81dffd33e",
       "status": "completed",
       "answer_change": "meaningful_change",
