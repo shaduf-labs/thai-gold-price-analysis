@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:149835c5-fe54-4295-a355-662ad42fd067",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-30T11:00:00Z",
+      "completed_at": "2026-09-30T12:08:00Z",
+      "title": "19:01 น. ยังเห็นรอบ 15 เวลา 16:26 น.",
+      "summary": "สองหน้าสมาคมฯ ระบุทองแท่ง 96.5% รอบ 15 เวลา 16:26 น. รับซื้อ 66,350 บาท ขายออก 66,550 บาทต่อบาททองคำ; หน้าราคาประจำวันแสดงคู่เดียวกันแต่ไม่ระบุรอบ หน้าพิมพ์สองเส้นทางดึงไม่สำเร็จ",
+      "report_path": "/p/thai-gold-price-analysis/reports/20260930-149835c5.html",
+      "entrypoint": "reports/20260930-149835c5.html"
+    },
+    {
       "run_id": "run:694ebd4d-514d-410d-8a33-a9574fdd5292",
       "status": "completed",
       "answer_change": "meaningful_change",

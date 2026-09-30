@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:channels-20260930-evening",
+      "source_type": "official Association view",
+      "source_url": "https://gtadmin.goldtraders.or.th/channels-for-checking/",
+      "title": "ช่องทางตรวจสอบราคาสมาคมค้าทองคำ",
+      "claim": "สมาคมฯ ระบุเว็บไซต์ สื่อสังคม โทรศัพท์ และ SMS เป็นช่องทางตรวจราคา",
+      "accessed_at": "2026-09-30T12:01:30Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:competitor-20260930-evening",
+      "source_type": "commercial competitor",
+      "source_url": "https://goldsabuy.com/",
+      "title": "GoldSabuy",
+      "claim": "แสดงเลขทองรูปพรรณ 65,021.24 บาทใต้หัวข้อรับซื้อและมีเครื่องคำนวณ; ไม่ใช่ใบเสนอราคาร้าน",
+      "accessed_at": "2026-09-30T12:01:30Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:daily-20260930-evening",
+      "source_type": "official Association view",
+      "source_url": "https://classic.goldtraders.or.th/DailyPrices.aspx",
+      "title": "ราคาทองประจำวัน",
+      "claim": "แสดงคู่ทองแท่ง 66,350/66,550 บาท วันที่ 30 ก.ย. แต่ไม่ระบุเวลาและรอบ",
+      "accessed_at": "2026-09-30T12:01:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:intra-20260930-evening",
+      "source_type": "official Association view",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "ตารางการปรับเปลี่ยนระหว่างวัน",
+      "claim": "รอบ 15 วันที่ 30 ก.ย. เวลา 16:26 น. ทองแท่ง 96.5% รับซื้อ 66,350 บาท ขายออก 66,550 บาทต่อบาททองคำ",
+      "accessed_at": "2026-09-30T12:01:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:home-20260930-evening",
+      "source_type": "official Association view",
+      "source_url": "https://classic.goldtraders.or.th/default.aspx",
+      "title": "หน้าหลักสมาคมค้าทองคำ",
+      "claim": "รอบ 15 วันที่ 30 ก.ย. เวลา 16:26 น. ทองแท่ง 96.5% รับซื้อ 66,350 บาท ขายออก 66,550 บาทต่อบาททองคำ",
+      "accessed_at": "2026-09-30T12:01:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-home-20260930-morning",
       "source_type": "official Association home view",
       "source_url": "https://classic.goldtraders.or.th/default.aspx",
