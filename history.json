@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:5d156f5c-16d3-468c-9e9f-0e623cbb9950",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-01T11:00:00Z",
+      "completed_at": "2026-10-01T12:28:01Z",
+      "title": "19:25 น. ยังเห็นรอบ 22 เวลา 17:27 น.",
+      "summary": "ทองแท่ง 96.5% รอบ 22 รับซื้อ 66,200 บาท ขายออก 66,400 บาทต่อบาททองคำ; หน้ารายวันแสดงคู่เดียวกันแต่ไม่บอกรอบ บันทึกอายุราว 1 ชั่วโมง 58 นาที ไม่ยืนยันราคาปิดหรือยอดร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261001-5d156f5c.html",
+      "entrypoint": "reports/20261001-5d156f5c.html"
+    },
+    {
       "run_id": "run:a59d29e5-b9f5-4164-9ac5-18c8c0997a9e",
       "status": "completed",
       "answer_change": "meaningful_change",
