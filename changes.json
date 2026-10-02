@@ -2,6 +2,18 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:evening-round17-route-divergence-20261002",
+      "changed_at": "2026-10-02T11:07:09Z",
+      "summary": "แสดงรอบ 17 เวลา 17:16 น. จากสี่หน้าสมาคมฯ และหน้าหลัก classic ที่ยังอยู่รอบ 16 ต่างกันฝั่งละ 100 บาท",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:small-bar-provider-fee-20261002",
+      "changed_at": "2026-10-02T11:07:09Z",
+      "summary": "เพิ่มตัวอย่างค่าบล็อกทองแท่งเล็ก 300 บาทต่อแท่งจากร้านหนึ่ง โดยไม่ถือเป็นราคาทั่วตลาดหรือยอดซื้อขายสุทธิ",
+      "path": "/p/thai-gold-price-analysis/compare/"
+    },
+    {
       "change_id": "change:morning-round3-and-intraday-lag-20261002",
       "changed_at": "2026-10-02T03:03:35Z",
       "summary": "แสดงทองแท่งรอบ 3 เวลา 09:35 น. จากหน้าหลักและหน้าพิมพ์สองแห่ง พร้อมแจ้งว่าตารางระหว่างวันยังถึงรอบ 2",

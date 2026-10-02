@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:dbdb843b-2909-47fe-bdb9-eb6fa137829e",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-02T11:00:00Z",
+      "completed_at": "2026-10-02T11:14:26Z",
+      "title": "18:07 น. สี่หน้าถึงรอบ 17 แต่หน้าหลัก classic ยังอยู่รอบ 16",
+      "summary": "ทองแท่ง 96.5% รอบ 17 เวลา 17:16 น. รับซื้อ 66,200 บาท ขายออก 66,400 บาทต่อบาททองคำ; หน้าหลัก classic ยังแสดงรอบ 16 สูงกว่าฝั่งละ 100 บาท",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261002-dbdb843b.html",
+      "entrypoint": "reports/20261002-dbdb843b.html"
+    },
+    {
       "run_id": "run:a262c90b-be3b-4422-92fa-7daa80a12423",
       "status": "completed",
       "answer_change": "meaningful_change",
