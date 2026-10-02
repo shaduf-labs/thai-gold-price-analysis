@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:newgta-print-20261002-morning",
+      "source_type": "official Association print view",
+      "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
+      "title": "หน้าพิมพ์ newgta",
+      "claim": "แสดงทองแท่ง 96.5% รอบ 3 เวลา 09:35 น. รับซื้อ 66,100 บาท ขายออก 66,300 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-02T03:03:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:www-print-20261002-morning",
+      "source_type": "official Association print view",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "หน้าพิมพ์ www",
+      "claim": "แสดงทองแท่ง 96.5% รอบ 3 เวลา 09:35 น. รับซื้อ 66,100 บาท ขายออก 66,300 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-02T03:03:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:intra-20261002-morning",
+      "source_type": "official Association intraday view",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "ตารางปรับระหว่างวัน classic",
+      "claim": "ยังเห็นถึงรอบ 2 เวลา 09:09 น. ที่ 66,050/66,250 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-02T03:03:35Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:daily-20261002-morning",
+      "source_type": "official Association daily view",
+      "source_url": "https://classic.goldtraders.or.th/DailyPrices.aspx",
+      "title": "ราคาประจำวัน classic",
+      "claim": "แสดงคู่ 66,100/66,300 บาทต่อบาททองคำวันที่ 2 ต.ค. แต่ไม่ระบุรอบและเวลา",
+      "accessed_at": "2026-10-02T03:03:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:home-20261002-morning",
+      "source_type": "official Association home view",
+      "source_url": "https://classic.goldtraders.or.th/default.aspx",
+      "title": "หน้าหลัก classic",
+      "claim": "แสดงทองแท่ง 96.5% รอบ 3 เวลา 09:35 น. รับซื้อ 66,100 บาท ขายออก 66,300 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-02T03:03:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-home-20261001-evening",
       "source_type": "official Association home view",
       "source_url": "https://classic.goldtraders.or.th/default.aspx",
