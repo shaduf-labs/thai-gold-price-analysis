@@ -2,6 +2,66 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:classic-home-20261003-evening",
+      "source_type": "official Association price page",
+      "source_url": "https://classic.goldtraders.or.th/",
+      "title": "classic home",
+      "claim": "ตรวจเย็นวันที่ 3 ต.ค. ยังเห็นทองแท่ง 96.5% รอบ 09:02 น. รับซื้อ 65,700 บาท ขายออก 65,900 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-03T11:03:34Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:classic-intraday-20261003-evening",
+      "source_type": "official Association price page",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "classic intraday",
+      "claim": "ตรวจเย็นวันที่ 3 ต.ค. ยังเห็นทองแท่ง 96.5% รอบ 09:02 น. รับซื้อ 65,700 บาท ขายออก 65,900 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-03T11:03:34Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:sideb-intraday-20261003-evening",
+      "source_type": "official Association price page",
+      "source_url": "https://sideb.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "sideb intraday",
+      "claim": "ตรวจเย็นวันที่ 3 ต.ค. ยังเห็นทองแท่ง 96.5% รอบ 09:02 น. รับซื้อ 65,700 บาท ขายออก 65,900 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-03T11:03:34Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:newgta-print-20261003-evening",
+      "source_type": "official Association price page",
+      "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
+      "title": "newgta print",
+      "claim": "ตรวจเย็นวันที่ 3 ต.ค. ยังเห็นทองแท่ง 96.5% รอบ 09:02 น. รับซื้อ 65,700 บาท ขายออก 65,900 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-03T11:03:34Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:classic-daily-20261003-evening",
+      "source_type": "official Association price page",
+      "source_url": "https://classic.goldtraders.or.th/DailyPrices.aspx",
+      "title": "classic daily",
+      "claim": "แสดงคู่ราคา 65,700/65,900 บาทต่อบาททองคำ แต่ไม่ระบุรอบ",
+      "accessed_at": "2026-10-03T11:03:34Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:weekend-notice-20261003-evening",
+      "source_type": "official Association notice",
+      "source_url": "https://gtadmin.goldtraders.or.th/weekend-gold-price-announcement-25-july-2026/",
+      "title": "weekend notice",
+      "claim": "สมาคมฯ ประกาศราคาอ้างอิงวันเสาร์–อาทิตย์ได้ แต่ร้านกำหนดเวลาทำการเอง",
+      "accessed_at": "2026-10-03T11:03:34Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:weekend-policy-20261003-morning",
       "source_type": "official Association notice",
       "source_url": "https://gtadmin.goldtraders.or.th/weekend-gold-price-announcement-25-july-2026/",
