@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:saturday-round1-20261003",
+      "changed_at": "2026-10-03T03:05:24Z",
+      "summary": "แสดงทองแท่งรอบเช้าวันเสาร์ 09:02 น. ต่ำกว่ารอบเย็นวันศุกร์ฝั่งละ 500 บาท พร้อมคำถามเรื่องเวลาทำการและยอดสุทธิร้าน",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
       "change_id": "change:evening-round17-route-divergence-20261002",
       "changed_at": "2026-10-02T11:07:09Z",
       "summary": "แสดงรอบ 17 เวลา 17:16 น. จากสี่หน้าสมาคมฯ และหน้าหลัก classic ที่ยังอยู่รอบ 16 ต่างกันฝั่งละ 100 บาท",

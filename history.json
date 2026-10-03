@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:5253fd30-0884-4b9e-98b9-bf8fd1655cd2",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-03T03:00:00Z",
+      "completed_at": "2026-10-03T03:08:35Z",
+      "title": "เสาร์ 10:05 น. รอบ 1 ต่ำกว่ารอบเย็นวันศุกร์ฝั่งละ 500 บาท",
+      "summary": "ทองแท่ง 96.5% รอบ 1 เวลา 09:02 น. รับซื้อ 65,700 บาท ขายออก 65,900 บาทต่อบาททองคำ; ราคาอ้างอิงไม่ยืนยันเวลาทำการหรือยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261003-5253fd30.html",
+      "entrypoint": "reports/20261003-5253fd30.html"
+    },
+    {
       "run_id": "run:dbdb843b-2909-47fe-bdb9-eb6fa137829e",
       "status": "completed",
       "answer_change": "meaningful_change",
