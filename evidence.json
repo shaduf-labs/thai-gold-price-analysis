@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-www-print-20261004-evening",
+      "source_type": "official Association print page",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "หน้าพิมพ์สมาคมค้าทองคำ",
+      "claim": "4 ต.ค. 09:02 น. รอบ 1 ทองแท่ง 96.5% รับซื้อ 65,750 บาท ขายออก 65,950 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-04T11:04:55Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-intraday-20261004-evening",
+      "source_type": "official Association intraday page",
+      "source_url": "https://sideb.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "ตารางระหว่างวัน sideb",
+      "claim": "4 ต.ค. 09:02 น. รอบ 1 ทองแท่ง 96.5% รับซื้อ 65,750 บาท ขายออก 65,950 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-04T11:04:55Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-home-20261004-evening",
+      "source_type": "official Association home page",
+      "source_url": "https://classic.goldtraders.or.th/default2.aspx",
+      "title": "หน้าหลัก classic",
+      "claim": "4 ต.ค. 09:02 น. รอบ 1 ทองแท่ง 96.5% รับซื้อ 65,750 บาท ขายออก 65,950 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-04T11:04:55Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-weekend-notice-20261004-evening",
+      "source_type": "official Association weekend notice",
+      "source_url": "https://sideb.goldtraders.or.th/ArticleView.aspx?gp=1&id=1506",
+      "title": "ประกาศสมาคมฯ เรื่องราคาเสาร์–อาทิตย์",
+      "claim": "ราคาอ้างอิงวันอาทิตย์ไม่กำหนดให้ร้านทุกแห่งเปิด",
+      "accessed_at": "2026-10-04T11:04:55Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-intraday-sunday-20261004",
       "source_type": "official Association intraday page",
       "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
