@@ -2,6 +2,66 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-intraday-sunday-20261004",
+      "source_type": "official Association intraday page",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "ตารางระหว่างวันสมาคมฯ",
+      "claim": "4 ต.ค. 09:02 น. รอบ 1 ทองแท่ง 96.5% รับซื้อ 65,750 บาท ขายออก 65,950 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-04T03:03:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-home-sunday-20261004",
+      "source_type": "official Association price page",
+      "source_url": "https://classic.goldtraders.or.th/default.aspx",
+      "title": "หน้าหลักสมาคมฯ",
+      "claim": "แสดงคู่ราคาและรอบเดียวกันกับตารางระหว่างวัน",
+      "accessed_at": "2026-10-04T03:03:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-sunday-20261004",
+      "source_type": "official Association price page",
+      "source_url": "https://sideb.goldtraders.or.th/",
+      "title": "หน้าหลัก sideb",
+      "claim": "แสดงคู่ราคาและรอบเดียวกัน",
+      "accessed_at": "2026-10-04T03:03:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-daily-sunday-20261004",
+      "source_type": "official Association daily price page",
+      "source_url": "https://classic.goldtraders.or.th/DailyPrices.aspx",
+      "title": "หน้ารายวันสมาคมฯ",
+      "claim": "แสดงคู่ราคาเดียวกันแต่ไม่มีเวลาหรือรอบบนแถว",
+      "accessed_at": "2026-10-04T03:03:35Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-weekend-notice-sunday-20261004",
+      "source_type": "official Association weekend notice",
+      "source_url": "https://sideb.goldtraders.or.th/ArticleView.aspx?gp=1&id=1506",
+      "title": "ประกาศสมาคมฯ เรื่องราคาวันเสาร์–อาทิตย์",
+      "claim": "การประกาศราคาอ้างอิงไม่บังคับให้ร้านเปิด",
+      "accessed_at": "2026-10-04T03:03:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-faq-sunday-20261004",
+      "source_type": "official Association FAQ",
+      "source_url": "https://gtadmin.goldtraders.or.th/faq/",
+      "title": "คำถามที่พบบ่อยของสมาคมฯ",
+      "claim": "อธิบายว่าเหตุใดราคารับซื้อคืนทองแท่งหน้าร้านอาจต่างจากราคาอ้างอิง",
+      "accessed_at": "2026-10-04T03:03:35Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:classic-home-20261003-evening",
       "source_type": "official Association price page",
       "source_url": "https://classic.goldtraders.or.th/",
