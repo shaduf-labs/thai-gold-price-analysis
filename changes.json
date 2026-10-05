@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:monday-morning-route-divergence-20261005",
+      "changed_at": "2026-10-05T03:07:37Z",
+      "summary": "แสดงรอบ 2 เวลา 09:49 น. จาก classic และหน้าที่ยังแสดงรอบ 1 หรือบันทึก 4 ต.ค.; ระบุความต่างฝั่งละ 50 บาทและขอบเขตยอดร้าน",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
       "change_id": "change:sunday-evening-age-20261004",
       "changed_at": "2026-10-04T11:04:55Z",
       "summary": "ตรวจ 18:04 น. ยังเห็นรอบ 09:02 น. คู่ราคาเท่าเช้าแต่บันทึกอายุราว 9 ชั่วโมง 02 นาที; แยกเวลาราคาออกจากเวลาตรวจและยอดร้าน",

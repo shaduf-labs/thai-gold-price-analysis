@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-classic-home-20261005",
+      "source_type": "official Association web route",
+      "source_url": "https://classic.goldtraders.or.th/default2.aspx",
+      "title": "หน้าหลัก classic",
+      "claim": "5 ต.ค. 09:49 น. รอบ 2 ทองแท่ง 96.5% รับซื้อ 65,900 บาท ขายออก 66,100 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-05T03:07:37Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-intraday-20261005",
+      "source_type": "official Association web route",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "ตาราง classic",
+      "claim": "5 ต.ค. 09:49 น. รอบ 2 ทองแท่ง 96.5% รับซื้อ 65,900 บาท ขายออก 66,100 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-05T03:07:37Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-www-print-20261005",
+      "source_type": "official Association web route",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "หน้าพิมพ์ www",
+      "claim": "5 ต.ค. 09:16 น. รอบ 1 ทองแท่ง 96.5% รับซื้อ 65,950 บาท ขายออก 66,150 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-05T03:07:37Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-intraday-20261005",
+      "source_type": "official Association web route",
+      "source_url": "https://sideb.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "ตาราง sideb",
+      "claim": "5 ต.ค. 09:16 น. รอบ 1 ทองแท่ง 96.5% รับซื้อ 65,950 บาท ขายออก 66,150 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-05T03:07:37Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-home-20261005",
+      "source_type": "official Association web route",
+      "source_url": "https://sideb.goldtraders.or.th/",
+      "title": "หน้าหลัก sideb",
+      "claim": "ยังแสดง 4 ต.ค. 09:02 น. รอบ 1 ทองแท่ง 96.5% 65,750/65,950 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-05T03:07:37Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-www-print-20261004-evening",
       "source_type": "official Association print page",
       "source_url": "https://www.goldtraders.or.th/dailyprices_print",

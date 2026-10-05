@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:f4fcd5a4-f357-46f8-b0c0-8ec3afcf5fe5",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-05T03:00:00Z",
+      "completed_at": "2026-10-05T03:10:10.169Z",
+      "title": "10:07 น. หน้าสมาคมฯ ไม่ตรงกัน: รอบ 2 ต่ำกว่ารอบ 1 ฝั่งละ 50 บาท",
+      "summary": "ทองแท่ง 96.5% classic รอบ 2 รับซื้อ 65,900 บาท ขายออก 66,100 บาทต่อบาททองคำ; www และ sideb ตารางยังแสดงรอบ 1 ต่างกันฝั่งละ 50 บาท",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261005-f4fcd5a4.html",
+      "entrypoint": "reports/20261005-f4fcd5a4.html"
+    },
+    {
       "run_id": "run:ee268dec-92e9-487e-b251-f163dc734302",
       "status": "completed",
       "answer_change": "no_meaningful_change",
