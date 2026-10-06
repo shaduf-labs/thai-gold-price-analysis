@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:cb6f4541-87cd-4f70-b9fd-68b2895e9ebc",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-06T11:00:00Z",
+      "completed_at": "2026-10-06T11:07:55Z",
+      "title": "18 น. ตรวจ 14 รอบ: ทองแท่งรอบ 15:57 น. รับซื้อ 65,900 ขายออก 66,100 บาท",
+      "summary": "ตรวจ 18:07 น. พบ 14 รอบ; รอบ 15:57 น. ทองแท่ง 96.5% รับซื้อ 65,900 บาท ขายออก 66,100 บาทต่อบาททองคำ เป็นราคาอ้างอิง ไม่ใช่ยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261006-cb6f4541.html",
+      "entrypoint": "reports/20261006-cb6f4541.html"
+    },
+    {
       "run_id": "run:manual:92973052fd25a009a1737fd52e1350b5",
       "status": "completed",
       "answer_change": "meaningful_change",

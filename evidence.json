@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-www-print-r14",
+      "source_type": "Official Association print route",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "สมาคมค้าทองคำ",
+      "claim": "Two print routes showed 6 October 15:57 round 14 at 65,900/66,100 baht per baht-weight and 14 visible rows.",
+      "accessed_at": "2026-10-06T11:07:23Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-newgta-print-r14",
+      "source_type": "Official Association print route",
+      "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
+      "title": "สมาคมค้าทองคำ",
+      "claim": "The second print route showed the same 14 rows through 15:57 round 14.",
+      "accessed_at": "2026-10-06T11:07:23Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-home-r14",
+      "source_type": "Official Association home route",
+      "source_url": "https://classic.goldtraders.or.th/",
+      "title": "สมาคมค้าทองคำ",
+      "claim": "The home route displayed round 14 15:57 at 65,900/66,100.",
+      "accessed_at": "2026-10-06T11:07:23Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-home-r14",
+      "source_type": "Official Association home route",
+      "source_url": "https://sideb.goldtraders.or.th/",
+      "title": "สมาคมค้าทองคำ",
+      "claim": "The home route displayed round 14 15:57 at 65,900/66,100.",
+      "accessed_at": "2026-10-06T11:07:23Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-noclassic-home-r14",
+      "source_type": "Official Association home route",
+      "source_url": "https://noclassic.goldtraders.or.th/",
+      "title": "สมาคมค้าทองคำ",
+      "claim": "The home route displayed round 14 15:57 at 65,900/66,100.",
+      "accessed_at": "2026-10-06T11:07:23Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-classic-home-r5",
       "source_type": "Official Association home route",
       "source_url": "https://classic.goldtraders.or.th/default.aspx",
