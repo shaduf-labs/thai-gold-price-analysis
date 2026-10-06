@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:a5ad3aff-433b-488b-92d3-4fb3125ae45e",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-06T03:00:00Z",
+      "completed_at": "2026-10-06T03:06:00Z",
+      "title": "10:03 น. เว็บสมาคมฯ แสดง 3 รอบ: ราคาอ้างอิงต่างกันสูงสุด 150 บาท",
+      "summary": "ทองแท่ง 96.5% noclassic รอบ 3 รับซื้อ 65,750 บาท ขายออก 65,950 บาทต่อบาททองคำ; sideb รอบ 2 ต่ำกว่าฝั่งละ 150 บาท",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261006-a5ad3aff.html",
+      "entrypoint": "reports/20261006-a5ad3aff.html"
+    },
+    {
       "run_id": "run:f4fcd5a4-f357-46f8-b0c0-8ec3afcf5fe5",
       "status": "completed",
       "answer_change": "meaningful_change",

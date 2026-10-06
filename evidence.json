@@ -2,6 +2,66 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-noclassic-home-20261006",
+      "source_type": "official Association web route",
+      "source_url": "https://noclassic.goldtraders.or.th/",
+      "title": "noclassic หน้าหลัก",
+      "claim": "6 ต.ค. 09:52 น. รอบ 3 ทองแท่ง 96.5% รับซื้อ 65,750 บาท ขายออก 65,950 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-06T03:03:20Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-home-20261006",
+      "source_type": "official Association web route",
+      "source_url": "https://sideb.goldtraders.or.th/",
+      "title": "sideb หน้าหลัก",
+      "claim": "6 ต.ค. 09:40 น. รอบ 2 รับซื้อ 65,600 บาท ขายออก 65,800 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-06T03:03:20Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-intraday-20261006",
+      "source_type": "official Association web route",
+      "source_url": "https://sideb.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "sideb ตาราง",
+      "claim": "6 ต.ค. 09:40 น. รอบ 2 รับซื้อ 65,600 บาท ขายออก 65,800 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-06T03:03:20Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-home-20261006",
+      "source_type": "official Association web route",
+      "source_url": "https://classic.goldtraders.or.th/default2.aspx",
+      "title": "classic หน้าหลัก",
+      "claim": "6 ต.ค. 09:07 น. รอบ 1 รับซื้อ 65,700 บาท ขายออก 65,900 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-06T03:03:20Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-intraday-20261006",
+      "source_type": "official Association web route",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "classic ตาราง",
+      "claim": "6 ต.ค. 09:07 น. รอบ 1 รับซื้อ 65,700 บาท ขายออก 65,900 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-06T03:03:20Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-www-print-20261006",
+      "source_type": "official Association web route",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "www หน้าพิมพ์",
+      "claim": "6 ต.ค. 09:07 น. รอบ 1 รับซื้อ 65,700 บาท ขายออก 65,900 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-06T03:03:20Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-classic-home-20261005",
       "source_type": "official Association web route",
       "source_url": "https://classic.goldtraders.or.th/default2.aspx",

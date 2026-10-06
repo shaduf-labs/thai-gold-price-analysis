@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:three-official-rounds-20261006-morning",
+      "changed_at": "2026-10-06T03:03:20Z",
+      "summary": "แสดงสามรอบที่พบตามหน้าเว็บสมาคมฯ พร้อมส่วนต่างสูงสุดฝั่งละ 150 บาทและขอบเขตราคาอ้างอิง",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
       "change_id": "change:monday-morning-route-divergence-20261005",
       "changed_at": "2026-10-05T03:07:37Z",
       "summary": "แสดงรอบ 2 เวลา 09:49 น. จาก classic และหน้าที่ยังแสดงรอบ 1 หรือบันทึก 4 ต.ค.; ระบุความต่างฝั่งละ 50 บาทและขอบเขตยอดร้าน",
