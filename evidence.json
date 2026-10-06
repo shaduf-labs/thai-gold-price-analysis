@@ -2,6 +2,56 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-classic-home-r5",
+      "source_type": "Official Association home route",
+      "source_url": "https://classic.goldtraders.or.th/default.aspx",
+      "title": "สมาคมค้าทองคำ",
+      "claim": "The home route displayed 6 October 10:21 round 5, 96.5% bar buyback/selling 65,650/65,850 baht per baht-weight.",
+      "accessed_at": "2026-10-06T04:32:26Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-home-r5",
+      "source_type": "Official Association home route",
+      "source_url": "https://sideb.goldtraders.or.th/",
+      "title": "สมาคมค้าทองคำ",
+      "claim": "The home route displayed 6 October 10:21 round 5, 96.5% bar buyback/selling 65,650/65,850 baht per baht-weight.",
+      "accessed_at": "2026-10-06T04:32:26Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-noclassic-home-r5",
+      "source_type": "Official Association home route",
+      "source_url": "https://noclassic.goldtraders.or.th/",
+      "title": "สมาคมค้าทองคำ",
+      "claim": "The home route displayed 6 October 10:21 round 5, 96.5% bar buyback/selling 65,650/65,850 baht per baht-weight.",
+      "accessed_at": "2026-10-06T04:32:26Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-newgta-print-r5",
+      "source_type": "Official Association print route",
+      "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
+      "title": "สมาคมค้าทองคำ",
+      "claim": "A second Association print route displayed the same five 6 October rows through round 5.",
+      "accessed_at": "2026-10-06T04:32:26Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-www-print-r5",
+      "source_type": "Official Association print route",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "สมาคมค้าทองคำ",
+      "claim": "The 6 October print page showed five rows through 10:21 round 5, with 96.5% bar buyback/selling 65,650/65,850 baht per baht-weight.",
+      "accessed_at": "2026-10-06T04:32:26Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-noclassic-home-20261006",
       "source_type": "official Association web route",
       "source_url": "https://noclassic.goldtraders.or.th/",

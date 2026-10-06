@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:five-round-check-20261006-midday",
+      "changed_at": "2026-10-06T04:32:26Z",
+      "summary": "แสดงทองแท่ง 96.5% รอบ 5 เวลา 10:21 น. ที่ 65,650/65,850 บาทต่อบาททองคำ พร้อมอายุข้อมูลและบันทึกห้ารอบ",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
       "change_id": "change:three-official-rounds-20261006-morning",
       "changed_at": "2026-10-06T03:03:20Z",
       "summary": "แสดงสามรอบที่พบตามหน้าเว็บสมาคมฯ พร้อมส่วนต่างสูงสุดฝั่งละ 150 บาทและขอบเขตราคาอ้างอิง",

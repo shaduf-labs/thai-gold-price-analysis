@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:manual:92973052fd25a009a1737fd52e1350b5",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-06T04:30:04Z",
+      "completed_at": "2026-10-06T04:34:27Z",
+      "title": "11:32 น. ตรวจพบ 5 รอบ: ทองแท่งรอบ 10:21 น. ต่ำกว่ารอบ 09:52 น. ฝั่งละ 100 บาท",
+      "summary": "ทองแท่ง 96.5% รอบ 5 เวลา 10:21 น. รับซื้อ 65,650 บาท ขายออก 65,850 บาทต่อบาททองคำ; ตรวจราว 11:32 น.",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261006-92973052.html",
+      "entrypoint": "reports/20261006-92973052.html"
+    },
+    {
       "run_id": "run:a5ad3aff-433b-488b-92d3-4fb3125ae45e",
       "status": "completed",
       "answer_change": "meaningful_change",
