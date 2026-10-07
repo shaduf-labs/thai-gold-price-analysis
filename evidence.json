@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-www-print-20261007",
+      "source_type": "Official Association print route",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "สมาคมค้าทองคำ",
+      "claim": "7 October 2026 09:06 round 1, 96.5% gold bar buyback/selling 65,900/66,100 baht per baht-weight; jewelry tax-base buyback/selling 64,581.60/66,900.",
+      "accessed_at": "2026-10-07T03:09:19Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-newgta-print-20261007",
+      "source_type": "Official Association print route",
+      "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
+      "title": "สมาคมค้าทองคำ",
+      "claim": "7 October 2026 09:06 round 1, 96.5% gold bar buyback/selling 65,900/66,100 baht per baht-weight; jewelry tax-base buyback/selling 64,581.60/66,900.",
+      "accessed_at": "2026-10-07T03:09:19Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-home-20261007",
+      "source_type": "Official Association home route",
+      "source_url": "https://classic.goldtraders.or.th/",
+      "title": "สมาคมค้าทองคำ",
+      "claim": "7 October 2026 09:06 round 1, 96.5% gold bar buyback/selling 65,900/66,100 baht per baht-weight; jewelry tax-base buyback/selling 64,581.60/66,900.",
+      "accessed_at": "2026-10-07T03:09:19Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-tax-archive-20261007",
+      "source_type": "Official Association tax archive",
+      "source_url": "https://classic.goldtraders.or.th/TaxArchiveList_Print.aspx?smonth=10&syear=2569",
+      "title": "สมาคมค้าทองคำ",
+      "claim": "The monthly tax table lists 7 October round 1 at 65,900/66,100 and the 6 October round 14 at the same bar pair.",
+      "accessed_at": "2026-10-07T03:09:19Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-www-print-r14",
       "source_type": "Official Association print route",
       "source_url": "https://www.goldtraders.or.th/dailyprices_print",

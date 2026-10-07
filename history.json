@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:89e78b4c-2c6f-41cc-95fb-fcdba2db6dde",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-07T03:00:00Z",
+      "completed_at": "2026-10-07T03:10:02Z",
+      "title": "ราคาเท่าเมื่อวาน แต่เช้านี้มีประกาศใหม่เวลา 09:06 น.",
+      "summary": "รอบ 1 วันที่ 7 ต.ค. ทองแท่ง 96.5% รับซื้อ 65,900 บาท ขายออก 66,100 บาทต่อบาททองคำ เท่าตัวเลขเมื่อวาน แต่เป็นประกาศใหม่และไม่ใช่ยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261007-89e78b4c.html",
+      "entrypoint": "reports/20261007-89e78b4c.html"
+    },
+    {
       "run_id": "run:cb6f4541-87cd-4f70-b9fd-68b2895e9ebc",
       "status": "completed",
       "answer_change": "meaningful_change",

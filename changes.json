@@ -2,6 +2,24 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:dated-opening-20261007",
+      "changed_at": "2026-10-07T03:09:19Z",
+      "summary": "แสดงประกาศรอบ 1 วันที่ 7 ต.ค. เวลา 09:06 น. พร้อมแยกเลขเดิมจากประกาศใหม่และระบุอายุข้อมูล",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:bar-jewelry-reference-difference-20261007",
+      "changed_at": "2026-10-07T03:09:19Z",
+      "summary": "ชี้ว่าความต่าง 800 บาทระหว่างราคาขายออกอ้างอิงทองแท่งกับทองรูปพรรณไม่ใช่ค่ากำเหน็จของร้าน",
+      "path": "/p/thai-gold-price-analysis/compare/"
+    },
+    {
+      "change_id": "change:opening-report-20261007",
+      "changed_at": "2026-10-07T03:09:19Z",
+      "summary": "เพิ่มรายงานรอบเช้าวันที่ 7 ต.ค. พร้อมตัวอย่างทองแท่ง 1 สลึงและข้อจำกัดยอดสุทธิ",
+      "path": "/p/thai-gold-price-analysis/reports/20261007-89e78b4c.html"
+    },
+    {
       "change_id": "change:fourteen-round-check-20261006-evening",
       "changed_at": "2026-10-06T11:07:23Z",
       "summary": "แสดงทองแท่ง 96.5% รอบ 14 เวลา 15:57 น. ที่ 65,900/66,100 บาทต่อบาททองคำ พร้อมอายุข้อมูลและบันทึก 14 รอบ",
