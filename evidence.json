@@ -2,6 +2,106 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-print-20261009-morning",
+      "source_type": "Official Association dated print",
+      "source_url": "https://classic.goldtraders.or.th/DailyPrices_Print.aspx?as=9%2F10%2F2569+0%3A00%3A00",
+      "title": "ราคาทองตามประกาศของสมาคมค้าทองคำ",
+      "claim": "At the 9 October approximately 10:02 Thailand-time inspection, the Association date-specific classic daily print route displayed 09:56 round 3 for 96.5% bars: dealer buyback 66,200 and selling 66,400 baht per baht-weight, jewelry tax-base buyback 64,869.64 and selling 67,200. It was 100 baht higher than the 09:03 opening on both bar sides and 650 baht higher than the previous inspected 8 October 16:18 bar pair. This route-specific record is not a verified live, final or shop net price.",
+      "accessed_at": "2026-10-09T03:02:46Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-home-20261009-morning",
+      "source_type": "Official Association home",
+      "source_url": "https://classic.goldtraders.or.th/",
+      "title": "Gold Price by GTA",
+      "claim": "At the same inspection, the Association classic home displayed 09:39 round 2, 96.5% bar buyback 66,150 and selling 66,350 baht per baht-weight, 50 baht below the date-specific print route round 3. The retrievals are not synchronized raw responses and the lag mechanism is unknown.",
+      "accessed_at": "2026-10-09T03:02:46Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-intraday-20261009-morning",
+      "source_type": "Official Association intraday",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "การปรับเปลี่ยนระหว่างวัน",
+      "claim": "At the same inspection, the Association classic intraday view exposed only 09:03 round 1, 96.5% bar buyback 66,100 and selling 66,300 baht per baht-weight; its visible table did not show the later home or date-specific print rounds. This is a retrieval limitation, not proof those rounds did not exist.",
+      "accessed_at": "2026-10-09T03:02:46Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-tax-20261009-morning",
+      "source_type": "Official Association tax archive",
+      "source_url": "https://classic.goldtraders.or.th/TaxArchiveList_Print.aspx?smonth=10&syear=2569",
+      "title": "ตารางราคาทองเพื่อคำนวณภาษี",
+      "claim": "The Association tax archive route displayed only 9 October round 1, 66,100/66,300 baht per baht-weight, during inspection. It did not reflect the later round 3 visible in the date-specific daily print route.",
+      "accessed_at": "2026-10-09T03:02:46Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-www-print-20261008-evening",
+      "source_type": "Official Association print route",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "ราคาทองตามประกาศของสมาคมค้าทองคำ",
+      "claim": "At approximately 18:04 Thailand time on 8 October, the route showed round 16 at 16:18: 96.5% bar buyback 65,550 and selling 65,750 baht per baht-weight.",
+      "accessed_at": "2026-10-08T11:03:54Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-home-20261008-evening",
+      "source_type": "Official Association home",
+      "source_url": "https://classic.goldtraders.or.th/",
+      "title": "ราคาทองตามประกาศของสมาคมค้าทองคำ",
+      "claim": "At approximately 18:04 Thailand time on 8 October, the route showed round 16 at 16:18: 96.5% bar buyback 65,550 and selling 65,750 baht per baht-weight.",
+      "accessed_at": "2026-10-08T11:03:54Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-update-20261008-evening",
+      "source_type": "Official Association intraday table",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "ราคาทองตามประกาศของสมาคมค้าทองคำ",
+      "claim": "At approximately 18:04 Thailand time on 8 October, the route showed round 16 at 16:18: 96.5% bar buyback 65,550 and selling 65,750 baht per baht-weight.",
+      "accessed_at": "2026-10-08T11:03:54Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-www-print-20261008-morning",
+      "source_type": "Official Association print route",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "ราคาทองตามประกาศของสมาคมค้าทองคำ",
+      "claim": "At approximately 10:06 Thailand time on 8 October, the route showed round 2 at 09:47 for 96.5% bars: buyback 65,700 and selling 65,900 baht per baht-weight.",
+      "accessed_at": "2026-10-08T03:06:38Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-newgta-print-20261008-morning",
+      "source_type": "Official Association print route",
+      "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
+      "title": "ราคาทองตามประกาศของสมาคมค้าทองคำ",
+      "claim": "At approximately 10:06 Thailand time on 8 October, the route showed round 2 at 09:47 for 96.5% bars: buyback 65,700 and selling 65,900 baht per baht-weight.",
+      "accessed_at": "2026-10-08T03:06:38Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-home-20261008-morning",
+      "source_type": "Official Association classic home",
+      "source_url": "https://classic.goldtraders.or.th/",
+      "title": "ราคาทองตามประกาศของสมาคมค้าทองคำ",
+      "claim": "At approximately 10:06 Thailand time on 8 October, the route showed round 2 at 09:47 for 96.5% bars: buyback 65,700 and selling 65,900 baht per baht-weight.",
+      "accessed_at": "2026-10-08T03:06:38Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-www-print-20261007-evening",
       "source_type": "Official Association print route",
       "source_url": "https://www.goldtraders.or.th/dailyprices_print",

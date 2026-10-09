@@ -2,6 +2,48 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:morning-route-divergence-20261009",
+      "changed_at": "2026-10-09T03:02:46Z",
+      "summary": "แสดงรอบ 3 เวลา 09:56 น. และความต่างจากหน้าแรกกับตารางระหว่างวัน โดยไม่เรียกเป็นราคาสดหรือยอดสุทธิร้าน",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:morning-report-20261009",
+      "changed_at": "2026-10-09T03:02:46Z",
+      "summary": "เพิ่มรายงานความต่างของรอบราคา 9 ต.ค. พร้อมที่มา สูตร 1 สลึง และข้อจำกัด",
+      "path": "/p/thai-gold-price-analysis/reports/20261009-b7323b57.html"
+    },
+    {
+      "change_id": "change:evening-round16-report-20261008",
+      "changed_at": "2026-10-08T11:03:54Z",
+      "summary": "เพิ่มรายงาน 8 ต.ค. รอบเย็น พร้อมขอบเขตยอดสุทธิร้าน",
+      "path": "/p/thai-gold-price-analysis/reports/20261008-a24e86c9.html"
+    },
+    {
+      "change_id": "change:evening-round16-history-20261008",
+      "changed_at": "2026-10-08T11:03:54Z",
+      "summary": "เพิ่มตารางเทียบรอบเปิด รอบ 8 และรอบ 16 โดยไม่เรียกว่าราคาปิด",
+      "path": "/p/thai-gold-price-analysis/history/"
+    },
+    {
+      "change_id": "change:evening-round16-home-20261008",
+      "changed_at": "2026-10-08T11:03:54Z",
+      "summary": "อัปเดตรอบ 16 เวลา 16:18 น. รับซื้อ 65,550 บาท ขายออก 65,750 บาทต่อบาททองคำ พร้อมเวลาอ้างอิง",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:morning-round2-20261008",
+      "changed_at": "2026-10-08T03:06:38Z",
+      "summary": "แสดงรอบ 2 เวลา 09:47 น. ทองแท่ง 96.5% รับซื้อ 65,700 บาท ขายออก 65,900 บาทต่อบาททองคำ สูงกว่ารอบเปิดฝั่งละ 50 บาท",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:morning-report-20261008",
+      "changed_at": "2026-10-08T03:06:38Z",
+      "summary": "เพิ่มรายงานสองรอบที่ตรวจ พร้อมตัวอย่างทองแท่ง 1 สลึงและขอบเขตยอดสุทธิร้าน",
+      "path": "/p/thai-gold-price-analysis/reports/20261008-e257e06c.html"
+    },
+    {
       "change_id": "change:eleven-round-check-20261007-evening",
       "changed_at": "2026-10-07T11:03:00Z",
       "summary": "ตรวจรอบ 11 เวลา 17:08 น. ทองแท่ง 96.5% รับซื้อ 65,550 บาท ขายออก 65,750 บาทต่อบาททองคำ ต่ำกว่ารอบเช้าฝั่งละ 350 บาท",
