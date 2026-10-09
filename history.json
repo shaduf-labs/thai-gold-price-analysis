@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:ba1a878c-9a4e-4db0-b6be-304111d82035",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-09T11:00:00Z",
+      "completed_at": "2026-10-09T11:04:39Z",
+      "title": "9 ต.ค. รอบ 18 เวลา 16:03 น.: ทองแท่งต่ำกว่ารอบ 10 อยู่ 200 บาท",
+      "summary": "สมาคมฯ สามหน้าที่ตรวจแสดง 66,250/66,450 บาทต่อบาททองคำ รอบ 18; สูงกว่ารอบเปิด 150 บาท แต่ไม่ใช่ยอดสุทธิร้านหรือราคาปิดที่ยืนยัน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261009-ba1a878c.html",
+      "entrypoint": "reports/20261009-ba1a878c.html"
+    },
+    {
       "run_id": "run:b7323b57-188c-4bff-9aa9-bd3cc1d9993d",
       "status": "completed",
       "answer_change": "meaningful_change",

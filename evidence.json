@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:goldprice88-20261009-evening",
+      "source_type": "Commercial competitor",
+      "source_url": "https://goldprice88.com/",
+      "title": "Commercial competitor",
+      "claim": "แสดงรอบ 18 และฟังก์ชันคัดลอกตารางพร้อมที่มา เป็นฟีเจอร์ของคู่แข่ง ไม่ใช่ข้อมูลการใช้งาน",
+      "accessed_at": "2026-10-09T11:02:30Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-www-print-20261009-evening",
+      "source_type": "Official Association print",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "Official Association print",
+      "claim": "หน้าพิมพ์แสดงรอบ 18 เวลา 16:03 น. คู่ทองแท่ง 66,250/66,450 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-09T11:02:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-intraday-20261009-evening",
+      "source_type": "Official Association intraday table",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "Official Association intraday table",
+      "claim": "ตารางแสดงรอบ 1 ถึง 18; รอบ 10 เวลา 12:37 น. อยู่ที่ 66,450/66,650 บาท และรอบ 18 ที่ 66,250/66,450 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-09T11:02:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-home-20261009-evening",
+      "source_type": "Official Association home",
+      "source_url": "https://classic.goldtraders.or.th/default.aspx",
+      "title": "Official Association home",
+      "claim": "หน้าแรกแสดงรอบ 18 เวลา 16:03 น. ทองแท่ง 96.5% รับซื้อ 66,250 บาท ขายออก 66,450 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-09T11:02:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-print-20261009-morning",
       "source_type": "Official Association dated print",
       "source_url": "https://classic.goldtraders.or.th/DailyPrices_Print.aspx?as=9%2F10%2F2569+0%3A00%3A00",

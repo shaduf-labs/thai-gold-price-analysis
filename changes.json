@@ -2,6 +2,18 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:evening-round18-20261009",
+      "changed_at": "2026-10-09T11:02:30Z",
+      "summary": "อัปเดตรอบ 18 เวลา 16:03 น. พร้อมเทียบรอบเปิดและรอบ 10 โดยไม่เรียกเป็นราคาปิดหรือยอดสุทธิร้าน",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:evening-report-20261009",
+      "changed_at": "2026-10-09T11:02:30Z",
+      "summary": "เพิ่มรายงาน 18 รอบและตัวอย่างทองแท่ง 1 สลึง",
+      "path": "/p/thai-gold-price-analysis/reports/20261009-ba1a878c.html"
+    },
+    {
       "change_id": "change:morning-route-divergence-20261009",
       "changed_at": "2026-10-09T03:02:46Z",
       "summary": "แสดงรอบ 3 เวลา 09:56 น. และความต่างจากหน้าแรกกับตารางระหว่างวัน โดยไม่เรียกเป็นราคาสดหรือยอดสุทธิร้าน",
