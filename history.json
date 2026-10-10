@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:25066e4c-84a5-4903-acbb-7127a2a52612",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-10T03:00:00Z",
+      "completed_at": "2026-10-10T03:09:30Z",
+      "title": "ทองแท่งรอบเช้า 10 ต.ค. สูงกว่ารอบที่ตรวจเมื่อวาน 100 บาท",
+      "summary": "ตรวจประมาณ 10:06 น. รอบ 1 เวลา 09:06 น. ทองแท่ง 96.5% รับซื้อ 66,350 บาท ขายออก 66,550 บาทต่อบาททองคำ; ไม่ใช่ยอดสุทธิร้านหรือราคาปิด",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261010-25066e4c.html",
+      "entrypoint": "reports/20261010-25066e4c.html"
+    },
+    {
       "run_id": "run:ba1a878c-9a4e-4db0-b6be-304111d82035",
       "status": "completed",
       "answer_change": "meaningful_change",

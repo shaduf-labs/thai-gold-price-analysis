@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-home-20261010-morning",
+      "source_type": "Official Association home",
+      "source_url": "https://classic.goldtraders.or.th/default.aspx",
+      "title": "สมาคมค้าทองคำ — ประกาศ 10 ต.ค. 2569",
+      "claim": "แสดงทองแท่ง 96.5% รอบ 1 เวลา 09:06 น. รับซื้อ 66,350 บาท ขายออก 66,550 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-10T03:08:58Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-intraday-20261010-morning",
+      "source_type": "Official Association intraday table",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "สมาคมค้าทองคำ — ประกาศ 10 ต.ค. 2569",
+      "claim": "แสดงทองแท่ง 96.5% รอบ 1 เวลา 09:06 น. รับซื้อ 66,350 บาท ขายออก 66,550 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-10T03:08:58Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-www-print-20261010-morning",
+      "source_type": "Official Association print",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "สมาคมค้าทองคำ — ประกาศ 10 ต.ค. 2569",
+      "claim": "แสดงทองแท่ง 96.5% รอบ 1 เวลา 09:06 น. รับซื้อ 66,350 บาท ขายออก 66,550 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-10T03:08:58Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-dated-print-20261010-morning",
+      "source_type": "Official Association dated print",
+      "source_url": "https://classic.goldtraders.or.th/DailyPrices_Print.aspx?as=10%2F10%2F2569+0%3A00%3A00",
+      "title": "สมาคมค้าทองคำ — ประกาศ 10 ต.ค. 2569",
+      "claim": "แสดงทองแท่ง 96.5% รอบ 1 เวลา 09:06 น. รับซื้อ 66,350 บาท ขายออก 66,550 บาทต่อบาททองคำ และระบุราคาเดิม 66,250/66,450 บาท",
+      "accessed_at": "2026-10-10T03:08:58Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:goldprice88-20261009-evening",
       "source_type": "Commercial competitor",
       "source_url": "https://goldprice88.com/",
