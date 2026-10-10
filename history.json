@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:941bf502-8964-478d-aaf2-c818f85c6c8b",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-10T11:00:00Z",
+      "completed_at": "2026-10-10T11:07:39Z",
+      "title": "10 ต.ค. ตรวจเย็นยังเห็นประกาศรอบเช้า",
+      "summary": "ตรวจประมาณ 18:05 น. สามหน้าสมาคมฯ ยังแสดงรอบ 09:06 น. ที่ 66,350/66,550 บาทต่อบาททองคำ; บันทึกเกือบ 9 ชั่วโมง ไม่ใช่ราคาสดหรือยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261010-941bf502.html",
+      "entrypoint": "reports/20261010-941bf502.html"
+    },
+    {
       "run_id": "run:25066e4c-84a5-4903-acbb-7127a2a52612",
       "status": "completed",
       "answer_change": "meaningful_change",

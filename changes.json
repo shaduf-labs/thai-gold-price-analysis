@@ -2,6 +2,18 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:evening-age-20261010",
+      "changed_at": "2026-10-10T11:05:02Z",
+      "summary": "แสดงว่ารอบ 09:06 น. ยังเป็นรอบที่เห็นเมื่อ 18:05 น. และบันทึกมีอายุเกือบ 9 ชั่วโมง ไม่เรียกว่าราคาสดหรือราคาปิด",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:evening-report-20261010",
+      "changed_at": "2026-10-10T11:05:02Z",
+      "summary": "เพิ่มรายงานตรวจเย็นที่แยกราคาอ้างอิงเกือบ 9 ชั่วโมงออกจากยอดสุทธิร้าน",
+      "path": "/p/thai-gold-price-analysis/reports/20261010-941bf502.html"
+    },
+    {
       "change_id": "change:morning-round1-20261010",
       "changed_at": "2026-10-10T03:08:58Z",
       "summary": "อัปเดตประกาศรอบ 1 เวลา 09:06 น. และเทียบรอบที่ตรวจวันที่ 9 ต.ค. โดยไม่เรียกเป็นราคาปิดหรือยอดสุทธิร้าน",
