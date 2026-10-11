@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-home-20261011",
+      "source_type": "Official Association gta-home",
+      "source_url": "https://classic.goldtraders.or.th/default.aspx",
+      "title": "สมาคมค้าทองคำ — ประกาศ 11 ต.ค. 2569",
+      "claim": "ตรวจประมาณ 10:05 น. วันที่ 11 ต.ค. แสดงรอบ 1 เวลา 09:15 น. ทองแท่ง 96.5% รับซื้อ 66,350 บาท ขายออก 66,550 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-11T03:05:11.642Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-intraday-20261011",
+      "source_type": "Official Association gta-intraday",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "สมาคมค้าทองคำ — ประกาศ 11 ต.ค. 2569",
+      "claim": "ตรวจประมาณ 10:05 น. วันที่ 11 ต.ค. แสดงรอบ 1 เวลา 09:15 น. ทองแท่ง 96.5% รับซื้อ 66,350 บาท ขายออก 66,550 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-11T03:05:11.642Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-dated-print-20261011",
+      "source_type": "Official Association gta-dated-print",
+      "source_url": "https://classic.goldtraders.or.th/DailyPrices_Print.aspx?as=11%2F10%2F2569+0%3A00%3A00",
+      "title": "สมาคมค้าทองคำ — ประกาศ 11 ต.ค. 2569",
+      "claim": "ตรวจประมาณ 10:05 น. วันที่ 11 ต.ค. แสดงรอบ 1 เวลา 09:15 น. ทองแท่ง 96.5% รับซื้อ 66,350 บาท ขายออก 66,550 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-11T03:05:11.642Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-modern-print-20261011",
+      "source_type": "Official Association gta-modern-print",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "สมาคมค้าทองคำ — ประกาศ 11 ต.ค. 2569",
+      "claim": "ตรวจประมาณ 10:05 น. วันที่ 11 ต.ค. แสดงรอบ 1 เวลา 09:15 น. ทองแท่ง 96.5% รับซื้อ 66,350 บาท ขายออก 66,550 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-11T03:05:11.642Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-home-evening",
       "source_type": "Official Association home",
       "source_url": "https://classic.goldtraders.or.th/default.aspx",

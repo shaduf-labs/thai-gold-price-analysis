@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:aa27d608-c9fb-4a80-b135-c66b2121d43c",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-11T03:00:00Z",
+      "completed_at": "2026-10-11T03:05:27.308Z",
+      "title": "11 ต.ค. ประกาศรอบใหม่แต่ราคาเท่ารอบที่ตรวจเมื่อวาน",
+      "summary": "ตรวจประมาณ 10:05 น. พบรอบ 09:15 น. รับซื้อ 66,350 บาท ขายออก 66,550 บาทต่อบาททองคำ; ไม่ใช่ยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261011-aa27d608.html",
+      "entrypoint": "reports/20261011-aa27d608.html"
+    },
+    {
       "run_id": "run:941bf502-8964-478d-aaf2-c818f85c6c8b",
       "status": "completed",
       "answer_change": "no_meaningful_change",
