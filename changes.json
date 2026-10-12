@@ -2,6 +2,18 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:morning-round-divergence-20261012",
+      "changed_at": "2026-10-12T03:19:57Z",
+      "summary": "แสดงประกาศวันที่ 12 ต.ค. แยกหน้าพิมพ์รอบ 3 จากหน้าแรกเดิมรอบ 2 และระบุเวลาแหล่งข้อมูลกับยอดสุทธิที่ยังไม่ทราบ",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:morning-report-20261012",
+      "changed_at": "2026-10-12T03:19:57Z",
+      "summary": "เพิ่มรายงานการตรวจเช้าที่มีรอบเปิด รอบ 2 รอบ 3 และข้อจำกัดการเทียบ",
+      "path": "/p/thai-gold-price-analysis/reports/20261012-09659c43.html"
+    },
+    {
       "change_id": "change:delayed-check-20261011",
       "changed_at": "2026-10-11T21:47:05Z",
       "summary": "ระบุว่าตรวจจริงก่อนเช้า 12 ต.ค. และยังเห็นประกาศ 11 ต.ค.; ไม่สร้างบันทึกเย็นย้อนหลังหรือเรียกราคาสด",

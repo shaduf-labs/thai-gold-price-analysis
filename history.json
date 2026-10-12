@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:09659c43-b421-4e21-a3b0-250a0ec55e1d",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-12T03:00:00Z",
+      "completed_at": "2026-10-12T03:22:03Z",
+      "title": "12 ต.ค. หน้าพิมพ์รอบ 3 แต่หน้าแรกเดิมยังอยู่รอบ 2",
+      "summary": "ตรวจประมาณ 10:20 น. หน้าพิมพ์แสดงทองแท่ง 96.5% รอบ 09:58 น. รับซื้อ 66,500 บาท ขายออก 66,700 บาทต่อบาททองคำ; หน้าแรกเดิมยังแสดงรอบ 09:08 น.",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261012-09659c43.html",
+      "entrypoint": "reports/20261012-09659c43.html"
+    },
+    {
       "run_id": "run:28473152-99b2-4ad2-8005-7049139174f7",
       "status": "completed",
       "answer_change": "no_meaningful_change",
