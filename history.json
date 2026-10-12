@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:2812c35f-1770-4092-b47c-b4682f6dbe28",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-12T19:03:00Z",
+      "completed_at": "2026-10-12T19:06:10Z",
+      "title": "ตรวจล่าช้าหลังรอบเย็น: สองหน้าสมาคมฯ ยังแสดงคนละรอบของ 12 ต.ค.",
+      "summary": "ตรวจ 02:06 น. วันที่ 13 ต.ค. หน้าพิมพ์แบบเดิมแสดงรอบ 17:09 น. ที่ 66,250/66,450 บาทต่อบาททองคำ อีกหน้าพิมพ์ยังอยู่รอบ 16:49 น.; ไม่มีภาพตรวจ 18:00 น. หรือราคาวันที่ 13 ต.ค.",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261012-2812c35f.html",
+      "entrypoint": "reports/20261012-2812c35f.html"
+    },
+    {
       "run_id": "run:09659c43-b421-4e21-a3b0-250a0ec55e1d",
       "status": "completed",
       "answer_change": "meaningful_change",

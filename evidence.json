@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-classic-print-r12-late",
+      "source_type": "Official Association dated printable page",
+      "source_url": "https://classic.goldtraders.or.th/DailyPrices_Print.aspx?as=12%2F10%2F2569+0%3A00%3A00",
+      "title": "สมาคมค้าทองคำ — หน้าพิมพ์แบบเดิมวันที่ 12 ต.ค.",
+      "claim": "รอบ 12 เวลา 17:09 น. ทองแท่ง 96.5% รับซื้อ 66,250 บาท ขายออก 66,450 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-12T19:06:10Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-home-r12-late",
+      "source_type": "Official Association classic home",
+      "source_url": "https://classic.goldtraders.or.th/",
+      "title": "สมาคมค้าทองคำ — หน้าแรกแบบเดิม",
+      "claim": "แสดง 12 ต.ค. รอบ 12 เวลา 17:09 น. ที่ 66,250/66,450 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-12T19:06:10Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-modern-print-r11-late",
+      "source_type": "Official Association modern printable page",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "สมาคมค้าทองคำ — หน้าพิมพ์อีกเส้นทาง",
+      "claim": "ยังแสดง 12 ต.ค. รอบ 11 เวลา 16:49 น. ที่ 66,200/66,400 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-12T19:06:10Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-daily-13oct-empty",
+      "source_type": "Official Association daily page",
+      "source_url": "https://classic.goldtraders.or.th/DailyPrices.aspx",
+      "title": "สมาคมค้าทองคำ — หน้ารายวัน 13 ต.ค.",
+      "claim": "ช่องราคาทองแท่งแสดง n/a ณ เวลาตรวจ; ไม่ใช่หลักฐานว่าไม่มีประกาศที่อื่น",
+      "accessed_at": "2026-10-12T19:06:10Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-print-12oct-r3",
       "source_type": "Official Association printable daily-price page",
       "source_url": "https://www.goldtraders.or.th/dailyprices_print",

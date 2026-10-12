@@ -2,6 +2,18 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:delayed-evening-reference-20261012",
+      "changed_at": "2026-10-12T19:06:10Z",
+      "summary": "แสดงรอบ 12 ที่ตรวจล่าช้าหลังรอบกำหนด แยกจากหน้าพิมพ์ที่ยังอยู่รอบ 11 และระบุว่าไม่ใช่ราคาวันที่ 13 ต.ค.",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:delayed-evening-report-20261012",
+      "changed_at": "2026-10-12T19:06:10Z",
+      "summary": "เพิ่มรายงานตรวจล่าช้าพร้อมวัน เวลา รอบ ด้านราคา และข้อจำกัดการอ้างอิง",
+      "path": "/p/thai-gold-price-analysis/reports/20261012-2812c35f.html"
+    },
+    {
       "change_id": "change:morning-round-divergence-20261012",
       "changed_at": "2026-10-12T03:19:57Z",
       "summary": "แสดงประกาศวันที่ 12 ต.ค. แยกหน้าพิมพ์รอบ 3 จากหน้าแรกเดิมรอบ 2 และระบุเวลาแหล่งข้อมูลกับยอดสุทธิที่ยังไม่ทราบ",
