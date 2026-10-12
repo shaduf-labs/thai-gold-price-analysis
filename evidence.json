@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-home-20261012-predawn",
+      "source_type": "Official Association classic home",
+      "source_url": "https://classic.goldtraders.or.th/default.aspx",
+      "title": "สมาคมค้าทองคำ — หน้าแรกที่ตรวจ 12 ต.ค. ก่อนเช้า",
+      "claim": "ตรวจประมาณ 04:47 น. วันที่ 12 ต.ค. ยังแสดงประกาศ 11 ต.ค. 09:15 น. รอบ 1 ทองแท่ง 96.5% รับซื้อ 66,350 บาท ขายออก 66,550 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-11T21:47:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-print-20261011-recheck",
+      "source_type": "Official Association dated print",
+      "source_url": "https://classic.goldtraders.or.th/DailyPrices_Print.aspx?as=11%2F10%2F2569+0%3A00%3A00",
+      "title": "สมาคมค้าทองคำ — หน้าพิมพ์วันที่ 11 ต.ค.",
+      "claim": "หน้าพิมพ์วันที่ 11 ต.ค. แสดงทองแท่ง 96.5% รับซื้อ 66,350 บาท ขายออก 66,550 บาทต่อบาททองคำ ประกาศรอบ 1 เวลา 09:15 น.",
+      "accessed_at": "2026-10-11T21:47:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-home-20261011",
       "source_type": "Official Association gta-home",
       "source_url": "https://classic.goldtraders.or.th/default.aspx",

@@ -2,6 +2,18 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:delayed-check-20261011",
+      "changed_at": "2026-10-11T21:47:05Z",
+      "summary": "ระบุว่าตรวจจริงก่อนเช้า 12 ต.ค. และยังเห็นประกาศ 11 ต.ค.; ไม่สร้างบันทึกเย็นย้อนหลังหรือเรียกราคาสด",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:delayed-report-20261011",
+      "changed_at": "2026-10-11T21:47:05Z",
+      "summary": "เพิ่มรายงานการตรวจล่าช้าที่แยกเวลาแหล่งข้อมูลออกจากเวลาตรวจ",
+      "path": "/p/thai-gold-price-analysis/reports/20261011-28473152.html"
+    },
+    {
       "change_id": "change:morning-report-20261011",
       "changed_at": "2026-10-11T03:05:11.642Z",
       "summary": "เพิ่มรายงานเทียบสองบันทึกต่างวันโดยไม่เรียกว่าเป็นราคาปิดหรือการเปลี่ยนระหว่างวัน",
