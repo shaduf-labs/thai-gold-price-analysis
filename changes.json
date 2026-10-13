@@ -2,6 +2,30 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:evening-round14-20261013",
+      "changed_at": "2026-10-13T11:05:05Z",
+      "summary": "แสดงรอบ 14 พร้อมเวลาอ้างอิงสองเส้นทางที่ต่างกัน 1 นาที ด้านราคา และข้อจำกัด",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:evening-report-20261013",
+      "changed_at": "2026-10-13T11:05:05Z",
+      "summary": "เพิ่มรายงานเทียบรอบเปิด รอบ 8 และรอบ 14 พร้อมตัวอย่าง 1 สลึง",
+      "path": "/p/thai-gold-price-analysis/reports/20261013-4d3fd3db.html"
+    },
+    {
+      "change_id": "change:morning-round2-20261013",
+      "changed_at": "2026-10-13T03:04:00Z",
+      "summary": "แสดงราคาอ้างอิงวันที่ 13 ต.ค. รอบ 2 และความต่างจากหน้าแรกแบบเดิมที่ยังอยู่รอบ 1 พร้อมเวลา ด้านราคา และข้อจำกัด",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:morning-report-20261013",
+      "changed_at": "2026-10-13T03:04:00Z",
+      "summary": "เพิ่มรายงานรอบ 2 เทียบรอบเปิดและรอบที่ตรวจของวันก่อน โดยไม่เรียกเป็นยอดสุทธิร้าน",
+      "path": "/p/thai-gold-price-analysis/reports/20261013-d9cbd9e8.html"
+    },
+    {
       "change_id": "change:delayed-evening-reference-20261012",
       "changed_at": "2026-10-12T19:06:10Z",
       "summary": "แสดงรอบ 12 ที่ตรวจล่าช้าหลังรอบกำหนด แยกจากหน้าพิมพ์ที่ยังอยู่รอบ 11 และระบุว่าไม่ใช่ราคาวันที่ 13 ต.ค.",

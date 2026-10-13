@@ -2,6 +2,66 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-classic-print-13oct-r14",
+      "source_type": "official-association-page",
+      "source_url": "https://classic.goldtraders.or.th/DailyPrices_Print.aspx?as=13%2F10%2F2569+0%3A00%3A00",
+      "title": "ประกาศสมาคมค้าทองคำ 13 ต.ค. 2569 รอบ 14",
+      "claim": "Round 14 bar buyback 66,300 and selling 66,500 baht per baht-weight; classic route marks time 15:07.",
+      "accessed_at": "2026-10-13T11:05:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-home-13oct-r14",
+      "source_type": "official-association-page",
+      "source_url": "https://classic.goldtraders.or.th/",
+      "title": "ประกาศสมาคมค้าทองคำ 13 ต.ค. 2569 รอบ 14",
+      "claim": "Round 14 bar buyback 66,300 and selling 66,500 baht per baht-weight; classic route marks time 15:07.",
+      "accessed_at": "2026-10-13T11:05:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-print-13oct-r14",
+      "source_type": "official-association-page",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "ประกาศสมาคมค้าทองคำ 13 ต.ค. 2569 รอบ 14",
+      "claim": "Round 14 at 15:06, bar buyback 66,300 and selling 66,500 baht per baht-weight; table includes opening and round 8.",
+      "accessed_at": "2026-10-13T11:05:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-print-13oct-r2",
+      "source_type": "official-association-page",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "หน้าพิมพ์สมาคมค้าทองคำ 13 ต.ค. 2569",
+      "claim": "At inspection, 13 October round 2 at 09:28 showed 96.5% bar buyback 66,150 and selling 66,350 baht per baht-weight; table included 09:01 round 1 at 66,100/66,300.",
+      "accessed_at": "2026-10-13T03:04:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-home-13oct-r1",
+      "source_type": "official-association-page",
+      "source_url": "https://classic.goldtraders.or.th/",
+      "title": "หน้าแรกสมาคมค้าทองคำแบบเดิม",
+      "claim": "At the same inspection, the classic home still showed 13 October 09:01 round 1 at 66,100/66,300 baht per baht-weight.",
+      "accessed_at": "2026-10-13T03:04:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-print-13oct-r2",
+      "source_type": "official-association-page",
+      "source_url": "https://classic.goldtraders.or.th/DailyPrices_Print.aspx?as=13%2F10%2F2569+0%3A00%3A00",
+      "title": "หน้าพิมพ์แบบเดิมเลือกวันที่ 13 ต.ค.",
+      "claim": "Dated classic print displayed 13 October round 2 at 09:28, 66,150/66,350 baht per baht-weight.",
+      "accessed_at": "2026-10-13T03:04:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-classic-print-r12-late",
       "source_type": "Official Association dated printable page",
       "source_url": "https://classic.goldtraders.or.th/DailyPrices_Print.aspx?as=12%2F10%2F2569+0%3A00%3A00",

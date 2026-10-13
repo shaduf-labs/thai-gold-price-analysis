@@ -2,6 +2,28 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "run:4d3fd3db-5eee-4afa-9d01-45c822e8f874",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-13T11:00:00Z",
+      "completed_at": "2026-10-13T11:07:37Z",
+      "title": "13 ต.ค. รอบ 14 สูงกว่ารอบเปิด 200 บาท แต่ต่ำกว่ารอบ 8",
+      "summary": "ตรวจประมาณ 18:05 น. ทองแท่ง 96.5% รอบ 14 รับซื้อ 66,300 บาท ขายออก 66,500 บาทต่อบาททองคำ; หน้าพิมพ์ระบุ 15:06 น. หน้าแบบเดิม 15:07 น. ไม่ใช่ยอดสุทธิร้านหรือราคาปิดที่ยืนยัน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261013-4d3fd3db.html",
+      "entrypoint": "reports/20261013-4d3fd3db.html"
+    },
+    {
+      "run_id": "run:d9cbd9e8-0263-47be-960e-d7aeda595a9e",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-13T03:00:00Z",
+      "completed_at": "2026-10-13T03:07:19Z",
+      "title": "13 ต.ค. รอบ 2 สูงกว่ารอบเปิด 50 บาท แต่หน้าแรกสมาคมฯ ยังอยู่รอบ 1",
+      "summary": "ตรวจประมาณ 10:04 น. หน้าพิมพ์แสดงทองแท่ง 96.5% รอบ 09:28 น. รับซื้อ 66,150 บาท ขายออก 66,350 บาทต่อบาททองคำ; หน้าแรกแบบเดิมยังแสดงรอบ 09:01 น.",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261013-d9cbd9e8.html",
+      "entrypoint": "reports/20261013-d9cbd9e8.html"
+    },
+    {
       "run_id": "run:2812c35f-1770-4092-b47c-b4682f6dbe28",
       "status": "completed",
       "answer_change": "meaningful_change",
