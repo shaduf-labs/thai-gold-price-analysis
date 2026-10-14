@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-dbca4ea6ba4dd3d4e8b0922d",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-14T03:00:00Z",
+      "completed_at": "2026-10-14T03:09:23Z",
+      "title": "14 ต.ค. รอบ 3 ต่ำกว่ารอบที่ตรวจเมื่อวาน 350 บาทต่อบาททองคำ",
+      "summary": "ตรวจประมาณ 10:07 น. ทองแท่ง 96.5% รอบ 09:33 น. รับซื้อ 65,950 บาท ขายออก 66,150 บาทต่อบาททองคำ; อีกเส้นทางยังแสดงคู่ราคาเปิด ไม่ใช่ยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261014-ffed4ee0.html",
+      "entrypoint": "reports/20261014-ffed4ee0.html"
+    },
+    {
       "run_id": "report-ec0bd0afeabc98be5444f8c1",
       "status": "completed",
       "answer_change": "meaningful_change",

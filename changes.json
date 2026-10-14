@@ -2,6 +2,18 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:morning-round3-20261014",
+      "changed_at": "2026-10-14T03:07:11Z",
+      "summary": "แสดงทองแท่งรอบ 3 เวลา 09:33 น. แยกจากหน้ารายวันที่ยังแสดงคู่ราคาเปิด พร้อมสูตร 1 สลึงและข้อจำกัด",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:morning-report-20261014",
+      "changed_at": "2026-10-14T03:07:11Z",
+      "summary": "เพิ่มรายงานเทียบรอบเปิดกับรอบ 3 และรอบที่ตรวจเมื่อวาน โดยไม่เรียกเป็นยอดสุทธิร้าน",
+      "path": "/p/thai-gold-price-analysis/reports/20261014-ffed4ee0.html"
+    },
+    {
       "change_id": "change:evening-round14-20261013",
       "changed_at": "2026-10-13T11:05:05Z",
       "summary": "แสดงรอบ 14 พร้อมเวลาอ้างอิงสองเส้นทางที่ต่างกัน 1 นาที ด้านราคา และข้อจำกัด",

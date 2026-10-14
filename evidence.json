@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-classic-home-14oct-r3",
+      "source_type": "official-association-page",
+      "source_url": "https://classic.goldtraders.or.th/default.aspx",
+      "title": "ประกาศสมาคมค้าทองคำ 14 ต.ค. 2569 รอบ 3",
+      "claim": "At inspection, classic home displayed round 3 at 09:33, bar buyback 65,950 and selling 66,150 baht per baht-weight.",
+      "accessed_at": "2026-10-14T03:07:11Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-print-14oct-r3",
+      "source_type": "official-association-page",
+      "source_url": "https://classic.goldtraders.or.th/DailyPrices_Print.aspx?as=14%2F10%2F2569+0%3A00%3A00",
+      "title": "หน้าพิมพ์สมาคมค้าทองคำ 14 ต.ค. 2569",
+      "claim": "Dated print displayed round 3 at 09:33 and 65,950/66,150 baht per baht-weight.",
+      "accessed_at": "2026-10-14T03:07:11Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-intraday-14oct-r3",
+      "source_type": "official-association-page",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "รอบระหว่างวันสมาคมค้าทองคำ 14 ต.ค. 2569",
+      "claim": "Intraday rows showed rounds 1-3 at 09:00, 09:09 and 09:33 with bar prices 65,850/66,050, 65,900/66,100 and 65,950/66,150.",
+      "accessed_at": "2026-10-14T03:07:11Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-daily-14oct-r1",
+      "source_type": "official-association-page",
+      "source_url": "https://sideb.goldtraders.or.th/DailyPrices.aspx",
+      "title": "หน้ารายวันอีกเส้นทางของสมาคมค้าทองคำ 14 ต.ค. 2569",
+      "claim": "The page displayed 65,850/66,050, matching the opening row but without a rendered round or source time.",
+      "accessed_at": "2026-10-14T03:07:11Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-classic-print-13oct-r14",
       "source_type": "official-association-page",
       "source_url": "https://classic.goldtraders.or.th/DailyPrices_Print.aspx?as=13%2F10%2F2569+0%3A00%3A00",
