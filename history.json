@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-fe5462d4b93b3a4262b9e172",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-18T03:03:00Z",
+      "completed_at": "2026-10-18T03:06:06Z",
+      "title": "18 ต.ค. รอบ 1: ราคาเท่าเมื่อวาน แต่วันประกาศใหม่",
+      "summary": "ตรวจ 10:04 น. สามหน้าสมาคมฯ แสดงรอบ 09:09 น. ทองแท่งรับซื้อ 65,900 บาท ขายออก 66,100 บาทต่อบาททองคำ หน้าพิมพ์แบบใหม่เปิดไม่สำเร็จ",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261018-1004-r1.html",
+      "entrypoint": "reports/20261018-1004-r1.html"
+    },
+    {
       "run_id": "report-ce650ceb76a9c02c608db027",
       "status": "completed",
       "answer_change": "no_meaningful_change",

@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-modern-print-timeout-18oct",
+      "source_type": "official-association-page",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "หน้าพิมพ์สมาคมค้าทองคำ",
+      "claim": "หน้าพิมพ์แบบใหม่เปิดไม่สำเร็จขณะตรวจ จึงไม่ยืนยันว่าหน้านั้นแสดงรอบใด",
+      "accessed_at": "2026-10-18T03:04:46Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-home-18oct-r1",
+      "source_type": "official-association-page",
+      "source_url": "https://classic.goldtraders.or.th/default.aspx",
+      "title": "สมาคมค้าทองคำ 18 ต.ค. 2569",
+      "claim": "หน้าสมาคมฯ แสดงประกาศ 18 ต.ค. รอบ 1 เวลา 09:09 น. ทองแท่ง 96.5% รับซื้อ 65,900 บาท ขายออก 66,100 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-18T03:04:46Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-rounds-18oct-r1",
+      "source_type": "official-association-page",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "สมาคมค้าทองคำ 18 ต.ค. 2569",
+      "claim": "หน้าสมาคมฯ แสดงประกาศ 18 ต.ค. รอบ 1 เวลา 09:09 น. ทองแท่ง 96.5% รับซื้อ 65,900 บาท ขายออก 66,100 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-18T03:04:46Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-daily-18oct-r1",
+      "source_type": "official-association-page",
+      "source_url": "https://sideb.goldtraders.or.th/DailyPrices.aspx",
+      "title": "สมาคมค้าทองคำ 18 ต.ค. 2569",
+      "claim": "หน้าสมาคมฯ แสดงประกาศ 18 ต.ค. รอบ 1 เวลา 09:09 น. ทองแท่ง 96.5% รับซื้อ 65,900 บาท ขายออก 66,100 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-18T03:04:46Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-print-18oct-0832-recheck",
       "source_type": "official-association-page",
       "source_url": "https://www.goldtraders.or.th/dailyprices_print",
