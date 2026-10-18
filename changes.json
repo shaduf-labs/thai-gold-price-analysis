@@ -2,6 +2,84 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:18oct-0832-recheck",
+      "changed_at": "2026-10-18T01:32:54Z",
+      "summary": "ตรวจซ้ำเวลา 08:32 น. หน้าสมาคมฯ ยังแสดงประกาศ 17 ต.ค. รอบ 1 จึงคงป้ายข้อมูลวันก่อนและเพิ่มบันทึกที่มีเวลาตรวจ",
+      "path": "/p/thai-gold-price-analysis/pages/today/"
+    },
+    {
+      "change_id": "change:18oct-0832-report",
+      "changed_at": "2026-10-18T01:32:54Z",
+      "summary": "เพิ่มรายงานตรวจซ้ำก่อน 09:00 น. พร้อมราคาอ้างอิง วันที่แหล่งข้อมูล และข้อจำกัดของการตรวจหน้าเดียว",
+      "path": "/p/thai-gold-price-analysis/reports/20261018-0832-recheck.html"
+    },
+    {
+      "change_id": "change:18oct-preopen-price",
+      "changed_at": "2026-10-17T22:26:23Z",
+      "summary": "ระบุว่าแหล่งต้นทางยังแสดงประกาศ 17 ต.ค. ไม่ใช่ราคาเปิด 18 ต.ค. พร้อมแยกฝั่งราคาและตัวอย่าง 1 สลึง",
+      "path": "/p/thai-gold-price-analysis/pages/today/"
+    },
+    {
+      "change_id": "change:18oct-preopen-report",
+      "changed_at": "2026-10-17T22:26:23Z",
+      "summary": "เพิ่มรายงานพร้อมวันเวลาแหล่งข้อมูลและข้อจำกัดของประกาศก่อนเช้า 18 ต.ค.",
+      "path": "/p/thai-gold-price-analysis/reports/20261018-preopen-r1.html"
+    },
+    {
+      "change_id": "change:16oct-evening-report",
+      "changed_at": "2026-10-16T11:30:14Z",
+      "summary": "เพิ่มรายงาน 16 ต.ค. รอบเย็น พร้อมราคา 1 สลึงและข้อจำกัดของข้อมูล",
+      "path": "/p/thai-gold-price-analysis/reports/20261016-evening-round23.html"
+    },
+    {
+      "change_id": "change:16oct-evening-history",
+      "changed_at": "2026-10-16T11:30:14Z",
+      "summary": "เพิ่มจุดเทียบรอบเปิด รอบสูงสุดที่เห็น และรอบ 23 ในตาราง 23 แถว โดยไม่เรียกว่าราคาปิด",
+      "path": "/p/thai-gold-price-analysis/pages/history/"
+    },
+    {
+      "change_id": "change:16oct-evening-round23",
+      "changed_at": "2026-10-16T11:30:14Z",
+      "summary": "อัปเดตราคาอ้างอิงทองแท่ง 16 ต.ค. รอบ 23 เวลา 17:14 น. พร้อมอายุข้อมูลและขอบเขตยอดร้าน",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:16oct-route-rounds",
+      "changed_at": "2026-10-16T03:05:49Z",
+      "summary": "แสดงประกาศ 16 ต.ค. สามรอบจากสี่หน้าสมาคมฯ พร้อมเวลาและด้านราคา โดยไม่เรียกเส้นทางใดว่าราคาสด",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:16oct-morning-report",
+      "changed_at": "2026-10-16T03:05:49Z",
+      "summary": "เพิ่มรายงานเทียบรอบ 1 ถึง 3 สูตรทองแท่ง 1 สลึง และข้อจำกัดของเส้นทางข้อมูล",
+      "path": "/p/thai-gold-price-analysis/reports/20261016-route-rounds.html"
+    },
+    {
+      "change_id": "change:15oct-round18-quote",
+      "changed_at": "2026-10-15T11:16:05.705Z",
+      "summary": "ปรับราคาอ้างอิง 15 ต.ค. รอบ 18 แยกเวลาประกาศกับเวลาตรวจ และแสดงทั้งราคารับซื้อกับขายออก",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:15oct-round18-report",
+      "changed_at": "2026-10-15T11:16:05.705Z",
+      "summary": "เพิ่มรายงานรอบ 18 พร้อมเวลา ตารางรอบที่เลือก สูตรทองแท่ง 1 สลึง และข้อจำกัดเรื่องราคาปิดกับยอดร้าน",
+      "path": "/p/thai-gold-price-analysis/reports/20261015-e6a0b10a.html"
+    },
+    {
+      "change_id": "change:late-evening-round19-20261014",
+      "changed_at": "2026-10-14T18:14:47Z",
+      "summary": "แสดงประกาศ 14 ต.ค. รอบ 19 พร้อมเวลา ด้านราคา สูตรทองแท่ง 1 สลึง และระบุเวลาแหล่งข้อมูลกับเวลาตรวจ ไม่ใช่ราคาวันที่ 15 ต.ค.",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:late-evening-report-20261014",
+      "changed_at": "2026-10-14T18:14:47Z",
+      "summary": "เพิ่มรายงานเทียบรอบเปิด รอบเช้า และรอบ 19 โดยไม่อ้างว่าเป็นราคาปิดหรือยอดสุทธิร้าน",
+      "path": "/p/thai-gold-price-analysis/reports/20261014-c33c43ec.html"
+    },
+    {
       "change_id": "change:morning-round3-20261014",
       "changed_at": "2026-10-14T03:07:11Z",
       "summary": "แสดงทองแท่งรอบ 3 เวลา 09:33 น. แยกจากหน้ารายวันที่ยังแสดงคู่ราคาเปิด พร้อมสูตร 1 สลึงและข้อจำกัด",

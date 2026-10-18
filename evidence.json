@@ -2,6 +2,136 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-print-18oct-0832-recheck",
+      "source_type": "official-association-page",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "หน้าพิมพ์สมาคมค้าทองคำ 17 ต.ค. 2569",
+      "claim": "ตรวจ 18 ต.ค. เวลา 08:32 น. (เวลาไทย) ยังแสดง 17 ต.ค. รอบ 1 เวลา 09:02 น. ทองแท่ง 96.5% รับซื้อ 65,900 บาท ขายออก 66,100 บาทต่อบาททองคำ; เห็นแถววันที่ 17 ต.ค. 1 แถว",
+      "accessed_at": "2026-10-18T01:32:54Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-print-17oct-r1-18oct",
+      "source_type": "official-association-page",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "หน้าพิมพ์สมาคมค้าทองคำ 17 ต.ค. 2569",
+      "claim": "หน้าที่ตรวจ 18 ต.ค. เวลา 05:26 น. แสดง 17 ต.ค. รอบ 1 เวลา 09:02 น. ทองแท่ง 96.5% รับซื้อ 65,900 บาท ขายออก 66,100 บาทต่อบาททองคำ; มีแถววันที่ 17 ต.ค. 1 แถว",
+      "accessed_at": "2026-10-17T22:26:23Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-modern-print-16oct-r23-evening",
+      "source_type": "official-association-page",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "หน้าพิมพ์รายวันสมาคมค้าทองคำ 16 ต.ค. 2569",
+      "claim": "แสดงทองแท่ง 96.5% รอบ 23 เวลา 17:14 น. รับซื้อ 65,900 บาท ขายออก 66,100 บาทต่อบาททองคำ พร้อม 23 แถวระหว่างวัน",
+      "accessed_at": "2026-10-16T11:30:14Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-modern-daily-loading-16oct",
+      "source_type": "official-association-page",
+      "source_url": "https://www.goldtraders.or.th/dailyprices",
+      "title": "สมาคมค้าทองคำ 16 ต.ค. 2569",
+      "claim": "หน้ารายวันแบบโหลดข้อมูลไม่แสดงตัวเลขในข้อความที่เปิด",
+      "accessed_at": "2026-10-16T03:05:49Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-default2-16oct-r1",
+      "source_type": "official-association-page",
+      "source_url": "https://classic.goldtraders.or.th/default2.aspx",
+      "title": "สมาคมค้าทองคำ 16 ต.ค. 2569",
+      "claim": "แสดง 16 ต.ค. รอบ 1 เวลา 09:03 น. ทองแท่ง 96.5% รับซื้อ 65,800 บาท ขายออก 66,000 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-16T03:05:49Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-modern-print-16oct-r1",
+      "source_type": "official-association-page",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "สมาคมค้าทองคำ 16 ต.ค. 2569",
+      "claim": "แสดง 16 ต.ค. รอบ 1 เวลา 09:03 น. ทองแท่ง 96.5% รับซื้อ 65,800 บาท ขายออก 66,000 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-16T03:05:49Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-home-16oct-r2",
+      "source_type": "official-association-page",
+      "source_url": "https://classic.goldtraders.or.th/",
+      "title": "สมาคมค้าทองคำ 16 ต.ค. 2569",
+      "claim": "แสดง 16 ต.ค. รอบ 2 เวลา 09:35 น. ทองแท่ง 96.5% รับซื้อ 65,850 บาท ขายออก 66,050 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-16T03:05:49Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-home-16oct-r3",
+      "source_type": "official-association-page",
+      "source_url": "https://sideb.goldtraders.or.th/",
+      "title": "สมาคมค้าทองคำ 16 ต.ค. 2569",
+      "claim": "แสดง 16 ต.ค. รอบ 3 เวลา 09:51 น. ทองแท่ง 96.5% รับซื้อ 65,900 บาท ขายออก 66,100 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-16T03:05:49Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-print-15oct-r18",
+      "source_type": "official-association-page",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "หน้าพิมพ์รายวัน สมาคมค้าทองคำ 15 ต.ค. 2569",
+      "claim": "แสดงรอบ 18 เวลา 16:22 น. และแถวระหว่างวัน รวมรอบเปิด 09:01 น. ที่ 65,550/65,750 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-15T11:16:05.705Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-15oct-r18",
+      "source_type": "official-association-page",
+      "source_url": "https://classic.goldtraders.or.th/default2.aspx",
+      "title": "หน้าแบบเดิม สมาคมค้าทองคำ 15 ต.ค. 2569",
+      "claim": "แสดงรอบ 18 เวลา 16:22 น. ทองแท่ง 96.5% รับซื้อ 65,750 บาท ขายออก 65,950 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-15T11:16:05.705Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-home-14oct-r19",
+      "source_type": "official-association-page",
+      "source_url": "https://sideb.goldtraders.or.th/",
+      "title": "สมาคมค้าทองคำ 14 ต.ค. 2569 รอบ 19",
+      "claim": "หน้าแรกสมาคมฯ แสดงวันที่ 14 ต.ค. เวลา 15:46 น. รอบ 19 ทองแท่ง 96.5% รับซื้อ 65,750 บาท ขายออก 65,950 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-14T18:14:47Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-print-14oct-r19",
+      "source_type": "official-association-page",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "หน้าพิมพ์รายวัน 14 ต.ค. 2569",
+      "claim": "หน้าพิมพ์แสดงรอบ 19 เวลา 15:46 น. และตารางระหว่างวัน พร้อมราคาทองแท่งรับซื้อ 65,750 บาท ขายออก 65,950 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-14T18:14:47Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-daily-15oct-empty",
+      "source_type": "official-association-page",
+      "source_url": "https://sideb.goldtraders.or.th/DailyPrices.aspx",
+      "title": "หน้ารายวัน 15 ต.ค. 2569",
+      "claim": "หน้ารายวันยังไม่แสดงราคาของวันที่ 15 ต.ค. ในข้อความที่ตรวจหลังเที่ยงคืน",
+      "accessed_at": "2026-10-14T18:14:47Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-classic-home-14oct-r3",
       "source_type": "official-association-page",
       "source_url": "https://classic.goldtraders.or.th/default.aspx",
