@@ -2,6 +2,24 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:19oct-evening-r23-reference",
+      "changed_at": "2026-10-19T11:03:00Z",
+      "summary": "อัปเดตราคาอ้างอิงรอบ 23 เวลา 17:25 น. แยกด้านรับซื้อและขายออก พร้อมเวลาและข้อจำกัดยอดร้าน",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:19oct-evening-endpoint-lag",
+      "changed_at": "2026-10-19T11:03:00Z",
+      "summary": "แสดงความต่างระหว่างตารางรอบ 23 กับหน้าแรกรอบ 22 โดยระบุ URL เวลา และส่วนต่าง 50 บาทต่อบาททองคำ",
+      "path": "/p/thai-gold-price-analysis/today/"
+    },
+    {
+      "change_id": "change:19oct-evening-form-comparison",
+      "changed_at": "2026-10-19T11:05:40Z",
+      "summary": "ปรับตัวเลขเทียบทองแท่งกับทองรูปพรรณเป็นรอบ 23 และแยกค่ากำเหน็จร้านออกจากส่วนต่างราคาอ้างอิง",
+      "path": "/p/thai-gold-price-analysis/compare/"
+    },
+    {
       "change_id": "change:19oct-morning-r3",
       "changed_at": "2026-10-19T03:05:25Z",
       "summary": "แสดงประกาศ 19 ต.ค. รอบ 3 เวลา 09:25 น. พร้อมลำดับสามรอบและตัวอย่างทองแท่ง 1 สลึง โดยแยกราคาอ้างอิงจากยอดสุทธิร้าน",

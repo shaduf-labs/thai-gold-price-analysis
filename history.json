@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-a551d67bccb6cb5facbf8667",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-19T11:00:00Z",
+      "completed_at": "2026-10-19T11:06:07Z",
+      "title": "19 ต.ค. 18:03 น.: ตารางถึงรอบ 23 แต่หน้าแรกยังอยู่รอบ 22",
+      "summary": "ตารางสมาคมฯ สองเส้นทางแสดงรอบ 23 เวลา 17:25 น. ที่ 66,050/66,250 บาทต่อบาททองคำ; หน้าแรกแบบ classic ยังแสดงรอบ 22 ที่สูงกว่าฝั่งละ 50 บาท ไม่ยืนยันราคาปิดหรือยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261019-1803-r23.html",
+      "entrypoint": "reports/20261019-1803-r23.html"
+    },
+    {
       "run_id": "report-501b6cddbe4a13f63bf315d2",
       "status": "completed",
       "answer_change": "meaningful_change",
