@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-classic-home-19oct-r3",
+      "source_type": "official-association-page",
+      "source_url": "https://classic.goldtraders.or.th/default.aspx",
+      "title": "สมาคมค้าทองคำ 19 ต.ค. 2569",
+      "claim": "หน้าแรกแสดงรอบ 3 เวลา 09:25 น. ทองแท่งรับซื้อ 65,950 บาท ขายออก 66,150 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-19T03:05:25Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-rounds-19oct-r3",
+      "source_type": "official-association-page",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "สมาคมค้าทองคำ 19 ต.ค. 2569",
+      "claim": "ตารางแสดงรอบ 1, 2, 3 และคู่ราคารับซื้อ/ขายออกของทองแท่ง 96.5%",
+      "accessed_at": "2026-10-19T03:05:25Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-rounds-19oct-r3",
+      "source_type": "official-association-page",
+      "source_url": "https://sideb.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "สมาคมค้าทองคำ 19 ต.ค. 2569",
+      "claim": "ตารางอีกเส้นทางแสดงรอบ 1, 2, 3 เหมือนกัน",
+      "accessed_at": "2026-10-19T03:05:25Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-modern-print-timeout-19oct",
+      "source_type": "official-association-page",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "สมาคมค้าทองคำ 19 ต.ค. 2569",
+      "claim": "หน้าพิมพ์แบบใหม่เปิดไม่สำเร็จ จึงไม่ยืนยันรอบที่แสดง",
+      "accessed_at": "2026-10-19T03:05:25Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-sideb-rounds-18oct-evening",
       "source_type": "official-association-page",
       "source_url": "https://sideb.goldtraders.or.th/UpdatePriceList.aspx",
