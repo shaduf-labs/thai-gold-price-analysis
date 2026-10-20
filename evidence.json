@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-classic-home-20oct-evening",
+      "source_type": "official-association-page",
+      "source_url": "https://classic.goldtraders.or.th/default.aspx",
+      "title": "สมาคมค้าทองคำ 20 ต.ค. 2569",
+      "claim": "หน้าแรกแสดง 20 ต.ค. รอบ 21 เวลา 16:52 น. ทองแท่งรับซื้อ 65,400 บาท ขายออก 65,600 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-20T11:02:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-rounds-20oct-evening",
+      "source_type": "official-association-page",
+      "source_url": "https://sideb.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "สมาคมค้าทองคำ 20 ต.ค. 2569",
+      "claim": "ตารางแสดง 21 รอบ ตั้งแต่ 09:05 น. ถึงรอบ 21 เวลา 16:52 น. ทองแท่ง 65,400/65,600 บาท",
+      "accessed_at": "2026-10-20T11:02:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-rounds-20oct-evening",
+      "source_type": "official-association-page",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "สมาคมค้าทองคำ 20 ต.ค. 2569",
+      "claim": "ตารางแบบ classic แสดงรอบ 21 เวลา 16:52 น. ตรงกับอีกตาราง",
+      "accessed_at": "2026-10-20T11:02:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-modern-print-20oct-evening",
+      "source_type": "official-association-page",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "สมาคมค้าทองคำ 20 ต.ค. 2569",
+      "claim": "หน้าพิมพ์แบบใหม่เปิดไม่สำเร็จขณะตรวจ จึงไม่ยืนยันรอบจากเส้นทางนี้",
+      "accessed_at": "2026-10-20T11:02:30Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-classic-home-20oct-r5",
       "source_type": "official-association-page",
       "source_url": "https://classic.goldtraders.or.th/default.aspx",

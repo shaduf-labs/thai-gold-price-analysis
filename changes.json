@@ -2,6 +2,18 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:20oct-evening-r21",
+      "changed_at": "2026-10-20T11:02:30Z",
+      "summary": "แสดงประกาศ 20 ต.ค. รอบ 21 เวลา 16:52 น. พร้อมฝั่งราคา อายุข้อมูล และตัวอย่างทองแท่ง 1 สลึง",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:20oct-evening-history",
+      "changed_at": "2026-10-20T11:02:30Z",
+      "summary": "เพิ่มบันทึก 21 รอบที่เห็นและเทียบรอบเปิด รอบ 5 รอบ 7 กับรอบ 21 โดยไม่เรียกราคาปิด",
+      "path": "/p/thai-gold-price-analysis/pages/history/"
+    },
+    {
       "change_id": "change:20oct-morning-r5",
       "changed_at": "2026-10-20T03:06:00Z",
       "summary": "อัปเดตประกาศ 20 ต.ค. รอบ 5 เวลา 09:49 น. พร้อมฝั่งราคาและอายุข้อมูล",

@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-f5884a88c92b339a60d11e2b",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-20T11:00:00Z",
+      "completed_at": "2026-10-20T11:04:48Z",
+      "title": "20 ต.ค. 18:02 น.: รอบ 21 ขายออก 65,600 บาท ต่ำกว่าที่ตรวจเช้า 200 บาท",
+      "summary": "สามหน้าสมาคมฯ แสดงรอบ 21 เวลา 16:52 น. ทองแท่ง 96.5% รับซื้อ 65,400 บาท ขายออก 65,600 บาทต่อบาททองคำ อายุประมาณ 70 นาทีขณะตรวจ ไม่ยืนยันราคาปิดหรือยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261020-1802-r21.html",
+      "entrypoint": "reports/20261020-1802-r21.html"
+    },
+    {
       "run_id": "report-fc738b2f205af68ae0856a76",
       "status": "completed",
       "answer_change": "meaningful_change",
