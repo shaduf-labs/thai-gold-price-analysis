@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-classic-home-20oct-r5",
+      "source_type": "official-association-page",
+      "source_url": "https://classic.goldtraders.or.th/default.aspx",
+      "title": "สมาคมค้าทองคำ 20 ต.ค. 2569",
+      "claim": "หน้าแรกแสดงรอบ 5 เวลา 09:49 น. ทองแท่ง 96.5% รับซื้อ 65,600 บาท ขายออก 65,800 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-20T03:06:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-rounds-20oct-r5",
+      "source_type": "official-association-page",
+      "source_url": "https://sideb.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "สมาคมค้าทองคำ 20 ต.ค. 2569",
+      "claim": "ตารางแสดงรอบ 1–5; รอบ 1 เวลา 09:05 น. 65,500/65,700 บาท และรอบ 5 เวลา 09:49 น. 65,600/65,800 บาท",
+      "accessed_at": "2026-10-20T03:06:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-rounds-20oct-r4",
+      "source_type": "official-association-page",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "สมาคมค้าทองคำ 20 ต.ค. 2569",
+      "claim": "ตารางแบบ classic แสดงถึงรอบ 4 เวลา 09:47 น. 65,550/65,750 บาทขณะตรวจ",
+      "accessed_at": "2026-10-20T03:06:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-classic-home-19oct-r3",
       "source_type": "official-association-page",
       "source_url": "https://classic.goldtraders.or.th/default.aspx",

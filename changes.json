@@ -2,6 +2,18 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:20oct-morning-r5",
+      "changed_at": "2026-10-20T03:06:00Z",
+      "summary": "อัปเดตประกาศ 20 ต.ค. รอบ 5 เวลา 09:49 น. พร้อมฝั่งราคาและอายุข้อมูล",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
+      "change_id": "change:20oct-opening-and-routes",
+      "changed_at": "2026-10-20T03:06:00Z",
+      "summary": "เทียบรอบเปิดกับรอบที่ตรวจเมื่อวาน และแสดงว่าตารางอีกหน้าอยู่รอบก่อน",
+      "path": "/p/thai-gold-price-analysis/today/"
+    },
+    {
       "change_id": "change:19oct-evening-r23-reference",
       "changed_at": "2026-10-19T11:03:00Z",
       "summary": "อัปเดตราคาอ้างอิงรอบ 23 เวลา 17:25 น. แยกด้านรับซื้อและขายออก พร้อมเวลาและข้อจำกัดยอดร้าน",
