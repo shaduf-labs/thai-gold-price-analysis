@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-classic-rounds-21oct-r20",
+      "source_type": "official-association-page",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "สมาคมค้าทองคำ 21 ต.ค. 2569",
+      "claim": "ตารางและหน้าแรกแสดงรอบ 20 เวลา 17:12 น. ทองแท่งรับซื้อ 65,400 บาท ขายออก 65,600 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-21T11:05:45Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-home-21oct-r20",
+      "source_type": "official-association-page",
+      "source_url": "https://sideb.goldtraders.or.th/",
+      "title": "สมาคมค้าทองคำ 21 ต.ค. 2569",
+      "claim": "ตารางและหน้าแรกแสดงรอบ 20 เวลา 17:12 น. ทองแท่งรับซื้อ 65,400 บาท ขายออก 65,600 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-21T11:05:45Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-archive-21oct-r19",
+      "source_type": "official-association-page",
+      "source_url": "https://classic.goldtraders.or.th/TaxArchiveList_Print.aspx?smonth=10&syear=2569",
+      "title": "สมาคมค้าทองคำ 21 ต.ค. 2569",
+      "claim": "คลังข้อมูลภาษีแสดงถึงรอบ 19 ที่ 65,450/65,650 บาทต่อบาททองคำขณะตรวจ",
+      "accessed_at": "2026-10-21T11:05:45Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-print-21oct-r3",
       "source_type": "official-association-page",
       "source_url": "https://www.goldtraders.or.th/dailyprices_print",
