@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "change:21oct-morning-r3",
+      "changed_at": "2026-10-21T03:02:58Z",
+      "summary": "แสดงประกาศ 21 ต.ค. รอบ 3 เวลา 09:47 น. แยกฝั่งราคา อายุข้อมูล และความต่างระหว่างหน้าสมาคมฯ",
+      "path": "/p/thai-gold-price-analysis/"
+    },
+    {
       "change_id": "change:20oct-evening-r21",
       "changed_at": "2026-10-20T11:02:30Z",
       "summary": "แสดงประกาศ 20 ต.ค. รอบ 21 เวลา 16:52 น. พร้อมฝั่งราคา อายุข้อมูล และตัวอย่างทองแท่ง 1 สลึง",

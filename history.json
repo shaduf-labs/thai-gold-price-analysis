@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-0b1e2fd5a32a641169bbe900",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-21T03:00:00Z",
+      "completed_at": "2026-10-21T03:06:47Z",
+      "title": "21 ต.ค. รอบ 3 กลับมาที่ราคาเปิด: ทองแท่งรับซื้อ 65,450 บาท ขายออก 65,650 บาท",
+      "summary": "ตรวจ 10:03 น. สามหน้าสมาคมฯ แสดงรอบ 3 เวลา 09:47 น. ทองแท่ง 96.5% รับซื้อ 65,450 บาท ขายออก 65,650 บาทต่อบาททองคำ; อีกหน้าค้างที่คู่ราคา 65,400/65,600 บาท ไม่ใช่ยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261021-1003-r3.html",
+      "entrypoint": "reports/20261021-1003-r3.html"
+    },
+    {
       "run_id": "report-f5884a88c92b339a60d11e2b",
       "status": "completed",
       "answer_change": "meaningful_change",

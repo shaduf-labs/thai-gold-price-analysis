@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-print-21oct-r3",
+      "source_type": "official-association-page",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "หน้าพิมพ์สมาคมค้าทองคำ",
+      "claim": "ตรวจ 21 ต.ค. 2569 เวลา 10:03 น. แสดงรอบ 3 เวลา 09:47 น. ทองแท่ง 96.5% รับซื้อ 65,450 บาท ขายออก 65,650 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-21T03:02:58Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-noclassic-21oct-r3",
+      "source_type": "official-association-page",
+      "source_url": "https://noclassic.goldtraders.or.th/",
+      "title": "หน้าสมาคมค้าทองคำ",
+      "claim": "ตรวจ 21 ต.ค. 2569 เวลา 10:03 น. แสดงรอบ 3 เวลา 09:47 น. ทองแท่ง 96.5% รับซื้อ 65,450 บาท ขายออก 65,650 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-21T03:02:58Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-rounds-21oct-r3",
+      "source_type": "official-association-page",
+      "source_url": "https://sideb.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "หน้าสมาคมค้าทองคำ",
+      "claim": "ตรวจ 21 ต.ค. 2569 เวลา 10:03 น. แสดงรอบ 3 เวลา 09:47 น. ทองแท่ง 96.5% รับซื้อ 65,450 บาท ขายออก 65,650 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-21T03:02:58Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-daily-21oct-r2",
+      "source_type": "official-association-page",
+      "source_url": "https://sideb.goldtraders.or.th/DailyPrices.aspx",
+      "title": "หน้าสมาคมค้าทองคำ",
+      "claim": "ตรวจพร้อมกัน แสดงทองแท่ง 65,400/65,600 บาทต่อบาททองคำโดยไม่บอกรอบ; ต่างจากสามหน้าที่แสดงรอบ 3",
+      "accessed_at": "2026-10-21T03:02:58Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-classic-home-20oct-evening",
       "source_type": "official-association-page",
       "source_url": "https://classic.goldtraders.or.th/default.aspx",
