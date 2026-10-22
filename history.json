@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-5fdf8ae07a120c696ad56743",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-22T11:00:00Z",
+      "completed_at": "2026-10-22T11:04:27Z",
+      "title": "22 ต.ค. รอบ 25: ทองแท่งขายออก 65,350 บาท ต่ำกว่ารอบเปิด 150 บาท",
+      "summary": "ตรวจ 18:02 น. รอบ 25 เวลา 17:06 น. ทองแท่ง 96.5% รับซื้อ 65,150 บาท ขายออก 65,350 บาทต่อบาททองคำ; คลังภาษีแสดงเพียงถึงรอบ 5 ไม่ยืนยันราคาปิดหรือยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261022-1802-r25.html",
+      "entrypoint": "reports/20261022-1802-r25.html"
+    },
+    {
       "run_id": "report-f2c4eb2e91f7b40ee2a57f6f",
       "status": "completed",
       "answer_change": "meaningful_change",
