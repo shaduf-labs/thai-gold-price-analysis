@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-modern-print-22oct-r1",
+      "source_type": "official-association-page",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "สมาคมค้าทองคำ 22 ต.ค. 2569",
+      "claim": "รอบ 1 เวลา 09:00 น. ทองแท่ง 96.5% รับซื้อ 65,300 บาท ขายออก 65,500 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-22T03:06:07Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-rounds-22oct-r1",
+      "source_type": "official-association-page",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "สมาคมค้าทองคำ 22 ต.ค. 2569",
+      "claim": "รอบ 1 เวลา 09:00 น. ทองแท่ง 96.5% รับซื้อ 65,300 บาท ขายออก 65,500 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-22T03:06:07Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-home-22oct-r1",
+      "source_type": "official-association-page",
+      "source_url": "https://sideb.goldtraders.or.th/",
+      "title": "สมาคมค้าทองคำ 22 ต.ค. 2569",
+      "claim": "รอบ 1 เวลา 09:00 น. ทองแท่ง 96.5% รับซื้อ 65,300 บาท ขายออก 65,500 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-22T03:06:07Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-archive-22oct-yesterday",
+      "source_type": "official-association-page",
+      "source_url": "https://sideb.goldtraders.or.th/TaxArchiveList_Print.aspx?smonth=10&syear=2569",
+      "title": "สมาคมค้าทองคำ 22 ต.ค. 2569",
+      "claim": "คลังข้อมูลภาษีแสดงถึงรอบ 20 ของ 21 ต.ค. ขณะตรวจ",
+      "accessed_at": "2026-10-22T03:06:07Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-classic-rounds-21oct-r20",
       "source_type": "official-association-page",
       "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
