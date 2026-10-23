@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-classic-23oct-r4",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "ตารางปรับเปลี่ยนระหว่างวัน",
+      "claim": "23 ต.ค. 2569 รอบ 4 เวลา 09:34 น. ทองแท่ง 96.5% รับซื้อ 64,050 บาท ขายออก 64,250 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-23T03:06:40Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-print-23oct-r4",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "หน้าพิมพ์ประกาศ",
+      "claim": "23 ต.ค. รอบ 4 เวลา 09:34 น. แสดงคู่ราคาทองแท่งเดียวกัน",
+      "accessed_at": "2026-10-23T03:06:40Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-23oct-r4",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://sideb.goldtraders.or.th/",
+      "title": "หน้าแสดงราคาอ้างอิง",
+      "claim": "23 ต.ค. รอบ 4 เวลา 09:34 น. แสดงคู่ราคาทองแท่งเดียวกัน",
+      "accessed_at": "2026-10-23T03:06:40Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-archive-23oct-lag",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://sideb.goldtraders.or.th/TaxArchiveList_Print.aspx?smonth=10&syear=2569",
+      "title": "คลังข้อมูลภาษี",
+      "claim": "ขณะตรวจยังแสดงถึง 22 ต.ค. รอบ 25 ไม่ใช่ 23 ต.ค. รอบ 4",
+      "accessed_at": "2026-10-23T03:06:40Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-classic-22oct-r25",
       "source_type": "สมาคมค้าทองคำ",
       "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
