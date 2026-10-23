@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-newgta-print-23oct-r24",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
+      "title": "หน้าพิมพ์ประกาศ",
+      "claim": "23 ต.ค. 2569 รอบ 24 เวลา 16:42 น. ทองแท่ง 96.5% รับซื้อ 64,150 บาท ขายออก 64,350 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-23T11:03:40Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-23oct-r24",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "ตารางปรับเปลี่ยนระหว่างวัน",
+      "claim": "ตารางระหว่างวันแสดงรอบ 1 ถึง 24; รอบ 24 เวลา 16:42 น. มีคู่ราคาทองแท่ง 64,150/64,350 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-23T11:03:40Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-23oct-r24",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://sideb.goldtraders.or.th/",
+      "title": "หน้าแสดงราคาอ้างอิง",
+      "claim": "หน้าแสดงราคาของสมาคมฯ แสดง 23 ต.ค. รอบ 24 เวลา 16:42 น. คู่ราคาทองแท่ง 64,150/64,350 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-23T11:03:40Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-tax-23oct-r22",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://sideb.goldtraders.or.th/TaxArchiveList_Print.aspx?smonth=10&syear=2569",
+      "title": "คลังข้อมูลภาษี",
+      "claim": "คลังข้อมูลภาษีแสดงถึงรอบ 22 ขณะตรวจ แม้คู่ราคาทองแท่งตรงกับรอบ 24 จึงไม่ใช้เลขราคาอย่างเดียวตัดสินความสด",
+      "accessed_at": "2026-10-23T11:03:40Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-classic-23oct-r4",
       "source_type": "สมาคมค้าทองคำ",
       "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
