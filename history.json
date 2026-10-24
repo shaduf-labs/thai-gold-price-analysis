@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-bb4dc23125c35d98e27db801",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-24T03:00:00Z",
+      "completed_at": "2026-10-24T03:04:00Z",
+      "title": "24 ต.ค. รอบ 1: ทองแท่งขายออก 64,100 บาท ต่ำกว่ารอบที่ตรวจเมื่อวาน 250 บาท",
+      "summary": "รอบ 1 เวลา 09:03 น. ทองแท่ง 96.5% รับซื้อ 63,900 บาท ขายออก 64,100 บาทต่อบาททองคำ; ต่ำกว่ารอบที่ตรวจ 23 ต.ค. ฝั่งละ 250 บาท ไม่ใช่ยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261024-1002-r1.html",
+      "entrypoint": "reports/20261024-1002-r1.html"
+    },
+    {
       "run_id": "report-15a52698f4afef5b1a8d2df1",
       "status": "completed",
       "answer_change": "meaningful_change",

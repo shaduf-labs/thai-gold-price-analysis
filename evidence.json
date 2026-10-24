@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-classic-home-24oct-r1",
+      "source_type": "official Association page",
+      "source_url": "https://classic.goldtraders.or.th/default.aspx",
+      "title": "หน้าแรกสมาคมค้าทองคำ",
+      "claim": "24 ต.ค. 2569 เวลา 09:03 น. รอบ 1: ทองแท่ง 96.5% รับซื้อ 63,900 บาท ขายออก 64,100 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-24T03:02:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-rounds-24oct-r1",
+      "source_type": "official Association page",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "ตารางการปรับเปลี่ยนระหว่างวัน",
+      "claim": "24 ต.ค. รอบ 1 เวลา 09:03 น. ทองแท่งรับซื้อ 63,900 บาท ขายออก 64,100 บาท และแสดงการเปลี่ยน -250 บาท",
+      "accessed_at": "2026-10-24T03:02:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-print-24oct-r1",
+      "source_type": "official Association page",
+      "source_url": "https://classic.goldtraders.or.th/DailyPrices_Print.aspx?as=24%2F10%2F2569+0%3A00%3A00",
+      "title": "หน้าพิมพ์ราคาประจำวัน",
+      "claim": "24 ต.ค. ทองแท่ง 96.5% รับซื้อ 63,900 บาท ขายออก 64,100 บาท; ทองรูปพรรณ 96.5% ฐานรับซื้อ 62,625.96 บาท ขายออก 64,900 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-24T03:02:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-daily-24oct-r1",
+      "source_type": "official Association page",
+      "source_url": "https://sideb.goldtraders.or.th/DailyPrices.aspx",
+      "title": "ราคาประจำวันสมาคมฯ",
+      "claim": "24 ต.ค. แสดงคู่ราคา 63,900/64,100 บาทต่อบาททองคำ แต่ข้อความที่ตรวจไม่ระบุเวลารอบ",
+      "accessed_at": "2026-10-24T03:02:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-newgta-print-23oct-r24",
       "source_type": "สมาคมค้าทองคำ",
       "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
