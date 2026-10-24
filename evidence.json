@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-print-24oct-evening-r1",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
+      "title": "หน้าพิมพ์ราคาประจำวัน",
+      "claim": "24 ต.ค. 2569 รอบ 1 เวลา 09:03 น. ทองคำแท่ง 96.5% รับซื้อ 63,900 บาท ขายออก 64,100 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-24T11:05:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-24oct-evening-r1",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "ตารางการปรับเปลี่ยนระหว่างวัน",
+      "claim": "ที่เวลาตรวจ 18:05 น. ตารางแสดง 24 ต.ค. รอบ 1 เวลา 09:03 น. โดยไม่เห็นรอบต่อมาในหน้านี้",
+      "accessed_at": "2026-10-24T11:05:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-tax-24oct-evening-r1",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://sideb.goldtraders.or.th/TaxArchiveList_Print.aspx?smonth=10&syear=2569",
+      "title": "คลังข้อมูลเพื่อคำนวณภาษี",
+      "claim": "คลังข้อมูลที่ตรวจแสดง 24 ต.ค. รอบ 1 คู่ราคา 63,900/64,100 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-24T11:05:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-weekend-notice-24oct-evening",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://gtadmin.goldtraders.or.th/weekend-gold-price-announcement-25-july-2026/",
+      "title": "ประกาศเรื่องราคาอ้างอิงวันหยุด",
+      "claim": "สมาคมฯ ระบุว่าการประกาศราคาอ้างอิงวันหยุดไม่บังคับให้ร้านทองทุกแห่งเปิดบริการ",
+      "accessed_at": "2026-10-24T11:05:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-classic-home-24oct-r1",
       "source_type": "official Association page",
       "source_url": "https://classic.goldtraders.or.th/default.aspx",

@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-73b07456652b3d8516427547",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-24T11:00:00Z",
+      "completed_at": "2026-10-24T11:06:53Z",
+      "title": "24 ต.ค. เวลา 18:05 น.: ยังเห็นรอบ 1 ราคา 63,900/64,100 บาท",
+      "summary": "ตรวจสามหน้าสมาคมฯ เวลา 18:05 น. ยังเห็นรอบ 1 เวลา 09:03 น. อายุประมาณ 9 ชั่วโมง 2 นาที; ไม่ยืนยันราคาปิดหรือยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261024-1805-r1.html",
+      "entrypoint": "reports/20261024-1805-r1.html"
+    },
+    {
       "run_id": "report-bb4dc23125c35d98e27db801",
       "status": "completed",
       "answer_change": "meaningful_change",
