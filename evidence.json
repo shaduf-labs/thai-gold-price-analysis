@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-print-25oct-r1",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
+      "title": "หน้าพิมพ์ราคาประจำวัน",
+      "claim": "25 ต.ค. 2569 รอบ 1 เวลา 09:00 น. ทองแท่ง 96.5% รับซื้อ 63,900 บาท ขายออก 64,100 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-25T03:04:11Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-rounds-25oct-r1",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "ตารางการปรับเปลี่ยนระหว่างวัน",
+      "claim": "ที่เวลาตรวจ 10:04 น. ตารางแสดง 25 ต.ค. รอบ 1 เวลา 09:00 น. คู่ราคา 63,900/64,100 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-25T03:04:11Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-weekend-25oct",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://gtadmin.goldtraders.or.th/weekend-gold-price-announcement-25-july-2026/",
+      "title": "ประกาศการแจ้งราคาในวันหยุด",
+      "claim": "การมีราคาอ้างอิงวันเสาร์–อาทิตย์ไม่ได้กำหนดให้ร้านทองทุกแห่งเปิด",
+      "accessed_at": "2026-10-25T03:04:11Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-print-24oct-evening-r1",
       "source_type": "สมาคมค้าทองคำ",
       "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
