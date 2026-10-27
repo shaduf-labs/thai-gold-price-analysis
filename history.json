@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-b7c57f6d942d187585c6d8a2",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-27T11:00:00Z",
+      "completed_at": "2026-10-27T11:24:30Z",
+      "title": "27 ต.ค. รอบ 15: ทองแท่ง 63,800/64,000 บาท ต่ำกว่ารอบเปิด 150 บาท",
+      "summary": "ตรวจ 18:22 น. รอบ 15 เวลา 16:09 น. ทองแท่ง 96.5% รับซื้อ 63,800 บาท ขายออก 64,000 บาทต่อบาททองคำ; ไม่ยืนยันราคาปิดหรือยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261027-1822-r15.html",
+      "entrypoint": "reports/20261027-1822-r15.html"
+    },
+    {
       "run_id": "report-b3e78a2030f4f13fc349f2cc",
       "status": "completed",
       "answer_change": "meaningful_change",
