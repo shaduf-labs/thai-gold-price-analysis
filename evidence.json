@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-print-28oct-r11",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "ราคาทองตามประกาศและบันทึกระหว่างวัน",
+      "claim": "28 ต.ค. 2569 รอบ 11 เวลา 15:45 น. ทองแท่ง 96.5% รับซื้อ 64,600 บาท ขายออก 64,800 บาทต่อบาททองคำ; รอบเปิด 64,700/64,900 บาท และรอบ 7 64,350/64,550 บาท",
+      "accessed_at": "2026-10-28T11:07:10Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-28oct-r11",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "ตารางการปรับเปลี่ยนระหว่างวัน",
+      "claim": "28 ต.ค. 2569 แสดงรอบ 11 เวลา 15:45 น. พร้อมรอบก่อนหน้า ตรงกับหน้าพิมพ์; ทั้งสองหน้าอาจใช้ข้อมูลชุดเดียวกัน",
+      "accessed_at": "2026-10-28T11:07:10Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-tax-28oct-r11",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://noclassic.goldtraders.or.th/TaxArchiveList_Print.aspx?smonth=10&syear=2569",
+      "title": "คลังราคาสำหรับคำนวณภาษี",
+      "claim": "28 ต.ค. 2569 แสดงรอบ 11 รับซื้อทองแท่ง 64,600 บาท ขายออก 64,800 บาทต่อบาททองคำ โดยไม่ระบุเวลารอบ",
+      "accessed_at": "2026-10-28T11:07:10Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-print-28oct-r2",
       "source_type": "สมาคมค้าทองคำ",
       "source_url": "https://www.goldtraders.or.th/dailyprices_print",

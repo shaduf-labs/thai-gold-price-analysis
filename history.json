@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-8de9ca09dca0ff0da7fee37b",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-28T11:00:00Z",
+      "completed_at": "2026-10-28T11:09:02Z",
+      "title": "28 ต.ค. รอบ 11: ทองแท่ง 64,600/64,800 บาท หลังลงแล้วขึ้นระหว่างวัน",
+      "summary": "ตรวจ 18:07 น. รอบ 11 เวลา 15:45 น. ทองแท่ง 96.5% รับซื้อ 64,600 บาท ขายออก 64,800 บาทต่อบาททองคำ; ไม่ยืนยันราคาปิดหรือยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261028-1807-r11.html",
+      "entrypoint": "reports/20261028-1807-r11.html"
+    },
+    {
       "run_id": "report-a2d46df3cc09082a70bdcf7d",
       "status": "completed",
       "answer_change": "meaningful_change",
