@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-a2d46df3cc09082a70bdcf7d",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-28T03:00:00Z",
+      "completed_at": "2026-10-28T03:06:19Z",
+      "title": "28 ต.ค. รอบ 2: ทองแท่ง 64,650/64,850 บาท ต่ำกว่ารอบเปิด 50 บาท",
+      "summary": "ตรวจ 10:04 น. รอบ 2 เวลา 09:13 น. ทองแท่ง 96.5% รับซื้อ 64,650 บาท ขายออก 64,850 บาทต่อบาททองคำ; ไม่ใช่ราคาสดหรือยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261028-1004-r2.html",
+      "entrypoint": "reports/20261028-1004-r2.html"
+    },
+    {
       "run_id": "report-b7c57f6d942d187585c6d8a2",
       "status": "completed",
       "answer_change": "meaningful_change",

@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-print-28oct-r2",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "ราคาทองตามประกาศและบันทึกระหว่างวัน",
+      "claim": "28 ต.ค. 2569 รอบ 2 เวลา 09:13 น. ทองแท่ง 96.5% รับซื้อ 64,650 บาท ขายออก 64,850 บาทต่อบาททองคำ; รอบเปิด 09:02 น. รับซื้อ 64,700 บาท ขายออก 64,900 บาท",
+      "accessed_at": "2026-10-28T03:04:13Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-28oct-r2",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "ตารางการปรับเปลี่ยนระหว่างวัน",
+      "claim": "28 ต.ค. 2569 แสดงรอบ 1 และรอบ 2 ตรงกับหน้าพิมพ์ของสมาคมฯ; ทั้งสองหน้าอาจใช้ข้อมูลชุดเดียวกัน",
+      "accessed_at": "2026-10-28T03:04:13Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-classic-27oct-r15",
       "source_type": "สมาคมค้าทองคำ",
       "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
