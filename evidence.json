@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-print-29oct-r2",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "ราคาทองตามประกาศและบันทึกระหว่างวัน",
+      "claim": "29 ต.ค. 2569 รอบ 1 เวลา 09:04 น. ทองแท่ง 64,600/64,800 บาท; รอบ 2 เวลา 09:33 น. 64,400/64,600 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-29T03:22:24Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-29oct-r2",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "ตารางการปรับเปลี่ยนระหว่างวัน",
+      "claim": "29 ต.ค. 2569 แสดงรอบ 1 และ 2 พร้อมเวลาและราคาแท่งตรงกับหน้าพิมพ์; ข้อมูลอาจมาจากชุดเดียวกัน",
+      "accessed_at": "2026-10-29T03:22:24Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-tax-29oct-r2",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://sideb.goldtraders.or.th/TaxArchiveList_Print.aspx?smonth=10&syear=2569",
+      "title": "คลังราคาสำหรับภาษี",
+      "claim": "29 ต.ค. 2569 แสดงรอบ 1 และ 2 พร้อมราคาแท่ง แต่ไม่แสดงเวลาของแต่ละรอบ",
+      "accessed_at": "2026-10-29T03:22:24Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-print-28oct-r11",
       "source_type": "สมาคมค้าทองคำ",
       "source_url": "https://www.goldtraders.or.th/dailyprices_print",

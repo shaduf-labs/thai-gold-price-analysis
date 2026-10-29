@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-35a813f6f5f38e3bd17b6546",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-29T03:18:00Z",
+      "completed_at": "2026-10-29T03:24:21Z",
+      "title": "29 ต.ค. รอบ 2: ทองแท่งรับซื้อ 64,400 ขายออก 64,600 บาท",
+      "summary": "ตรวจ 10:22 น. รอบ 2 เวลา 09:33 น. ต่ำกว่ารอบเปิดฝั่งละ 200 บาทต่อบาททองคำ; เป็นราคาอ้างอิง ไม่ใช่ยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261029-1022-r2.html",
+      "entrypoint": "reports/20261029-1022-r2.html"
+    },
+    {
       "run_id": "report-8de9ca09dca0ff0da7fee37b",
       "status": "completed",
       "answer_change": "meaningful_change",
