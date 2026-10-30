@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:infoquest-30oct-r1",
+      "source_type": "ข่าวการเงิน",
+      "source_url": "https://www.infoquest.co.th/2026/671415",
+      "title": "อินโฟเควสท์: ราคาทองคำแท่งวันนี้",
+      "claim": "ข่าวรายงานประกาศสมาคมฯ 30 ต.ค. 2569 รอบ 1 เวลา 09:02 น. ทองแท่ง 96.5% รับซื้อ 63,800 บาท ขายออก 64,000 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-30T03:03:29Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:soonthan-30oct-r1",
+      "source_type": "ตารางราคาของห้างทอง",
+      "source_url": "https://www.soonthan.com/gold-price/2026-10",
+      "title": "ห้างทองนายซุ่นแถ่น: ราคาย้อนหลังเดือนตุลาคม",
+      "claim": "ตารางแสดง 30 ต.ค. 2569 เวลา 09:02 น. รอบ 1 ทองแท่ง 96.5% 63,800/64,000 บาทต่อบาททองคำ; แหล่งรองนี้สอดคล้องกับข่าว",
+      "accessed_at": "2026-10-30T03:03:29Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-archive-30oct-check",
+      "source_type": "คลังราคาสมาคมค้าทองคำ",
+      "source_url": "https://sideb.goldtraders.or.th/TaxArchiveList_Print.aspx?smonth=10&syear=2569",
+      "title": "คลังราคาสำหรับภาษี",
+      "claim": "ขณะตรวจ 30 ต.ค. เวลา 10:03 น. คลังที่เข้าถึงได้ยังแสดงแถวใหม่สุดเป็น 29 ต.ค. รอบ 15; จึงยังยืนยันประกาศวันที่ 30 ต.ค. จากแหล่งปฐมภูมิโดยตรงไม่ได้",
+      "accessed_at": "2026-10-30T03:03:29Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-sideb-29oct-r15",
       "source_type": "สมาคมค้าทองคำ",
       "source_url": "https://sideb.goldtraders.or.th/UpdatePriceList.aspx",

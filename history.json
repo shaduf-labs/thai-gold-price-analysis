@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-f377d6f9249934b1e74bc593",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-30T03:00:00Z",
+      "completed_at": "2026-10-30T03:06:11Z",
+      "title": "30 ต.ค. รอบ 1: ข่าวรายงานทองแท่งขายออก 64,000 บาท ยังไม่ยืนยันหน้าสมาคมฯ",
+      "summary": "ข่าวอินโฟเควสท์และตารางห้างทองแสดงรอบ 09:02 น. ที่ 63,800/64,000 บาทต่อบาททองคำ; คลังสมาคมฯ ที่เข้าถึงได้ยังอยู่วันที่ 29 ต.ค. จึงระบุเป็นข้อมูลแหล่งรอง ไม่ใช่ราคาสดหรือยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261030-1003-r1.html",
+      "entrypoint": "reports/20261030-1003-r1.html"
+    },
+    {
       "run_id": "report-e95d16a1f988bce9771a8ea8",
       "status": "completed",
       "answer_change": "meaningful_change",
