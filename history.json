@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-e95d16a1f988bce9771a8ea8",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-29T11:00:00Z",
+      "completed_at": "2026-10-29T11:06:02Z",
+      "title": "29 ต.ค. รอบ 15 ทองแท่งขายออก 64,400 บาท ต่ำกว่ารอบเปิด 400 บาท",
+      "summary": "ตารางสมาคมฯ แสดงรอบ 15 เวลา 16:38 น. ที่ 64,200/64,400 บาทต่อบาททองคำ ขณะที่หน้าแรกอีกเส้นทางยังอยู่รอบ 2; ไม่ยืนยันราคาปิดหรือยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261029-1803-r15.html",
+      "entrypoint": "reports/20261029-1803-r15.html"
+    },
+    {
       "run_id": "report-35a813f6f5f38e3bd17b6546",
       "status": "completed",
       "answer_change": "meaningful_change",
