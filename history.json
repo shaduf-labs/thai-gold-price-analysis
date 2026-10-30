@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-45f306aa05e12772b1408775",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-30T11:00:00Z",
+      "completed_at": "2026-10-30T11:05:20Z",
+      "title": "30 ต.ค. รอบ 27: ทองแท่งขายออก 63,750 บาท ต่ำกว่ารอบเปิด 250 บาท",
+      "summary": "สมาคมค้าทองคำแสดงรอบ 15:49 น. ทองแท่ง 96.5% รับซื้อ 63,550 บาท ขายออก 63,750 บาทต่อบาททองคำ; ไม่ยืนยันราคาปิดหรือยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261030-1803-r27.html",
+      "entrypoint": "reports/20261030-1803-r27.html"
+    },
+    {
       "run_id": "report-f377d6f9249934b1e74bc593",
       "status": "completed",
       "answer_change": "meaningful_change",
