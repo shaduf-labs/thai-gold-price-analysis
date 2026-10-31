@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-6e77c81dde0ded2a17d4e852",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-31T11:00:00Z",
+      "completed_at": "2026-10-31T11:06:53Z",
+      "title": "18:04 น. ยังเห็นทองแท่งรอบ 09:12 น. ราคา 62,000/62,200 บาท",
+      "summary": "สมาคมฯ ยังแสดงรอบ 1 ของ 31 ต.ค. อายุ 8 ชั่วโมง 52 นาทีขณะตรวจ ไม่ใช่ราคาสดหรือยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261031-1804-r1.html",
+      "entrypoint": "reports/20261031-1804-r1.html"
+    },
+    {
       "run_id": "report-eee2b4b576b4aca3eac8a21d",
       "status": "completed",
       "answer_change": "meaningful_change",

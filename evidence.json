@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-print-31oct-evening",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "หน้าพิมพ์ราคาทองตามประกาศและบันทึกระหว่างวัน",
+      "claim": "31 ต.ค. 2569 เวลา 18:04 น. ยังแสดงรอบ 1 เวลา 09:12 น. ทองแท่ง 96.5% รับซื้อ 62,000 บาท ขายออก 62,200 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-31T11:04:12Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-31oct-evening",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://classic.goldtraders.or.th/default2.aspx",
+      "title": "หน้าแรกสมาคมค้าทองคำ",
+      "claim": "31 ต.ค. 2569 เวลา 18:04 น. ยังแสดงรอบ 1 เวลา 09:12 น. ทองแท่ง 96.5% รับซื้อ 62,000 บาท ขายออก 62,200 บาทต่อบาททองคำ",
+      "accessed_at": "2026-10-31T11:04:12Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-www-31oct-r1",
       "source_type": "สมาคมค้าทองคำ",
       "source_url": "https://www.goldtraders.or.th/dailyprices_print",
