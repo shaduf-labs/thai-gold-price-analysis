@@ -2,6 +2,46 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-classic-3nov-0049",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://classic.goldtraders.or.th/default2.aspx",
+      "title": "ราคาทองตามประกาศสมาคมค้าทองคำ",
+      "claim": "ตรวจ 3 พ.ย. 2569 เวลา 00:49 น. ยังแสดงประกาศ 2 พ.ย. รอบ 25 เวลา 15:59 น. ทองแท่ง 96.5% รับซื้อ 62,200 บาท ขายออก 62,400 บาทต่อบาททองคำ",
+      "accessed_at": "2026-11-02T17:49:09Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-2nov-r25",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://classic.goldtraders.or.th/default2.aspx",
+      "title": "ราคาทองตามประกาศสมาคมค้าทองคำ",
+      "claim": "2 พ.ย. 2569 รอบ 25 เวลา 15:59 น. ทองแท่ง 96.5% รับซื้อ 62,200 บาท ขายออก 62,400 บาทต่อบาททองคำ",
+      "accessed_at": "2026-11-02T12:35:17Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-rounds-2nov-r25",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://classic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "ราคาทองตามประกาศสมาคมค้าทองคำ",
+      "claim": "2 พ.ย. 2569 รอบ 25 เวลา 15:59 น. ทองแท่ง 96.5% รับซื้อ 62,200 บาท ขายออก 62,400 บาทต่อบาททองคำ",
+      "accessed_at": "2026-11-02T12:35:17Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-daily-2nov-r25",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://classic.goldtraders.or.th/DailyPrices.aspx",
+      "title": "ราคาทองตามประกาศสมาคมค้าทองคำ",
+      "claim": "ตารางรายวันแสดงทองแท่ง 96.5% รับซื้อ 62,200 บาท ขายออก 62,400 บาทต่อบาททองคำ",
+      "accessed_at": "2026-11-02T12:35:17Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-print-31oct-evening",
       "source_type": "สมาคมค้าทองคำ",
       "source_url": "https://www.goldtraders.or.th/dailyprices_print",
