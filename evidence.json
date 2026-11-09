@@ -2,6 +2,16 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-print-9nov-r15",
+      "source_type": "สมาคมค้าทองคำ",
+      "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
+      "title": "หน้าพิมพ์ราคาทองและบันทึกระหว่างวัน",
+      "claim": "9 พ.ย. 2569 รอบ 15 เวลา 14:13 น. ทองแท่ง 96.5% รับซื้อ 64,900 บาท ขายออก 65,100 บาทต่อบาททองคำ; รอบ 1 เวลา 09:02 น. ขายออก 65,450 บาท",
+      "accessed_at": "2026-11-09T07:27:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-classic-3nov-0049",
       "source_type": "สมาคมค้าทองคำ",
       "source_url": "https://classic.goldtraders.or.th/default2.aspx",

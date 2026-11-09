@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-aac941e6227531d21ccd2ab7",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-11-09T07:25:00Z",
+      "completed_at": "2026-11-09T07:31:23Z",
+      "title": "9 พ.ย. รอบ 15: ทองแท่งขายออก 65,100 บาท ต่ำกว่ารอบเปิด 350 บาท",
+      "summary": "ตรวจ 14:27 น. สมาคมค้าทองคำแสดงรอบ 15 เวลา 14:13 น. ทองแท่งรับซื้อ 64,900 บาท ขายออก 65,100 บาทต่อบาททองคำ ไม่ใช่ราคาปิดหรือยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261109-1427-r15.html",
+      "entrypoint": "reports/20261109-1427-r15.html"
+    },
+    {
       "run_id": "report-aa1125a6fc242730a5d4e7d4",
       "status": "completed",
       "answer_change": "no_meaningful_change",
