@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-3654e5c9882079211b4b6a28",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-11-09T12:25:00Z",
+      "completed_at": "2026-11-09T12:29:00Z",
+      "title": "รอบ 23 ทองแท่งขายออก 65,100 บาท หลังแตะ 64,950 บาท",
+      "summary": "ข้อความสมาคมฯ ในดัชนีค้นหาแสดงรอบ 17:02 น. ราคาเท่ารอบ 15 แต่สูงกว่ารอบ 18 อยู่ 150 บาท; ข่าวรองรายงานตัวเลขตรงกัน ต้นฉบับเปิดตรงไม่ได้ขณะตรวจ",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261109-1926-r23.html",
+      "entrypoint": "reports/20261109-1926-r23.html"
+    },
+    {
       "run_id": "report-aac941e6227531d21ccd2ab7",
       "status": "completed",
       "answer_change": "meaningful_change",

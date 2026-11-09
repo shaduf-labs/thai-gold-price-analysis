@@ -2,6 +2,26 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-index-9nov-r23",
+      "source_type": "ข้อความหน้าพิมพ์สมาคมค้าทองคำในดัชนีค้นหา",
+      "source_url": "https://www.goldtraders.or.th/dailyprices_print",
+      "title": "ราคาทองตามประกาศ 9 พ.ย. 2569",
+      "claim": "ดัชนีค้นหาแสดงรอบ 23 เวลา 17:02 น. ทองแท่ง 96.5% รับซื้อ 64,900 บาท ขายออก 65,100 บาทต่อบาททองคำ; เปิดหน้าต้นฉบับตรงไม่ได้ขณะตรวจ",
+      "accessed_at": "2026-11-09T12:26:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:siamnews-9nov-r23",
+      "source_type": "ข่าวรอง",
+      "source_url": "https://www.siamnews.com/news/economy/57011",
+      "title": "สยามนิวส์: ประกาศครั้งที่ 23",
+      "claim": "ข่าวรายงานรอบ 23 เวลา 17:02 น. ทองแท่งรับซื้อ 64,900 บาท ขายออก 65,100 บาทต่อบาททองคำ",
+      "accessed_at": "2026-11-09T12:26:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-print-9nov-r15",
       "source_type": "สมาคมค้าทองคำ",
       "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
