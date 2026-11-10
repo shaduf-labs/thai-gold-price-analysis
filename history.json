@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-8568cae60b3634f1cce95531",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-11-10T03:00:00Z",
+      "completed_at": "2026-11-10T03:06:45Z",
+      "title": "10 พ.ย. รอบ 3: ทองแท่งขายออก 65,150 บาท ต่ำกว่ารอบเปิด 100 บาท",
+      "summary": "หน้าพิมพ์สมาคมฯ แสดงรอบ 09:49 น. ที่ 64,950/65,150 บาทต่อบาททองคำ; หน้ารายวันอีกเส้นทางยังแสดงราคาเท่ารอบ 1 ขณะตรวจ ไม่ใช่ยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261110-1003-r3.html",
+      "entrypoint": "reports/20261110-1003-r3.html"
+    },
+    {
       "run_id": "report-3654e5c9882079211b4b6a28",
       "status": "completed",
       "answer_change": "meaningful_change",
