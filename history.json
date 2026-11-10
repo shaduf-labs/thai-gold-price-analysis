@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-a6afe6bb172a06a7fbca4f18",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-11-10T11:00:00Z",
+      "completed_at": "2026-11-10T11:10:20Z",
+      "title": "10 พ.ย. รอบ 19: ทองแท่งขายออก 64,650 บาท ต่ำกว่ารอบเปิด 600 บาท",
+      "summary": "หน้าพิมพ์สมาคมค้าทองคำแสดงรอบ 19 เวลา 17:21 น. ทองแท่ง 96.5% รับซื้อ 64,450 บาท ขายออก 64,650 บาทต่อ 1 บาททองคำ ต่ำกว่ารอบเปิดฝั่งละ 600 บาท ไม่ใช่ยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261110-1808-r19.html",
+      "entrypoint": "reports/20261110-1808-r19.html"
+    },
+    {
       "run_id": "report-8568cae60b3634f1cce95531",
       "status": "completed",
       "answer_change": "meaningful_change",
