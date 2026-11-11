@@ -2,6 +2,36 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "evidence_id": "evidence:gta-newgta-11nov-r3",
+      "source_type": "หน้าพิมพ์สมาคมค้าทองคำ",
+      "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",
+      "title": "ประกาศราคาและบันทึกรอบ 11 พ.ย. 2569",
+      "claim": "รอบ 3 เวลา 09:35 น. ทองแท่ง 96.5% รับซื้อ 64,150 บาท ขายออก 64,350 บาทต่อบาททองคำ; รอบ 2 อยู่ที่ 64,100/64,300 บาท",
+      "accessed_at": "2026-11-11T03:05:15Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-classic-rounds-11nov-r3",
+      "source_type": "ตารางระหว่างวันสมาคมค้าทองคำ",
+      "source_url": "https://noclassic.goldtraders.or.th/UpdatePriceList.aspx",
+      "title": "รอบ 1–3 ของ 11 พ.ย. 2569",
+      "claim": "รอบ 1 เวลา 09:05 น. อยู่ที่ 64,150/64,350 บาท; รอบ 2 เวลา 09:18 น. อยู่ที่ 64,100/64,300 บาท; รอบ 3 เวลา 09:35 น. อยู่ที่ 64,150/64,350 บาท",
+      "accessed_at": "2026-11-11T03:05:15Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gta-sideb-11nov-r3",
+      "source_type": "หน้ารายวันสมาคมค้าทองคำอีกเส้นทาง",
+      "source_url": "https://sideb.goldtraders.or.th/DailyPrices.aspx",
+      "title": "ราคาอ้างอิง 11 พ.ย. 2569",
+      "claim": "แสดงราคาแท่ง 64,150/64,350 บาทขณะตรวจ แต่ไม่มีเวลาและเลขรอบบนหน้านี้",
+      "accessed_at": "2026-11-11T03:05:15Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
       "evidence_id": "evidence:gta-newgta-10nov-r19",
       "source_type": "หน้าพิมพ์สมาคมค้าทองคำ",
       "source_url": "https://newgta.goldtraders.or.th/dailyprices_print",

@@ -2,6 +2,17 @@
   "schema_version": "1.0.0",
   "runs": [
     {
+      "run_id": "report-e4c2a03003465a346dfb15f6",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-11-11T03:00:00Z",
+      "completed_at": "2026-11-11T03:07:41Z",
+      "title": "11 พ.ย. รอบ 3: ทองแท่งขายออก 64,350 บาท ต่ำกว่ารอบที่ตรวจเมื่อวาน 300 บาท",
+      "summary": "สมาคมค้าทองคำแสดงรอบ 3 เวลา 09:35 น. ทองแท่งรับซื้อ 64,150 บาท ขายออก 64,350 บาทต่อบาททองคำ ต่ำกว่ารอบ 19 ของ 10 พ.ย. ฝั่งละ 300 บาท ไม่ใช่ยอดสุทธิร้าน",
+      "report_path": "/p/thai-gold-price-analysis/reports/20261111-1005-r3.html",
+      "entrypoint": "reports/20261111-1005-r3.html"
+    },
+    {
       "run_id": "report-a6afe6bb172a06a7fbca4f18",
       "status": "completed",
       "answer_change": "meaningful_change",
